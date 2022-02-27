@@ -332,6 +332,33 @@ https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2018/art_714cf34f61844ea9a0bff7bc8082b
 ### 网络安全    ——    网络安全信息与动态 
 https://www.miit.gov.cn/gxsj/tjfx/wlaq/index.html
 
+### 工信部——统一检索平台
+- 站内搜索——十四五发展规划通知
+https://www.miit.gov.cn/search/index.html?websiteid=110000000000000&pg=&p=&tpl=&category=&q=%E5%8D%81%E5%9B%9B%E4%BA%94&jsflIndexSeleted=
+
+- 工业和信息化部关于印发“十四五”软件和信息技术服务业发展规划的通知
+https://www.miit.gov.cn/jgsj/xxjsfzs/rjcy/art/2021/art_f99d51c91a684c1685db14f041af9bf3.html
+- 工业和信息化部关于印发“十四五”信息化和工业化深度融合发展规划的通知
+https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_117ccbb3dd4f4a27b21d988fbaa8b625.html
+- 关于印发“十四五”智能制造发展规划的通知
+https://www.miit.gov.cn/jgsj/zbys/znzz/art/2021/art_c6aa629b6f124ec7bd44940b6cffb3ef.html
+- 工业和信息化部关于印发《“十四五”工业绿色发展规划》的通知
+https://www.miit.gov.cn/jgsj/jns/wjfb/art/2021/art_2735a1da5a5347c5bb4e7ac765f62bd7.html-
+- 关于印发“十四五”机器人产业发展规划的通知
+https://www.miit.gov.cn/ztzl/rdzt/znzzxggz/wjfb/art/2021/art_22606018dd934f9d9790998be974ecbb.html
+- 工业和信息化部关于印发“十四五”大数据产业发展规划的通知.html
+https://www.miit.gov.cn/jgsj/xxjsfzs/wjfb/art/2021/art_a7a3ea67af254d13a6a07d5a098e727f.html
+- 工业和信息化部关于印发“十四五”信息通信行业发展规划的通知
+https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_3a0b0c726bd94b7d9b5092770d581c73.html
+- 三部委关于印发“十四五”原材料工业发展规划的通知
+https://ythxxfb.miit.gov.cn/ythzxfwpt/hlwmh/tzgg/sbfw/jcxy/art/2022/art_aeea845f872547198f1c2cbd5ba39888.html
+- 九部门关于印发“十四五”医药工业发展规划的通知
+https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2022/art_1bc9be0101bb4c6d902f3e5904780119.html
+- 关于印发“十四五”医疗装备产业发展规划的通知
+https://www.miit.gov.cn/jgsj/zbys/wjfb/art/2021/art_9dcd306998e04fa7945b401950eaf801.html
+- 关于印发“十四五”促进中小企业发展规划的通知
+https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_bed2939fdf834bb7872f3aaaf29673ed.html
+
 ## 中国政府网 :+1::+1::+1:
 http://www.gov.cn/shuju/index.htm
 - 站内搜索——“十四五通知”
