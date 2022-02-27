@@ -374,3 +374,9 @@ http://www.gov.cn/zhengce/content/2022-02/14/content_5673424.htm
 http://www.gov.cn/zhengce/content/2022-01/27/content_5670717.htm
 - 国务院关于印发“十四五”推进农业农村现代化规划的通知	2022.02.11
 http://www.gov.cn/zhengce/content/2022-02/11/content_5673082.htm
+
+- 2021年中国经济
+http://www.gov.cn/xinwen/2022-01/17/5668782/images/f3f166e7ad574a3c80231af60755a393.jpg
+- 2021年《政府工作报告》
+http://www.gov.cn/xinwen/2021-03/19/content_5590441.htm
+
