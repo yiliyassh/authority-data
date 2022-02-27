@@ -4,20 +4,20 @@
 
 # 官方权威统计数据（持续更新：2022-2-22）
 
-## 中国统计年鉴 :+1::+1::+1:
+## 1.中国统计年鉴 :+1::+1::+1:
 http://www.stats.gov.cn/tjsj/ndsj/
 #### 中文版：1999~2020年，22年官方权威数据
 #### 英文版：2004~2020年，17年官方权威数据
 
-## 全国年度统计公报 :+1::+1::+1:
+## 2.全国年度统计公报 :+1::+1::+1:
 http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/
 #### 1978~2020年，42年官方权威数据。
 
-## 中国互联网络发展状况调查统计报告 :+1::+1::+1:
+## 3.中国互联网络发展状况调查统计报告 :+1::+1::+1:
 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm
 #### 1998~2021年，24年官方权威数据。
 
-## 工信数据（工业和信息化部）统计分析数据 :+1::+1::+1:
+## 4.工信数据（工业和信息化部）统计分析数据 :+1::+1::+1:
 https://www.miit.gov.cn/gxsj/index.html
 
 ### 原材料工业    ——   钢铁 有色 石化化工 建材 稀土 
@@ -44,32 +44,8 @@ https://www.miit.gov.cn/gxsj/tjfx/hlw/index.html
 ### 网络安全    ——    网络安全信息与动态 
 https://www.miit.gov.cn/gxsj/tjfx/wlaq/index.html
 
-## 工信数据（工业和信息化部）统计分析数据 :+1::+1::+1:
-https://www.miit.gov.cn/gxsj/index.html
-
-### 原材料工业    ——   钢铁 有色 石化化工 建材 稀土 
-https://www.miit.gov.cn/gxsj/tjfx/yclgy/index.html
-
-### 装备工业    ——    机械 汽车 民用船舶 民用航空工业 
-https://www.miit.gov.cn/gxsj/tjfx/zbgy/index.html
-
-### 消费品工业    ——    轻工 纺织 食品 家电 
-https://www.miit.gov.cn/gxsj/tjfx/xfpgy/index.html
-
-### 通信业    ——    基础电信业统计数据及运行分析 
-https://www.miit.gov.cn/gxsj/tjfx/txy/index.html
-
-### 电子信息制造业    ——    电子信息制造业统计数据及运行分析 
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/index.html
-
-### 软件业    ——    软件和信息技术服务业统计数据和运行分析 
-https://www.miit.gov.cn/gxsj/tjfx/rjy/index.html
-
-### 互联网    ——    互联网和相关服务业统计数据和运行分析 
-https://www.miit.gov.cn/gxsj/tjfx/hlw/index.html
-
-### 网络安全    ——    网络安全信息与动态 
-https://www.miit.gov.cn/gxsj/tjfx/wlaq/index.html
+## 5.中国政府网 :+1::+1::+1:
+http://www.gov.cn/shuju/index.htm
 
 ### 参考资料 :+1::+1:
 #### wget
