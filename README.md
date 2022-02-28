@@ -57,29 +57,28 @@ http://www.caict.ac.cn/kxyj/qwfb/qwsj/
 http://www.caict.ac.cn/kxyj/qwfb/ztbg/
 
 ### 参考资料 :+1::+1:
-#### wget
+- wget
 https://www.gnu.org/software/wget/
 
 https://ftp.gnu.org/gnu/wget/wget2-2.0.0.tar.gz
-#### grep
-http://www.gnu.org/software/grep/
-
-http://ftp.gnu.org/gnu/grep/grep-3.7.tar.xz
-#### awk
+- grep
+ http://www.gnu.org/software/grep/
+ 
+ http://ftp.gnu.org/gnu/grep/grep-3.7.tar.xz
+- awk
 http://www.gnu.org/software/gawk/gawk.html
 
-https://ftp.gnu.org/gnu/gawk/gawk-5.1.1.tar.xz">5.1.1
-#### sed
+https://ftp.gnu.org/gnu/gawk/gawk-5.1.1.tar.xz
+- sed
 http://www.gnu.org/software/sed/
 
 https://ftp.gnu.org/gnu/sed/sed-4.8.tar.xz
-#### xargs
+- xargs
 http://ftp.gnu.org/gnu/findutils/findutils-4.7.0.tar.xz
 
-#### |  管道
+- |  管道
 https://www.runoob.com/w3cnote/shell-scripting.html
-
-#### 正则表达式
+- 正则表达式
 https://www.runoob.com/regexp/regexp-tutorial.html
 
 ### 有用的网站  :+1:
