@@ -47,6 +47,15 @@ https://www.miit.gov.cn/gxsj/tjfx/wlaq/index.html
 ## 5.中国政府网 :+1::+1::+1:
 http://www.gov.cn/shuju/index.htm
 
+## 6. 中国信通院 :+1::+1::+1:
+http://www.caict.ac.cn/kxyj/
+### 白皮书
+http://www.caict.ac.cn/kxyj/qwfb/bps/
+### 权威数据
+http://www.caict.ac.cn/kxyj/qwfb/qwsj/
+### 专题报告
+http://www.caict.ac.cn/kxyj/qwfb/ztbg/
+
 ### 参考资料 :+1::+1:
 #### wget
 https://www.gnu.org/software/wget/
