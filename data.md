@@ -5,6 +5,7 @@ http://www.stats.gov.cn/tjsj/ndsj/
 
 ### 下载中文版统计年签 :+1::+1::+1:
 ### 2005~2021
+```
 wget http://www.stats.gov.cn/tjsj/ndsj/2021/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2021/"$2}'|grep -E '.jpg|.htm'|xargs wget 
 
 wget http://www.stats.gov.cn/tjsj/ndsj/2020/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2020/"$2}'|grep -E '.jpg|.htm'|xargs wget 
@@ -38,9 +39,11 @@ wget http://www.stats.gov.cn/tjsj/ndsj/2007/left.htm|xargs cat left.htm|grep hre
 wget http://www.stats.gov.cn/tjsj/ndsj/2006/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2006/"$2}'|grep -E '.jpg|.htm'|xargs wget 
 
 wget http://www.stats.gov.cn/tjsj/ndsj/2005/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2005/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
+```
 ### 2004
+```
 wget http://www.stats.gov.cn/tjsj/ndsj/yb2004-c/left.htm|xargs cat left.htm|grep href|grep html|awk -F '"' '{print " http://www.stats.gov.cn/tjsj/ndsj/yb2004-c/"$2}'|grep -E '.jpg|.htm'|xargs wget 
+```
 ### 2003
 http://www.stats.gov.cn/tjsj/ndsj/yearbook2003_c.pdf
 ### 2002
@@ -54,6 +57,7 @@ www.stats.gov.cn/yearbook/indexC.htm
 
 ### 下载英文版统计年签 :+1::+1::+1:
 ### 2007~2021
+```
 wget http://www.stats.gov.cn/tjsj/ndsj/2021/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2021/"$2}'|grep -E '.jpg|.htm'|xargs wget 
 
 wget http://www.stats.gov.cn/tjsj/ndsj/2020/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2020/"$2}'|grep -E '.jpg|.htm'|xargs wget 
@@ -82,9 +86,8 @@ wget http://www.stats.gov.cn/tjsj/ndsj/2009/left_.htm|xargs cat left_.htm|grep h
 
 wget http://www.stats.gov.cn/tjsj/ndsj/2008/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2008/"$2}'|grep -E '.jpg|.htm'|xargs wget 
 
-
 wget http://www.stats.gov.cn/tjsj/ndsj/2007/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2007/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
+```
 ## 全国年度统计公报 :+1::+1::+1:
 http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/
 - 2021年国民经济和社会发展统计公报
@@ -92,14 +95,21 @@ http://www.stats.gov.cn/tjsj/zxfb/202202/t20220227_1827960.html
 
 ### 下载统计公报 :+1::+1::+1:
 #### 2013~2020年
+```
 wget http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/index.html|xargs cat index.html |grep -E "t202|t201[4-9]"|grep "cont_tit"|awk -F '"' '{print "http://www.stats.gov.cn/"$2}'|xargs wget
+```
 #### 2001~2012年
+```
 wget http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/index.html|xargs cat index.html |grep -E "t201[0-3]|t200[0-9]"|grep "cont_tit"|awk -F '"' '{print "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb"$2}'|xargs wget
+```
 #### 1982~2000年
+```
 wget http://www.stats.gov.cn/tjsj/tjgb/ndtjgb./index_1.html|xargs cat index_1.html |grep "t2002"|grep "cont_tit"|awk -F '"' '{print "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb"$2}'|xargs wget
+```
 #### 1978~1981年
+```
 wget http://www.stats.gov.cn/tjsj/tjgb/ndtjgb./index_2.html|xargs cat grep "t2002" index_2.html|grep "cont_tit"|awk -F '"' '{print "http://www.stats.gov.cn/tjsj/tjgb/ndtjgb"$2}'|xargs wget
-
+```
 ## 中国互联网络发展状况统计报告 :+1::+1::+1:
 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm
 
@@ -115,33 +125,38 @@ http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm
 ### 第39次《中国互联网络发展状况统计报告》（2017年1月）http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/201701/P020170123364672657408.pdf
 ### 第38次中国互联网络发展状况统计报告       （2016年7月）http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/201608/P020160803367337470363.pdf
 #### 下载第39~48次《中国互联网络发展状况统计报告》
+```
 wget http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm|cat index.htm |grep "次"|grep pdf|awk -F "</a>" '{print $1}'|awk -F "=" '{print " http://www.cnnic.net.cn/hlwfzyj/hlwxzbg "$3}'|sed 's/target//g'|sed 's/"_blank">//g'|awk -F "'" '{print $1$2}'|sed 's/ //g'|sed 's/hlwxzbg./hlwxzbg/g'|xargs wget -c  
-
+```
 ### 第37次中国互联网络发展状况统计报告（2016年1月） http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201601/P020160122469130059846.pdf
 ### 第36次中国互联网络发展状况统计报告（2015年7月） http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/201507/P020150723549500667087.pdf
 ### 第35次中国互联网络发展状况统计报告（2015年1月） http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201502/P020150203551802054676.pdf
 ### 第34次中国互联网络发展状况统计报告（2014年7月） http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/201407/P020140721507223212132.pdf
 #### 下载第34~37次《中国互联网络发展状况统计报告》
+```
 wget http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index_1.htm|cat index_1.htm |grep "次"|grep pdf|awk -F "</a>" '{print $1}'|awk -F "=" '{print " http://www.cnnic.net.cn/hlwfzyj/hlwxzbg "$3}'|sed 's/target//g'|sed 's/"_blank">//g'|awk -F "'" '{print $1$2}'|sed 's/ //g'|sed 's/hlwxzbg./hlwxzbg/g'|xargs wget -c  
-
+```
 ### 第33次中国互联网络发展状况统计报告 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/201403/P020140305346585959798.pdf
 #### 下载第33次《中国互联网络发展状况统计报告》
+```
 wget http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index_2.htm|cat index_2.htm |grep "次"|grep pdf|awk -F "</a>" '{print $1}'|awk -F "=" '{print " http://www.cnnic.net.cn/hlwfzyj/hlwxzbg "$3}'|sed 's/target//g'|sed 's/"_blank">//g'|awk -F "'" '{print $1$2}'|sed 's/ //g'|sed 's/hlwxzbg./hlwxzbg/g'|xargs wget -c  
-
+```
 ### 第29次中国互联网络发展状况统计报告 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201201/P020120709345264469680.pdf
 ### 第28次中国互联网络发展状况统计报告 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201107/P020120709345279403991.pdf
 ### 第27次中国互联网络发展状况统计报告 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201101/P020120709345289031187.pdf
 ### 第26次中国互联网络发展状况调查统计报告h ttp://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201007/P020120709345290787849.pdf
 #### 下载第26~29次《中国互联网络发展状况统计报告》
+```
 wget http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index_3.htm|cat index_3.htm |grep "次"|grep pdf|awk -F "</a>" '{print $1}'|awk -F "=" '{print " http://www.cnnic.net.cn/hlwfzyj/hlwxzbg "$3}'|sed 's/target//g'|sed 's/"_blank">//g'|awk -F "'" '{print $1$2}'|sed 's/ //g'|sed 's/hlwxzbg./hlwxzbg/g'|xargs wget -c  
-
+```
 ### 第25次中国互联网络发展状况调查统计报告 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201001/P020120709345300487558.pdf
 ### 第24次中国互联网络发展状况调查统计报告 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/200907/P020120709345315706062.pdf
 ### 第23次中国互联网络发展状况调查统计报告http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/200906/P020120709345332767465.rar
 ### 第22次中国互联网络发展状况调查统计报告http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/200906/P020120709345337342613.doc
 #### 下载第22~25次《中国互联网络发展状况统计报告》
+```
 wget http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index_4.htm|cat index_4.htm |grep "次"|grep -E "pdf|rar|doc"|awk -F "</a>" '{print $1}'|awk -F "=" '{print " http://www.cnnic.net.cn/hlwfzyj/hlwxzbg "$3}'|sed 's/target//g'|sed 's/"_blank">//g'|awk -F "'" '{print $1$2}'|sed 's/ //g'|sed 's/hlwxzbg./hlwxzbg/g'|xargs wget -c  
-
+```
 ### 第21次中国互联网络发展状况调查统计报告 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/200906/P020120709345342042236.rar
 ### 第20次中国互联网络发展状况调查统计报告 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/200906/P020120709345348973165.doc
 ### 第19次中国互联网络发展状况调查统计报告 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/200906/P020120709345349881234.doc
@@ -157,8 +172,9 @@ wget http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index_4.htm|cat index_4.htm |grep "
 ### 第9次中国互联网络发展状况调查统计报告 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/200906/P020120709345368128648.pdf
 ### 第8次中国互联网络发展状况调查统计报告（2001年7月） http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/200906/P020120709345368965113.pdf
 #### 下载第8~21次《中国互联网络发展状况统计报告》
+```
 wget http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index_5.htm|cat index_5.htm |cat index_5.htm |grep "次"|grep -E "pdf|rar|doc"|awk -F "</a>" '{print $1}'|awk -F "=" '{print " http://www.cnnic.net.cn/hlwfzyj/hlwxzbg "$3}'|sed 's/target//g'|sed 's/"_blank">//g'|awk -F "'" '{print $1$2}'|sed 's/ //g'|sed 's/hlwxzbg./hlwxzbg/g'|xargs wget -c  
-
+```
 ### 第7次中国互联网络发展状况调查统计报告（2001年1月） http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/200906/P020120709345369819758.pdf
 ### 第6次中国互联网络发展状况调查统计报告（2000年7月） http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/200905/P020120709345370656662.pdf
 ### 第5次中国互联网络发展状况调查统计报告（2000年1月） http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/200905/P020120709345371437524.pdf
@@ -167,8 +183,9 @@ wget http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index_5.htm|cat index_5.htm |cat in
 ### 第2次中国互联网络发展状况调查统计报告（1998年7月） http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/200905/P020120709345373784718.pdf
 ### 第1次中国互联网络发展状况调查统计报告（1997年10月） http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/200905/P020120709345374625930.pdf
 #### 下载第1~7次《中国互联网络发展状况统计报告》
+```
 wget http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index_6.htm|cat index_6.htm |grep "次"|grep pdf|awk -F "</a>" '{print $1}'|awk -F "=" '{print " http://www.cnnic.net.cn/hlwfzyj/hlwxzbg "$3}'|sed 's/target//g'|sed 's/"_blank">//g'|awk -F "'" '{print $1$2}'|sed 's/ //g'|sed 's/hlwxzbg./hlwxzbg/g'|xargs wget -c  
-
+```
 ## 工信数据（工业和信息化部）统计分析数据 :+1::+1::+1:
 https://www.miit.gov.cn/gxsj/index.html
 
