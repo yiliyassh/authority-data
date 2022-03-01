@@ -1,4 +1,4 @@
-# 官方权威统计数据（更新日期：2022-2-28）
+# 官方权威统计数据（更新日期：2022-3-1）
 
 ## 中国统计年鉴 :+1::+1::+1:
 http://www.stats.gov.cn/tjsj/ndsj/
@@ -87,6 +87,8 @@ wget http://www.stats.gov.cn/tjsj/ndsj/2007/left_.htm|xargs cat left_.htm|grep h
 
 ## 全国年度统计公报 :+1::+1::+1:
 http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/
+- 2021年国民经济和社会发展统计公报
+http://www.stats.gov.cn/tjsj/zxfb/202202/t20220227_1827960.html
 
 ### 下载统计公报 :+1::+1::+1:
 #### 2013~2020年
