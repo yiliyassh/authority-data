@@ -113,6 +113,7 @@ wget http://www.stats.gov.cn/tjsj/tjgb/ndtjgb./index_2.html|xargs cat grep "t200
 ## 中国互联网络发展状况统计报告 :+1::+1::+1:
 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm
 
+### 第49次《中国互联网络发展状况统计报告》（2022年2月）http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202202/P020220311493378715650.pdf
 ### 第48次《中国互联网络发展状况统计报告》（2021年8月）http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202109/P020210915523670981527.pdf
 ### 第47次《中国互联网络发展状况统计报告》（2021年2月）http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202102/P020210203334633480104.pdf
 ### 第46次《中国互联网络发展状况统计报告》（2020年9月）http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202009/P020210205509651950014.pdf
