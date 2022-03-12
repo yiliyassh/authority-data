@@ -124,8 +124,8 @@ http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm
 ### 第41次《中国互联网络发展状况统计报告》（2018年1月）http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/201803/P020180305409870339136.pdf
 ### 第40次《中国互联网络发展状况统计报告》（2017年7月）http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/201708/P020170807351923262153.pdf
 ### 第39次《中国互联网络发展状况统计报告》（2017年1月）http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/201701/P020170123364672657408.pdf
-### 第38次中国互联网络发展状况统计报告       （2016年7月）http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/201608/P020160803367337470363.pdf
-#### 下载第39~48次《中国互联网络发展状况统计报告》
+### 第38次中国互联网络发展状况统计报告    （2016年7月）http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/201608/P020160803367337470363.pdf
+#### 下载第39~49次《中国互联网络发展状况统计报告》
 ```
 wget http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm|cat index.htm |grep "次"|grep pdf|awk -F "</a>" '{print $1}'|awk -F "=" '{print " http://www.cnnic.net.cn/hlwfzyj/hlwxzbg "$3}'|sed 's/target//g'|sed 's/"_blank">//g'|awk -F "'" '{print $1$2}'|sed 's/ //g'|sed 's/hlwxzbg./hlwxzbg/g'|xargs wget -c  
 ```
