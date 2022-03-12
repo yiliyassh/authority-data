@@ -21,7 +21,7 @@ http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/
 ## 3.中国互联网络发展状况调查统计报告 :+1::+1::+1:
 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm
 ```
-1998~2021年，24年官方权威数据
+1998~2022年，24年官方权威数据
 ```
 ## 4.工信数据（工业和信息化部）统计分析数据 :+1::+1::+1:
 https://www.miit.gov.cn/gxsj/index.html
