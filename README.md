@@ -3,7 +3,8 @@
 （  注：:o: 一般   :+1: 好评 :+1::+1: 推荐 :+1::+1::+1: 强烈推荐   :x: 差评）
 
 # 官方权威统计数据（持续更新：2022-3-20）
-
+[详情下载](data.md)
+***
 ## 1.中国统计年鉴 :+1::+1::+1:
 http://www.stats.gov.cn/tjsj/ndsj/
 ```
@@ -12,6 +13,7 @@ http://www.stats.gov.cn/tjsj/ndsj/
 ```
 😄 最新：2021年中国统计年鉴 
 * http://www.stats.gov.cn/tjsj/ndsj/2021/indexch.htm
+***
 ## 2.全国年度统计公报 :+1::+1::+1:
 http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/
 ```
@@ -19,7 +21,7 @@ http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/
 ```
 😄 最新：2021年国民经济和社会发展统计公报
 * http://www.stats.gov.cn/tjsj/zxfb/202202/t20220227_1827960.html
-
+***
 ## 3.中国互联网络发展状况调查统计报告 :+1::+1::+1:
 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm
 ```
@@ -27,6 +29,7 @@ http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm
 ```
 😄 最新：第49次《中国互联网络发展状况统计报告》
 * http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202202/P020220318335949959545.pdf
+***
 ## 4.工信数据（工业和信息化部）统计分析数据 :+1::+1::+1:
 https://www.miit.gov.cn/gxsj/index.html
 
@@ -53,12 +56,12 @@ https://www.miit.gov.cn/gxsj/tjfx/hlw/index.html
 
 ### 网络安全    ——    网络安全信息与动态 
 https://www.miit.gov.cn/gxsj/tjfx/wlaq/index.html
-
+***
 ## 5.中国政府网 :+1::+1::+1:
 http://www.gov.cn/shuju/index.htm
 ### 政府工作报告_历年（2014~2021）
 http://www.gov.cn/guowuyuan/zfgzbg.htm 
-
+***
 ## 6. 中国信通院 :+1::+1::+1:
 http://www.caict.ac.cn/kxyj/
 ### 白皮书
@@ -68,7 +71,7 @@ http://www.caict.ac.cn/kxyj/qwfb/qwsj/
 ### 专题报告
 http://www.caict.ac.cn/kxyj/qwfb/ztbg/
 
-##
+***
 ### 参考资料 :+1::+1:
 - wget
 https://www.gnu.org/software/wget/
@@ -93,7 +96,7 @@ http://ftp.gnu.org/gnu/findutils/findutils-4.7.0.tar.xz
 https://www.runoob.com/w3cnote/shell-scripting.html
 - 正则表达式
 https://www.runoob.com/regexp/regexp-tutorial.html
-
+***
 ### 有用的网站  :+1:
 #### 地方统计网站  :+1:
 ##### 北京 http://tjj.beijing.gov.cn/  
@@ -127,7 +130,7 @@ https://www.runoob.com/regexp/regexp-tutorial.html
 ##### 青海 http://tjj.qinghai.gov.cn/  
 ##### 宁夏 http://tj.nx.gov.cn/  
 ##### 新疆 http://tjj.xinjiang.gov.cn/  
-
+***
 #### 地方政府网站  :+1:
 ##### 北京 http://www.beijing.gov.cn/  
 ##### 天津 http://www.tj.gov.cn/  
@@ -160,7 +163,7 @@ https://www.runoob.com/regexp/regexp-tutorial.html
 ##### 青海 http://www.qh.gov.cn/  
 ##### 宁夏 http://www.nx.gov.cn/  
 ##### 新疆 http://www.xinjiang.gov.cn/  
-
+***
 #### 政府机构网站  :+1:
 ##### 外交部 http://www.fmprc.gov.cn/mfa_chn/  
 ##### 国防部 http://www.mod.gov.cn/  
@@ -186,7 +189,7 @@ https://www.runoob.com/regexp/regexp-tutorial.html
 ##### 应急管理部 http://www.mem.gov.cn/  
 ##### 人民银行 http://www.pbc.gov.cn/  
 ##### 审计署 http://www.audit.gov.cn/  
-
+***
 #### 国外统计网站  :+1:
 ##### 美国 https://www.bea.gov/  
 ##### 日本 http://www.stat.go.jp/  
@@ -214,7 +217,7 @@ https://www.runoob.com/regexp/regexp-tutorial.html
 ##### 新加坡 http://www.singstat.gov.sg/  
 ##### 丹麦 http://www.dst.dk/  
 ##### 马来西亚 http://www.statistics.gov.my/  
-
+***
 #### 国际组织网站  :+1:
 ##### 联合国 http://www.un.org/zh/  
 ##### 联合国经社部 https://www.un.org/development/desa/zh/  
