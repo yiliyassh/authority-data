@@ -94,7 +94,7 @@ http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/
 http://www.stats.gov.cn/tjsj/zxfb/202202/t20220227_1827960.html
 
 ### 下载统计公报 :+1::+1::+1:
-#### 2013~2020年
+#### 2013~2021年
 ```
 wget http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/index.html|xargs cat index.html |grep -E "t202|t201[4-9]"|grep "cont_tit"|awk -F '"' '{print "http://www.stats.gov.cn/"$2}'|xargs wget
 ```
