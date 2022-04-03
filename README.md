@@ -2,7 +2,7 @@
 
 （  注：:o: 一般   :+1: 好评 :+1::+1: 推荐 :+1::+1::+1: 强烈推荐   :x: 差评）
 
-# 官方权威统计数据（持续更新：2022-3-20）
+# 官方权威统计数据（持续更新：2022-4-3）
 [详情下载](data.md)
 ***
 ## 1.中国统计年鉴 :+1::+1::+1:
@@ -51,14 +51,32 @@ http://www.gov.cn/shuju/index.htm
 http://www.caict.ac.cn/kxyj/
 - [白皮书](http://www.caict.ac.cn/kxyj/qwfb/bps/)
 
-|名称|日期|
+|名称|发布日期|
 |:----|:----|
 |[国家信息消费示范城市发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/P020220315668286954437.pdf)| 	2022-03-15|
 |[中国信息消费发展态势报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/P020220311570337721006.pdf) 	|2022-03-11|
 |[AI框架发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202202/P020220226369908606520.pdf) |	        2022-02-25|
 |[2021年白皮书合集](http://www.caict.ac.cn/kxyj/qwfb/bps/202201/t20220126_396162.htm) 	|                2022-01-26|
 - [权威数据](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+
+|名称|发布日期|
+|:----|:----|
+|[ 2022年1-2月钢铁行业运行监测报告 ](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220331308726461643.pdf)|	2022-03-31
+|[ 2022年1-2月医药行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220331307064584525.pdf)| 	2022-03-31
+|[ 信息无障碍动态（2022年第3期） ](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220330529197166060.pdf)|	2022-03-30
+|[ 2022年1-2月电子行业运行监测报告 ](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220323563428998112.pdf)|	2022-03-23
+|[ 2022年1-2月新能源汽车行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220324359430242242.pdf)| 	2022-03-23
+  
 - [专题报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+  
+|名称|发布日期|
+|:----|:----|
+|[ 全球云游戏产业深度观察及趋势研判研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220317526747187627.pdf)| 	2022-03-17
+|[ 数字营销异常流量研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220314605106336626.pdf)| 	2022-03-14
+|[ 5G ToC音视频体验需求分析及评测（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202202/P020220225508158203503.pdf)| 	2022-02-25
+|[ 联邦学习场景应用研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202202/t20220218_396831.htm)| 	2022-02-18
+|[ 全球数字产业战略与政策观察（2021年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/t20220128_396349.htm)| 	2022-01-28
+|[ 车联网创新生态发展报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/t20220128_396327.htm)| 	2022-01-28
 ***
 ## 7. 财富FORTUNE 500强 :+1::+1::+1:
 [500强数据](top500.md)
@@ -67,6 +85,14 @@ http://www.caict.ac.cn/kxyj/
   😄 [2021年《财富》世界500强排行榜](https://www.fortunechina.com/fortune500/c/2021-08/02/content_394571.htm)
 - [中国500强](https://www.fortunechina.com/fortune500/node_4302.htm)
   😄 [2021年《财富》中国500强排行榜](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392708.htm)  
+***
+## 8. 上海数据 :+1::+1::+1:
+- [上海统计公报](http://tjj.sh.gov.cn/tjgb/index.html)
+
+😄 最新-2022-03-15   [2021年上海市国民经济和社会发展统计公报 ](http://tjj.sh.gov.cn/tjgb/20220314/e0dcefec098c47a8b345c996081b5c94.html)
+- [上海统计年签](http://tjj.sh.gov.cn/tjnj/index.html)
+
+😄 [2021年上海统计年签公报 ](http://tjj.sh.gov.cn/tjnj/20220309/0e01088a76754b448de6d608c42dad0f.html)
 ***
 ### 参考资料 :+1::+1:
 - wget
