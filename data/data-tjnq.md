@@ -40,18 +40,18 @@ wget http://www.stats.gov.cn/tjsj/ndsj/2005/left.htm|xargs cat left.htm|grep hre
 ```
 ### 2004
 ```
-wget http://www.stats.gov.cn/tjsj/ndsj/yb2004-c/left.htm|xargs cat left.htm|grep href|grep html|awk -F '"' '{print " http://www.stats.gov.cn/tjsj/ndsj/yb2004-c/"$2}'|grep -E '.jpg|.htm'|xargs wget 
+wget http://www.stats.gov.cn/tjsj/ndsj/yb2004-c/left.htm|
+xargs cat left.htm|
+grep href|grep html|
+awk -F '"' '{print " http://www.stats.gov.cn/tjsj/ndsj/yb2004-c/"$2}'|
+grep -E '.jpg|.htm'|
+xargs wget 
 ```
-### 2003
-http://www.stats.gov.cn/tjsj/ndsj/yearbook2003_c.pdf
-### 2002
-http://www.stats.gov.cn/yearbook2001/indexC.htm
-### 2001
-http://www.stats.gov.cn/tjsj/ndsj/2001c/mulu.htm
-### 2000
-http://www.stats.gov.cn/tjsj/ndsj/zgnj/mulu.html
-### 1999
-www.stats.gov.cn/yearbook/indexC.htm
+- [2003](http://www.stats.gov.cn/tjsj/ndsj/yearbook2003_c.pdf)
+- [2002](http://www.stats.gov.cn/yearbook2001/indexC.htm)
+- [2001](http://www.stats.gov.cn/tjsj/ndsj/2001c/mulu.htm)
+- [2000](http://www.stats.gov.cn/tjsj/ndsj/zgnj/mulu.html)
+- [1999](http://www.stats.gov.cn/yearbook/indexC.htm)
 
 ### 下载英文版统计年签 :+1::+1::+1:
 ### 2007~2021
