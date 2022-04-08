@@ -3,7 +3,7 @@
 （  注：:o: 一般   :+1: 好评 :+1::+1: 推荐 :+1::+1::+1: 强烈推荐   :x: 差评）
 
 # 官方权威统计数据（持续更新：2022-4-3）
-[详情下载](data.md)
+[数据下载](data.md)
 ***
 ## 1.中国统计年鉴 :+1::+1::+1:
 http://www.stats.gov.cn/tjsj/ndsj/
@@ -12,8 +12,8 @@ http://www.stats.gov.cn/tjsj/ndsj/
 英文版：2004~2021年，17年官方权威数据
 ```
 😄 [最新：2021年中国统计年鉴](http://www.stats.gov.cn/tjsj/ndsj/2021/indexch.htm)
-####
-  [统计指标-中英文对照](tjnq.md)
+-  [统计指标-中英文对照](tjnq.md)
+-  [数据下载](./data/data-tjnq.md)
 ***
 ## 2.全国年度统计公报 :+1::+1::+1:
 http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/
@@ -21,6 +21,7 @@ http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/
 1978~2020年，42年官方权威数据
 ```
 😄 [最新：2021年国民经济和社会发展统计公报](http://www.stats.gov.cn/tjsj/zxfb/202202/t20220227_1827960.html)
+-  [数据下载](./data/data-tjgb.md)
 ***
 ## 3.中国互联网络发展状况调查统计报告 :+1::+1::+1:
 http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm
@@ -28,6 +29,7 @@ http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm
 1998~2022年，24年官方权威数据
 ```
 😄 [最新：第49次《中国互联网络发展状况统计报告》](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202202/P020220318335949959545.pdf)
+-  [数据下载](./data/data-internet.md)
 ***
 ## 4.工信数据（工业和信息化部）统计分析数据 :+1::+1::+1:
 https://www.miit.gov.cn/gxsj/index.html
@@ -40,12 +42,19 @@ https://www.miit.gov.cn/gxsj/index.html
 - [软件业——软件和信息技术服务业统计数据和运行分析](https://www.miit.gov.cn/gxsj/tjfx/rjy/index.html)
 - [互联网——互联网和相关服务业统计数据和运行分析](https://www.miit.gov.cn/gxsj/tjfx/hlw/index.html)
 - [网络安全——网络安全信息与动态](https://www.miit.gov.cn/gxsj/tjfx/wlaq/index.html)
+-  [数据下载](./data/data-miit.md)
 ***
 ## 5.中国政府网 :+1::+1::+1:
 http://www.gov.cn/shuju/index.htm
 - [政府工作报告_历年（2014~2021）](http://www.gov.cn/guowuyuan/zfgzbg.htm)
 ####
 😄 [中国共产党一百年大事记（1921年7月－2021年6月）](top.md)
+
+😄 [商务部-商业特许经营备案查询](http://txjy.syggs.mofcom.gov.cn)
+
+😄 [中国执行信息公开网](http://zxgk.court.gov.cn/)
+-  [数据下载](./data/data-gov.md)
+
 ***
 ## 6. 中国信通院 :+1::+1::+1:
 http://www.caict.ac.cn/kxyj/
@@ -77,6 +86,8 @@ http://www.caict.ac.cn/kxyj/
 |[ 联邦学习场景应用研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202202/t20220218_396831.htm)| 	2022-02-18
 |[ 全球数字产业战略与政策观察（2021年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/t20220128_396349.htm)| 	2022-01-28
 |[ 车联网创新生态发展报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/t20220128_396327.htm)| 	2022-01-28
+-  [数据下载](./data/data-caict.md)
+
 ***
 ## 7. 财富FORTUNE 500强 :+1::+1::+1:
 [500强数据](top500.md)
@@ -85,6 +96,8 @@ http://www.caict.ac.cn/kxyj/
   😄 [2021年《财富》世界500强排行榜](https://www.fortunechina.com/fortune500/c/2021-08/02/content_394571.htm)
 - [中国500强](https://www.fortunechina.com/fortune500/node_4302.htm)
   😄 [2021年《财富》中国500强排行榜](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392708.htm)  
+-  [数据下载](./data/data-t500.md)
+  
 ***
 ## 8. 上海数据 :+1::+1::+1:
 - [上海统计公报](http://tjj.sh.gov.cn/tjgb/index.html)
@@ -93,6 +106,8 @@ http://www.caict.ac.cn/kxyj/
 - [上海统计年签](http://tjj.sh.gov.cn/tjnj/index.html)
 
 😄 [2021年上海统计年签公报 ](http://tjj.sh.gov.cn/tjnj/20220309/0e01088a76754b448de6d608c42dad0f.html)
+-  [数据下载](./data/data-sh.md)
+
 ***
 ### 参考资料 :+1::+1:
 - wget
