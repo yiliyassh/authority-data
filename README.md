@@ -1,8 +1,9 @@
-收集整理的官方权威公开数据
+收集整理的官方权威公开数据  
+（  注：:o: 一般   :+1: 好评 :+1::+1: 推荐 :+1::+1::+1: 强烈推荐   :x: 差评）  
+```markdown
 
-（  注：:o: 一般   :+1: 好评 :+1::+1: 推荐 :+1::+1::+1: 强烈推荐   :x: 差评）
-
-# 官方权威统计数据（持续更新：2022-4-8）
+```
+# 官方权威统计数据（持续更新：2022-4-12）
 [数据下载](data.md)
 ***
 ## 1.中国统计年鉴 :+1::+1::+1:
@@ -57,14 +58,25 @@ http://www.gov.cn/shuju/index.htm
 ***
 ## 6. 中国信通院 :+1::+1::+1:
 http://www.caict.ac.cn/kxyj/
-- [白皮书](http://www.caict.ac.cn/kxyj/qwfb/bps/)
 
-|名称|发布日期|
-|:----|:----|
-|[国家信息消费示范城市发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/P020220315668286954437.pdf)| 	2022-03-15|
-|[中国信息消费发展态势报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/P020220311570337721006.pdf) 	|2022-03-11|
-|[AI框架发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202202/P020220226369908606520.pdf) |	        2022-02-25|
-|[2021年白皮书合集](http://www.caict.ac.cn/kxyj/qwfb/bps/202201/t20220126_396162.htm) 	|                2022-01-26|
+- 😄[白皮书：270 个](./data/data-caict.md)
+
+|名称|发布日期|下载|
+|:----|:----|:----|
+|[数字建筑发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/t20220330_398996.htm)|2022-03-30|[数字建筑发展白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/P020220330512284345397.pdf)
+|[国家信息消费示范城市发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/t20220315_397965.htm)|2022-03-15|[国家信息消费示范城市发展报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/P020220315668286954437.pdf)
+|[中国信息消费发展态势报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/t20220311_397757.htm)|2022-03-11|[中国信息消费发展态势报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/P020220311570337721006.pdf)
+|[AI框架发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202202/t20220225_397170.htm)|2022-02-25|[AI框架发展白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202202/P020220226369908606520.pdf)
+|[2021年白皮书合集](http://www.caict.ac.cn/kxyj/qwfb/bps/202201/t20220126_396162.htm)|2022-01-26|[2021白皮书合集.zip](http://www.caict.ac.cn/kxyj/qwfb/bps/202201/P020220126330196461412.zip)
+  
+- 😄[专题报告：195 个](./data/data-caict.md)
+
+|名称|发布日期|下载|
+|:----|:----|:----|
+|[中国第三方数据中心运营商分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220408_399556.htm)|2022-04-08|[中国第三方数据中心运营商分析报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220408530633654580.pdf)
+|[全球云游戏产业深度观察及趋势研判研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/t20220317_398029.htm)|2022-03-17|[全球云游戏产业深度观察及趋势研判研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220317526747187627.pdf)
+|[数字营销异常流量研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/t20220314_397916.htm)|2022-03-14|[数字营销异常流量研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220314605106336626.pdf)
+
 - [权威数据](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称|发布日期|
@@ -74,18 +86,6 @@ http://www.caict.ac.cn/kxyj/
 |[ 信息无障碍动态（2022年第3期） ](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220330529197166060.pdf)|	2022-03-30
 |[ 2022年1-2月电子行业运行监测报告 ](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220323563428998112.pdf)|	2022-03-23
 |[ 2022年1-2月新能源汽车行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220324359430242242.pdf)| 	2022-03-23
-  
-- [专题报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
-  
-|名称|发布日期|
-|:----|:----|
-|[ 全球云游戏产业深度观察及趋势研判研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220317526747187627.pdf)| 	2022-03-17
-|[ 数字营销异常流量研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220314605106336626.pdf)| 	2022-03-14
-|[ 5G ToC音视频体验需求分析及评测（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202202/P020220225508158203503.pdf)| 	2022-02-25
-|[ 联邦学习场景应用研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202202/t20220218_396831.htm)| 	2022-02-18
-|[ 全球数字产业战略与政策观察（2021年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/t20220128_396349.htm)| 	2022-01-28
-|[ 车联网创新生态发展报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/t20220128_396327.htm)| 	2022-01-28
--  [数据下载](./data/data-caict.md)
 
 ***
 ## 7. 财富FORTUNE 500强 :+1::+1::+1:
@@ -106,6 +106,14 @@ http://www.caict.ac.cn/kxyj/
 
 😄 [2021年上海统计年签公报 ](http://tjj.sh.gov.cn/tjnj/20220309/0e01088a76754b448de6d608c42dad0f.html)
 -  [数据下载](./data/data-sh.md)
+
+***
+## 8. 数据报告 :+1::+1::+1:
+- [艾瑞咨询——产业研究报告](https://www.iresearch.com.cn/report.shtml)    
+ 
+😄[行业分类报告](./data/data-report.md)  
+
+ 😄[行业年度报告](./data/data-report-year.md)  
 
 ***
 ### 参考资料 :+1::+1:
