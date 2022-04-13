@@ -1,10 +1,10 @@
-收集整理的官方权威公开数据  
-（  注：:o: 一般   :+1: 好评 :+1::+1: 推荐 :+1::+1::+1: 强烈推荐   :x: 差评）  
-```markdown
 
-```
 # 官方权威统计数据（持续更新：2022-4-12）
 [数据下载](data.md)
+```markdown
+收集整理的【官方权威】公开数据  
+（  注：:o: 一般   :+1: 好评 :+1::+1: 推荐 :+1::+1::+1: 强烈推荐   :x: 差评）  
+```
 ***
 ## 1.中国统计年鉴 :+1::+1::+1:
 http://www.stats.gov.cn/tjsj/ndsj/
@@ -61,32 +61,31 @@ http://www.caict.ac.cn/kxyj/
 
 - 😄[白皮书：270 个](./data/data-caict.md)
 
-|名称|发布日期|下载|
+|名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
-|[数字建筑发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/t20220330_398996.htm)|2022-03-30|[数字建筑发展白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/P020220330512284345397.pdf)
-|[国家信息消费示范城市发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/t20220315_397965.htm)|2022-03-15|[国家信息消费示范城市发展报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/P020220315668286954437.pdf)
-|[中国信息消费发展态势报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/t20220311_397757.htm)|2022-03-11|[中国信息消费发展态势报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/P020220311570337721006.pdf)
+|[**人工智能白皮书（2022年**）](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/t20220412_399752.htm)|2022-04-12|[人工智能白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/P020220412613255124271.pdf)
 |[AI框架发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202202/t20220225_397170.htm)|2022-02-25|[AI框架发展白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202202/P020220226369908606520.pdf)
 |[2021年白皮书合集](http://www.caict.ac.cn/kxyj/qwfb/bps/202201/t20220126_396162.htm)|2022-01-26|[2021白皮书合集.zip](http://www.caict.ac.cn/kxyj/qwfb/bps/202201/P020220126330196461412.zip)
+|[**车联网白皮书**](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/t20211224_394522.htm)|2021-12-24|[车联网白皮书.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/P020211224634954242855.pdf)
+|[**全球数字治理白皮书**](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/t20211223_394423.htm)|2021-12-23|[全球数字治理白皮书.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/P020211223383085909153.pdf)
+
   
 - 😄[专题报告：195 个](./data/data-caict.md)
 
-|名称|发布日期|下载|
+|名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
 |[中国第三方数据中心运营商分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220408_399556.htm)|2022-04-08|[中国第三方数据中心运营商分析报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220408530633654580.pdf)
 |[全球云游戏产业深度观察及趋势研判研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/t20220317_398029.htm)|2022-03-17|[全球云游戏产业深度观察及趋势研判研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220317526747187627.pdf)
 |[数字营销异常流量研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/t20220314_397916.htm)|2022-03-14|[数字营销异常流量研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220314605106336626.pdf)
 
-- [权威数据](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- 😄[权威数据：476 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
-|名称|发布日期|
+|名称（点击下载）|发布日期|
 |:----|:----|
-|[ 2022年1-2月钢铁行业运行监测报告 ](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220331308726461643.pdf)|	2022-03-31
-|[ 2022年1-2月医药行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220331307064584525.pdf)| 	2022-03-31
-|[ 信息无障碍动态（2022年第3期） ](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220330529197166060.pdf)|	2022-03-30
-|[ 2022年1-2月电子行业运行监测报告 ](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220323563428998112.pdf)|	2022-03-23
-|[ 2022年1-2月新能源汽车行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220324359430242242.pdf)| 	2022-03-23
-
+|[2022年1-2月钢铁行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220331308726461643.pdf)|2022-03-31
+|[2022年1-2月医药行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220331307064584525.pdf)|2022-03-31
+|[信息无障碍动态（2022年第3期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220330529197166060.pdf)|2022-03-30
+-  [数据下载](./data/data-caict.md)
 ***
 ## 7. 财富FORTUNE 500强 :+1::+1::+1:
 [500强数据](top500.md)
@@ -108,12 +107,12 @@ http://www.caict.ac.cn/kxyj/
 -  [数据下载](./data/data-sh.md)
 
 ***
-## 8. 数据报告 :+1::+1::+1:
+## 9. 数据报告 :+1::+1::+1:
 - [艾瑞咨询——产业研究报告](https://www.iresearch.com.cn/report.shtml)    
  
-😄[行业分类报告](./data/data-report.md)  
+😄[行业分类报告-24个分类](./data/data-report.md)  
 
- 😄[行业年度报告](./data/data-report-year.md)  
+😄[行业年度报告-（2012年——2022年）](./data/data-report-year.md)  
 
 ***
 ### 参考资料 :+1::+1:
