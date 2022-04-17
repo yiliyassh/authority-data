@@ -1,4 +1,4 @@
-## 7. 财富FORTUNE 500强 :+1::+1::+1:
+## 财富FORTUNE 500强 :+1::+1::+1:
 [500强数据](top500.md)
 - [全球排行榜](https://www.fortunechina.com/rankings/node_11663.htm)
 - [世界500强](https://www.fortunechina.com/fortune500/index.htm)
