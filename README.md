@@ -1,5 +1,5 @@
 
-# 官方权威统计数据（持续更新：2022-4-18）
+# 官方权威统计数据（持续更新：2022-4-12）
 [数据下载](data.md)
 ```markdown
 收集整理的【官方权威】公开数据  
@@ -60,10 +60,11 @@ http://www.gov.cn/shuju/index.htm
 ## 6. 中国信通院 :+1::+1::+1:
 http://www.caict.ac.cn/kxyj/
 
-- 😄[白皮书：270 个](./data/data-caict.md)
+- 😄[白皮书：271 个](http://www.caict.ac.cn/kxyj/qwfb/bps)    [(下载)](./data/data-caict-bps.md)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[**数据中心白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/t20220422_400391.htm)|2022-04-22|[数据中心白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/P020220422707354529853.pdf)
 |[**人工智能白皮书（2022年**）](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/t20220412_399752.htm)|2022-04-12|[人工智能白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/P020220412613255124271.pdf)
 |[AI框架发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202202/t20220225_397170.htm)|2022-02-25|[AI框架发展白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202202/P020220226369908606520.pdf)
 |[2021年白皮书合集](http://www.caict.ac.cn/kxyj/qwfb/bps/202201/t20220126_396162.htm)|2022-01-26|[2021白皮书合集.zip](http://www.caict.ac.cn/kxyj/qwfb/bps/202201/P020220126330196461412.zip)
@@ -71,22 +72,23 @@ http://www.caict.ac.cn/kxyj/
 |[**全球数字治理白皮书**](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/t20211223_394423.htm)|2021-12-23|[全球数字治理白皮书.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/P020211223383085909153.pdf)
 
   
-- 😄[专题报告：195 个](./data/data-caict.md)
+- 😄[专题报告：196 个](http://www.caict.ac.cn/kxyj/qwfb)    [(下载)](./data/data-caict-ztbg.md)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[**全球5G专利活动报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220422_400379.htm)|2022-04-22|[全球5G专利活动报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220422375972363387.pdf)
 |[中国第三方数据中心运营商分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220408_399556.htm)|2022-04-08|[中国第三方数据中心运营商分析报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220408530633654580.pdf)
 |[全球云游戏产业深度观察及趋势研判研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/t20220317_398029.htm)|2022-03-17|[全球云游戏产业深度观察及趋势研判研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220317526747187627.pdf)
-|[数字营销异常流量研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/t20220314_397916.htm)|2022-03-14|[数字营销异常流量研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220314605106336626.pdf)
 
-- 😄[权威数据：476 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- 😄[权威数据：479 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)    [(下载)](./data/data-caict-qwsj.md)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[2022年一季度新能源汽车行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220422374640737386.pdf)|2022-04-22
+|[2022年一季度工业运行监测报告（一）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220422489841622566.pdf)|2022-04-22
+|[2022年一季度电子行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220422372405708565.pdf)|2022-04-22
 |[2022年1-2月钢铁行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220331308726461643.pdf)|2022-03-31
 |[2022年1-2月医药行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220331307064584525.pdf)|2022-03-31
-|[信息无障碍动态（2022年第3期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220330529197166060.pdf)|2022-03-30
--  [数据下载](./data/data-caict.md)
 ***
 ## 7. 财富FORTUNE 500强 :+1::+1::+1:
 [500强数据](top500.md)
@@ -114,6 +116,29 @@ http://www.caict.ac.cn/kxyj/
 😄[行业分类报告-24个分类](./data/data-report.md)  
 
 😄[行业年度报告-（2012年——2022年）](./data/data-report-year.md)  
+
+***
+## 10. AI公开数据集（^_^最好的在最后^_^） :+1::+1::+1::+1::+1: 五星强推！！！！！
+- [最全中文NLP资源库](https://github.com/fighting41love/funNLP)  
+  😄[（本地镜像）](./data/funnlp.md)
+- 开放数据集(Open Dataset)
+
+|类别|名称|数量|说明|
+|:----|:----|:----|:----|
+|自然语言|[Question Pairs](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs)|58.7MB|第一个来源于 Quora 的包含重复/语义相似性标签的数据集。数据集由超过40万行行的潜在问题的问答组成。每行行数据包含问题ID、问题全文以及指示该行行是否真正包含重复对的二进制值。
+| |[MS MARCO](http://www.msmarco.org/)| |MS MARCO是一种新的大规模阅读理理解和问答数据集。 在MSMARCO中，所有问题都是从真正的匿匿名用户查询中抽取的。使用先进的Bing搜索引擎版本，从实际的Web文档中提取数据集中的答案的上下文段落。
+|图像类|[Open Images Dataset V4](https://storage.googleapis.com/openimages/web/index.html)|9百万|其中包括大约9百万标注图片、横跨6000个类别标签，平均每个图像拥有8个标签。该数据集的标签涵盖比拥有1000个类别标签的ImageNet具体更更多的现实实体，可用于计算机视觉方向的训练。
+| |[MNIST（Image processing data set）](http://yann.lecun.com/exdb/mnist/)|约50MB,10大类，70000张图像|这是一个手写数字数据集，包含一个有着 60000 样本的训练集和一个有着 10000 样本的测试集。对于在现实世界数据上尝试学习技术和深度识别模式而言，这是一个非常好的数据库，且无需花费过多时间和精力力进行行数据预处理。
+|音频类|[FMA](https://arxiv.org/abs/1612.01840)|689种|该数据集是免费音乐存档（FMA）的转储，这是一个高质量量的合法音频下载的互动库。这些数据集中包含歌曲名称、音乐类型、曲目计数等信息，共计689种歌曲和68种类型。该数据集可用于音乐分析。
+| |[TED-LUM](http://www.openslr.org/7/)|21GB|TED Talk的音频数据集，包含1495个录音和音频会议、159848条发音词典和部分WMT12公开的语料料库。
+|视频类|[YouTube-8M](https://research.google.com/youtube8m/)|35万小时|YouTube-8M一个大型的多样性标注的视频数据集，目前拥有610万的YouTube视频链接、35万小时视频时长、2.6亿视频/音频特征、3862个分类、平均每个视频拥有3个标签。（统计时间：2018.11.9）
+| |[COCO](http://cocodataset.org/)| |COCO（Common Objects in Context）是一个新的图像识别、分割和图像语义数据集，由微软赞助，图像中不不仅有标注类别、位置信息，还有对图像的语义文本描述。COCO数据集的开源使得近两、三年年来图像分割语义理理解取得了了巨大的进展，也几乎成为了了图像语义理理解算法性能评价的“标准”数据集。
+- ml机器学习数据集
+  
+- dl深度学习数据集
+
+- 大学开发数据集
+
 
 ***
 ### 参考资料 :+1::+1:
