@@ -60,8 +60,10 @@ http://www.caict.ac.cn/kxyj/
 |[4月22日（0-24时）本市各区确诊病例、无症状感染者居住地信息](https://mp.weixin.qq.com/s/LySBR0VJswl_ZI1KtWlXqw)|2022-04-23
 |[上海2022年4月22日，新增本土新冠肺炎确诊病例2736例 新增本土无症状感染者20634例](https://wsjkw.sh.gov.cn/xwfb/20220423/803d2f7447bc44118178241a80c9c73f.html)|2022-04-23
 
-- [上海市商务委员会](https://sww.sh.gov.cn/swdt/index.html)
+- [上海市商务委员会](https://sww.sh.gov.cn/swdt/index.html)  
+  😄[（绿卡通行证企业大全——本地镜像）](./data/data-sh-yq.md)
 
+  
 |商务动态 |发布日期|
 |:----|:----|
 |[本市疫情防控生活物资保障企业查询库上线啦](https://sww.sh.gov.cn/swdt/20220419/e4df759e135642ccb870382f873cb986.html)|2022-04-18
