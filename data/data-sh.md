@@ -5,7 +5,7 @@
 
 |名称|发布日期|
 |:----|:----|
-|[稳中求进开新局 砥砺奋发建新功            ](http://tjj.sh.gov.cn/tjgb/20220314/5b3045a5eb774b329178a572e7afff0d.html)|2022-03-15
+|[稳中求进开新局 砥砺奋发建新功](http://tjj.sh.gov.cn/tjgb/20220314/5b3045a5eb774b329178a572e7afff0d.html)|2022-03-15
 |[2021年上海市国民经济和社会发展统计公报](http://tjj.sh.gov.cn/tjgb/20220314/e0dcefec098c47a8b345c996081b5c94.html)|2022-03-15
 |[上海市第七次全国人口普查主要数据公报（第一号）](http://tjj.sh.gov.cn/tjgb/20210517/cc22f48611f24627bc5ee2ae96ca56d4.html)|2021-05-18
 |[上海市第七次全国人口普查主要数据公报（第二号）](http://tjj.sh.gov.cn/tjgb/20210517/2d1d4f05a2cc42ea94f991c9f19e6d4f.html)|2021-05-18
@@ -106,11 +106,19 @@
 |[2005年上海统计年鉴](http://tjj.sh.gov.cn/tjnj/20170629/0014-1000191.html)
 |[2004年上海统计年鉴](http://tjj.sh.gov.cn/tjnj/20170629/0014-1000190.html)
 
-- [上海统计数据信息](http://tjj.sh.gov.cn/sjxx/index.html)
+- [上海统计数据信息  2022.4.24 ](http://tjj.sh.gov.cn/sjxx/index.html)  
 
 |名称|发布日期|
 |:----|:----|
-|[	 2022年1-2月上海外商直接投资情况](http://tjj.sh.gov.cn/sjxx/20220323/7fe50b86db404ed388a47e0606aad886.html)|2022-03-23
+|[3月份本市交通运输业基本情况](http://tjj.sh.gov.cn/sjxx/20220424/225cd5422ecf4b96a801db1a0e0fb348.html)|2022-04-24
+|[2022年1-3月本市外商直接投资情况](http://tjj.sh.gov.cn/sjxx/20220423/dde845e9bc5046dfb2a66f969067ae64.html)|2022-04-23
+|[1-3月本市社会消费品零售总额下降3.8%](http://tjj.sh.gov.cn/sjxx/20220423/a32044f81b5b411084f021e1efca28d4.html)|2022-04-23
+|[3月份本市工业生产者价格同比继续上升](http://tjj.sh.gov.cn/sjxx/20220423/0520ba27920443a989ab563d76a06208.html)|2022-04-23
+|[3 月份本市居民消费价格同比上涨 2.2% 环比上涨 0.2%](http://tjj.sh.gov.cn/sjxx/20220423/4d1c394b146540af9654e90bdb2eeffc.html)|2022-04-23
+|[3月上海外贸进出口比去年同月增长2.0%](http://tjj.sh.gov.cn/sjxx/20220423/b1320f65009046b096442b1765d2558f.html)|2022-04-23
+|[1-3月本市房地产开发、经营基本情况](http://tjj.sh.gov.cn/sjxx/20220415/e4525ca84b75492994a6d7a4c17192d6.html)|2022-04-23
+|[2022年1-3月我市固定资产投资增长3.3%](http://tjj.sh.gov.cn/sjxx/20220414/1e2021ac59df4c6ba1c0c43feab37b76.html)|2022-04-23
+|[2022年1-2月上海外商直接投资情况](http://tjj.sh.gov.cn/sjxx/20220323/7fe50b86db404ed388a47e0606aad886.html)|2022-03-23
 |[2月上海外贸进出口比去年同月增长16.8%](http://tjj.sh.gov.cn/sjxx/20220322/94154b1b182f4b07891f32c45aeb9b30.html)|2022-03-23
 |[2月份本市交通运输业基本情况](http://tjj.sh.gov.cn/sjxx/20220317/e1877374384245d898c22086130d96e6.html)|2022-03-18
 |[2022年1-2月我市固定资产投资情况](http://tjj.sh.gov.cn/sjxx/20220315/63775a84079e46c186a55928622fc53b.html)|2022-03-17
