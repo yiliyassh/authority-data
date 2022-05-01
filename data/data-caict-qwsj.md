@@ -1,10 +1,16 @@
 ## 中国信通院 :+1::+1::+1:
 http://www.caict.ac.cn/kxyj/
 
-- [权威数据：479 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [权威数据：485 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[信息无障碍动态（2022年第4期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220429558681182263.pdf)|2022-04-29
+|[2022年一季度钢铁行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220429554100941624.pdf)|2022-04-29
+|[2022年一季度医药行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220429540151096778.pdf)|2022-04-29
+|[2022年一季度工业运行数据报告（投资）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220426518743308263.pdf)|2022-04-26
+|[2022年一季度工业运行数据报告（生产）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220426515265760202.pdf)|2022-04-26
+|[2022年一季度互联网投融资运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220426377559370512.pdf)|2022-04-26
 |[2022年一季度新能源汽车行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220422374640737386.pdf)|2022-04-22
 |[2022年一季度工业运行监测报告（一）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220422489841622566.pdf)|2022-04-22
 |[2022年一季度电子行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220422372405708565.pdf)|2022-04-22
