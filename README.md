@@ -1,5 +1,5 @@
 
-# 官方权威统计数据（持续更新：2022-4-24）
+# 官方权威统计数据（持续更新：2022-5-1）
 [数据下载](data.md)
 ```markdown
 收集整理的【官方权威】公开数据  
@@ -80,30 +80,50 @@ http://www.caict.ac.cn/kxyj/
 |[中国第三方数据中心运营商分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220408_399556.htm)|2022-04-08|[中国第三方数据中心运营商分析报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220408530633654580.pdf)
 |[全球云游戏产业深度观察及趋势研判研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/t20220317_398029.htm)|2022-03-17|[全球云游戏产业深度观察及趋势研判研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220317526747187627.pdf)
 
-- 😄[权威数据：479 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)    [(下载)](./data/data-caict-qwsj.md)
+- 😄[权威数据：485 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)    [(下载)](./data/data-caict-qwsj.md)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
-|[2022年一季度新能源汽车行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220422374640737386.pdf)|2022-04-22
-|[2022年一季度工业运行监测报告（一）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220422489841622566.pdf)|2022-04-22
-|[2022年一季度电子行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220422372405708565.pdf)|2022-04-22
-|[2022年1-2月钢铁行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220331308726461643.pdf)|2022-03-31
-|[2022年1-2月医药行业运行监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202203/P020220331307064584525.pdf)|2022-03-31
+|[信息无障碍动态（2022年第4期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220429558681182263.pdf)|2022-04-29
+|[2022年一季度钢铁行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220429554100941624.pdf)|2022-04-29
+|[2022年一季度医药行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220429540151096778.pdf)|2022-04-29
+|[2022年一季度工业运行数据报告（投资）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220426518743308263.pdf)|2022-04-26
 ***
 ## 7. 财富FORTUNE 500强 :+1::+1::+1:
-[500强数据](top500.md)
+[500强综合数据](top500.md)  |  [500强排行榜](./data/data-t500.md)
 - [全球排行榜](https://www.fortunechina.com/rankings/node_11663.htm)
-- [世界500强](https://www.fortunechina.com/fortune500/index.htm)
+- [世界500强](data/data-t500.md)
   😄 [2021年《财富》世界500强排行榜](https://www.fortunechina.com/fortune500/c/2021-08/02/content_394571.htm)
-- [中国500强](https://www.fortunechina.com/fortune500/node_4302.htm)
+- [中国500强](data/data-t500.md)
   😄 [2021年《财富》中国500强排行榜](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392708.htm)  
+ 
+ 
+|世界500强|中国500强|
+|:----|:----|
+|[2021](https://www.fortunechina.com/fortune500/c/2021-08/02/content_394571.htm)|[2021](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392708.htm)
+|[2020](https://www.fortunechina.com/fortune500/c/2020-08/10/content_372148.htm)|[2020](https://www.fortunechina.com/fortune500/c/2020-07/27/content_369925.htm)
+|[2019](https://www.fortunechina.com/fortune500/c/2019-07/22/content_339535.htm)|[2019](https://www.fortunechina.com/fortune500/c/2019-07/10/content_337536.htm)
+|[2018](https://www.fortunechina.com/fortune500/c/2018-07/19/content_311046.htm)|[2018](https://www.fortunechina.com/fortune500/c/2018-07/10/content_309961.htm)
+|[2017](https://www.fortunechina.com/fortune500/c/2017-07/20/content_286785.htm)|[2017](https://www.fortunechina.com/fortune500/c/2017-07/31/content_287415.htm)
+|[2016](https://www.fortunechina.com/fortune500/c/2016-07/20/content_266955.htm)|[2016](https://www.fortunechina.com/fortune500/c/2016-07/13/content_266415.htm)
+|[2015](https://www.fortunechina.com/fortune500/c/2015-07/22/content_244435.htm)|[2015](https://www.fortunechina.com/fortune500/c/2015-07/08/content_242835.htm)
+|[2014](https://www.fortunechina.com/fortune500/c/2014-07/07/content_212535.htm)|[2014](https://www.fortunechina.com/fortune500/c/2014-07/14/content_212975.htm)
+|[2013](https://www.fortunechina.com/fortune500/c/2013-07/08/content_164375.htm)|[2013](https://www.fortunechina.com/fortune500/c/2013-07/16/content_165379.htm)
+|[2012](https://www.fortunechina.com/fortune500/c/2012-07/09/content_106535.htm)|[2012](https://www.fortunechina.com/fortune500/c/2012-07/13/content_107377.htm)
+|[2011](https://www.fortunechina.com/fortune500/c/2011-07/07/content_62335.htm)|[2011](https://www.fortunechina.com/fortune500/c/2011-07/13/content_62684.htm)
+|[2010](https://www.fortunechina.com/fortune500/c/2010-07/09/content_38195.htm)|[2010](https://www.fortunechina.com/fortune500/c/2010-07/13/content_38379.htm)
+|...|
+|[2000](https://www.fortunechina.com/fortune500/c/2000-12/01/content_9624.htm)|
+|...|
+|[1996](https://www.fortunechina.com/fortune500/c/1996-11/01/content_9659.htm)|
+
 -  [数据下载](./data/data-t500.md)
   
 ***
 ## 8. 上海数据 :+1::+1::+1:
 - [上海统计公报](http://tjj.sh.gov.cn/tjgb/index.html)
 
-😄 最新-2022-03-15   [2021年上海市国民经济和社会发展统计公报 ](http://tjj.sh.gov.cn/tjgb/20220314/e0dcefec098c47a8b345c996081b5c94.html)
+😄 [2021年上海市国民经济和社会发展统计公报 ](http://tjj.sh.gov.cn/tjgb/20220314/e0dcefec098c47a8b345c996081b5c94.html)
 - [上海统计年签](http://tjj.sh.gov.cn/tjnj/index.html)
 
 😄 [2021年上海统计年签公报 ](http://tjj.sh.gov.cn/tjnj/20220309/0e01088a76754b448de6d608c42dad0f.html)
@@ -114,8 +134,9 @@ http://www.caict.ac.cn/kxyj/
 
 |新闻发布 |日期|
 |:----|:----|
-|[4月22日（0-24时）本市各区确诊病例、无症状感染者居住地信息](https://mp.weixin.qq.com/s/LySBR0VJswl_ZI1KtWlXqw)|2022-04-23
-|[上海2022年4月22日，新增本土新冠肺炎确诊病例2736例 新增本土无症状感染者20634例](https://wsjkw.sh.gov.cn/xwfb/20220423/803d2f7447bc44118178241a80c9c73f.html)|2022-04-23
+|[上海六个区社会面基本清零，本轮疫情防控取得阶段性成效](https://wsjkw.sh.gov.cn/xwfb/20220501/4a77e8c10ff04b46ad21b7e0926c1fa0.html)|2022-05-01
+|[4月30日（0-24时）本市各区确诊病例、无症状感染者居住地信息](https://mp.weixin.qq.com/s/qbB7VjEXMTK0zB6JIqBbAA)|2022-05-01
+|[上海2022年4月30日，新增本土新冠肺炎确诊病例788例 新增本土无症状感染者7084例](https://wsjkw.sh.gov.cn/xwfb/20220501/7ab54b3353ce492eb210fa4a0e87c92a.html)|2022-05-01
 
 - [上海市商务委员会](https://sww.sh.gov.cn/swdt/index.html)  
   😄[（绿卡通行证企业大全——本地镜像）](./data/data-sh-yq.md)
@@ -123,8 +144,10 @@ http://www.caict.ac.cn/kxyj/
   
 |商务动态 |发布日期|
 |:----|:----|
-|[本市疫情防控生活物资保障企业查询库上线啦](https://sww.sh.gov.cn/swdt/20220419/e4df759e135642ccb870382f873cb986.html)|2022-04-18
-|[全市部分已恢复线下开门营业的品牌餐饮、便利店、商超卖场网点目录（4月19日更新）](https://sww.sh.gov.cn/swdt/20220421/3d9f4ba3fa064cdc856c789002332e4b.html)|2022-04-20
+|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（十一） 95家](https://sww.sh.gov.cn/swdt/20220428/2a3505adef7543d09f5c99234cdbbb33.html)|2022-04-28
+|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（十） 90家](https://sww.sh.gov.cn/swdt/20220427/067af7c6c4434909bc0d23881f02aa9b.html)|2022-04-26
+|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（九） 90家](https://sww.sh.gov.cn/swdt/20220425/0797bf2d88424a3a81bc6f53e743eb28.html)|2022-04-24
+|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（八） 86家](https://sww.sh.gov.cn/swdt/20220425/961f0b66451a4f4cb9a6d5e765df2620.html)|2022-04-23
 |[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（七） 84家](https://sww.sh.gov.cn/swdt/20220421/07589027c7724736a24dbd1d2080f393.html)|2022-04-20
 |[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（六）欠缺 ]|2022-04-1?
 |[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（五） 75~88](https://sww.sh.gov.cn/swdt/20220418/597c7815918146a4aeab8563384e50d5.html)|2022-04-17
@@ -135,9 +158,11 @@ http://www.caict.ac.cn/kxyj/
 
 ***
 ## 9. 数据报告 :+1::+1::+1:
-- [艾瑞咨询——产业研究报告](https://www.iresearch.com.cn/report.shtml)    
- 
-😄[行业分类报告-24个分类](./data/data-report.md)  
+- [艾瑞咨询——产业研究报告](https://www.iresearch.com.cn/report.shtml)      
+
+😄[最新报告](./data/data-report.md)  
+
+😄[行业分类报告-24个分类](./data/data-report-type.md)   
 
 😄[行业年度报告-（2012年——2022年）](./data/data-report-year.md)  
 
