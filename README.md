@@ -34,16 +34,30 @@ http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm
 ***
 ## 4.工信数据（工业和信息化部）统计分析数据 :+1::+1::+1:
 https://www.miit.gov.cn/gxsj/index.html
+- [最新行业数据](./miit.md)
 
-- [原材料工业 ——钢铁 有色 石化化工 建材 稀土](https://www.miit.gov.cn/gxsj/tjfx/yclgy/index.html)
-- [装备工业——机械 汽车 民用船舶 民用航空工业](https://www.miit.gov.cn/gxsj/tjfx/zbgy/index.html)
-- [消费品工业——轻工 纺织 食品 家电](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/index.html)
-- [通信业——基础电信业统计数据及运行分析](https://www.miit.gov.cn/gxsj/tjfx/txy/index.html)
-- [电子信息制造业——电子信息制造业统计数据及运行分析](https://www.miit.gov.cn/gxsj/tjfx/dzxx/index.html)
-- [软件业——软件和信息技术服务业统计数据和运行分析](https://www.miit.gov.cn/gxsj/tjfx/rjy/index.html)
-- [互联网——互联网和相关服务业统计数据和运行分析](https://www.miit.gov.cn/gxsj/tjfx/hlw/index.html)
-- [网络安全——网络安全信息与动态](https://www.miit.gov.cn/gxsj/tjfx/wlaq/index.html)
--  [数据下载](./data/data-miit.md)
+
+|行业|名称（详情）|发布日期|
+|:----|:----|:----|  
+|通信业|[2022年一季度通信水平分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_6b6f2edc16ba4d81a98628919645d94c.html)|04-19
+|通信业|[2022年一季度通信业主要通信能力](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_30f9f0378e854a3caf29c08912e26c11.html)|04-19
+|通信业|[2022年3月份电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_a9cf784364d044909a08978b9139929b.html)|04-19
+|通信业|[2022年一季度通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_3395e5ba4f9349bba7d77ae8f166894c.html)|04-19
+|电子信息制造业|[2022年一季度电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_11b5593ba19047319891a1bb6e8b4fc8.html)|04-28
+|电子信息制造业|[2021年锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_439f3c87f9d247ee85592682b0f9ef8e.html)|02-24
+|电子信息制造业|[2021年电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_0997d192aa6f46fa8d76549f20b4e5d6.html)|01-28
+|软件业|[2022年一季度软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_4dace8790c664ea1bc740a126de93418.html)|04-24
+|软件业|[2022年一季度软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_e18aebe3e4e8469091fdf453b9c1ae7c.html)|04-24
+|软件业|[2022年一季度软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_47e628483af94dd3a3f789b5cb7561b2.html)|04-24
+|互联网|[2022年一季度互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_4a3e741e8fc443fa82f15d87a554eb3b.html)|04-29
+|互联网|[2021年互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_b0299e5b207946f9b7206e752e727e66.html)|01-27
+|互联网|[2020年互联网和相关服务业年度统计数据](https://www.miit.gov.cnhttps://www.miit.gov.cn/hlwnj/hlw.html)|11-09
+|网络安全|[4月18日－４月24日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_8faf9bd9e4f946acba45d6243adcd25e.html)|04-26
+|网络安全|[4月11日－４月17日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_42754bc87e8e403da54717d9ed28a849.html)|04-20
+|网络安全|[4月4日－４月10日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_15498ca01c4c4f93a0f991d26474e4a7.html)|04-13
+|网络安全|[3月28日－４月3日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_f5a7fa4b0d7041fda437f6990c2efdbc.html)|04-07
+
+-  [行业分类数据](./data/data-miit.md)
 ***
 ## 5.中国政府网 :+1::+1::+1:
 http://www.gov.cn/shuju/index.htm
@@ -100,12 +114,12 @@ http://www.caict.ac.cn/kxyj/
  
 |世界500强|中国500强|
 |:----|:----|
-|[2021](https://www.fortunechina.com/fortune500/c/2021-08/02/content_394571.htm)|[2021](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392708.htm)
-|[2020](https://www.fortunechina.com/fortune500/c/2020-08/10/content_372148.htm)|[2020](https://www.fortunechina.com/fortune500/c/2020-07/27/content_369925.htm)
-|[2019](https://www.fortunechina.com/fortune500/c/2019-07/22/content_339535.htm)|[2019](https://www.fortunechina.com/fortune500/c/2019-07/10/content_337536.htm)
-|[2018](https://www.fortunechina.com/fortune500/c/2018-07/19/content_311046.htm)|[2018](https://www.fortunechina.com/fortune500/c/2018-07/10/content_309961.htm)
-|[2017](https://www.fortunechina.com/fortune500/c/2017-07/20/content_286785.htm)|[2017](https://www.fortunechina.com/fortune500/c/2017-07/31/content_287415.htm)
-|[2016](https://www.fortunechina.com/fortune500/c/2016-07/20/content_266955.htm)|[2016](https://www.fortunechina.com/fortune500/c/2016-07/13/content_266415.htm)
+|[2021](https://www.fortunechina.com/fortune500/c/2021-08/02/content_394571.htm)  [本地镜像](./data/data-t500-en2021.md)|[2021](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392708.htm)  [本地镜像](./data/data-t500-cn2021.md)
+|[2020](https://www.fortunechina.com/fortune500/c/2020-08/10/content_372148.htm)  [本地镜像](./data/data-t500-en2020.md)|[2020](https://www.fortunechina.com/fortune500/c/2020-07/27/content_369925.htm)  [本地镜像](./data/data-t500-cn2020.md)
+|[2019](https://www.fortunechina.com/fortune500/c/2019-07/22/content_339535.htm)|[2019](https://www.fortunechina.com/fortune500/c/2019-07/10/content_337536.htm)  [本地镜像](./data/data-t500-cn2019.md)
+|[2018](https://www.fortunechina.com/fortune500/c/2018-07/19/content_311046.htm)|[2018](https://www.fortunechina.com/fortune500/c/2018-07/10/content_309961.htm)  [本地镜像](./data/data-t500-cn2018.md)
+|[2017](https://www.fortunechina.com/fortune500/c/2017-07/20/content_286785.htm)|[2017](https://www.fortunechina.com/fortune500/c/2017-07/31/content_287415.htm)  [本地镜像](./data/data-t500-cn2017.md)
+|[2016](https://www.fortunechina.com/fortune500/c/2016-07/20/content_266955.htm)|[2016](https://www.fortunechina.com/fortune500/c/2016-07/13/content_266415.htm)  [本地镜像](./data/data-t500-cn2016.md)
 |[2015](https://www.fortunechina.com/fortune500/c/2015-07/22/content_244435.htm)|[2015](https://www.fortunechina.com/fortune500/c/2015-07/08/content_242835.htm)
 |[2014](https://www.fortunechina.com/fortune500/c/2014-07/07/content_212535.htm)|[2014](https://www.fortunechina.com/fortune500/c/2014-07/14/content_212975.htm)
 |[2013](https://www.fortunechina.com/fortune500/c/2013-07/08/content_164375.htm)|[2013](https://www.fortunechina.com/fortune500/c/2013-07/16/content_165379.htm)
