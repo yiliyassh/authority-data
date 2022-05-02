@@ -1,6 +1,17 @@
 ## 工信数据（工业和信息化部）统计分析数据 :+1::+1::+1:
 - https://www.miit.gov.cn/gxsj/index.html
 
+
+- [原材料工业 ——钢铁 有色 石化化工 建材 稀土](https://www.miit.gov.cn/gxsj/tjfx/yclgy/index.html)
+- [装备工业——机械 汽车 民用船舶 民用航空工业](https://www.miit.gov.cn/gxsj/tjfx/zbgy/index.html)
+- [消费品工业——轻工 纺织 食品 家电](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/index.html)
+- [通信业——基础电信业统计数据及运行分析](https://www.miit.gov.cn/gxsj/tjfx/txy/index.html)
+- [电子信息制造业——电子信息制造业统计数据及运行分析](https://www.miit.gov.cn/gxsj/tjfx/dzxx/index.html)
+- [软件业——软件和信息技术服务业统计数据和运行分析](https://www.miit.gov.cn/gxsj/tjfx/rjy/index.html)
+- [互联网——互联网和相关服务业统计数据和运行分析](https://www.miit.gov.cn/gxsj/tjfx/hlw/index.html)
+- [网络安全——网络安全信息与动态](https://www.miit.gov.cn/gxsj/tjfx/wlaq/index.html)
+
+
 ### 原材料工业    ——   钢铁 有色 石化化工 建材 稀土
 - https://www.miit.gov.cn/gxsj/tjfx/yclgy/index.html
 
