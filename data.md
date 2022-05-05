@@ -1,4 +1,4 @@
-# 官方权威统计数据（更新日期：2022-4-22）
+# 官方权威统计数据（更新日期：2022-5-5）
 
 ## 中国统计年鉴 :+1::+1::+1:
 http://www.stats.gov.cn/tjsj/ndsj/
@@ -57,8 +57,8 @@ http://www.caict.ac.cn/kxyj/
 
 |新闻发布 |日期|
 |:----|:----|
-|[4月22日（0-24时）本市各区确诊病例、无症状感染者居住地信息](https://mp.weixin.qq.com/s/LySBR0VJswl_ZI1KtWlXqw)|2022-04-23
-|[上海2022年4月22日，新增本土新冠肺炎确诊病例2736例 新增本土无症状感染者20634例](https://wsjkw.sh.gov.cn/xwfb/20220423/803d2f7447bc44118178241a80c9c73f.html)|2022-04-23
+|[4月24日（0-24时）本市各区确诊病例、无症状感染者居住地信息](https://mp.weixin.qq.com/s/9-DRQF8pbz_2uivgscOmbw)|2022-04-25
+|[上海2022年4月24日，新增本土新冠肺炎确诊病例2472例 新增本土无症状感染者16983例](https://wsjkw.sh.gov.cn/xwfb/20220425/e1635e9e319b4c08a9249d3ae930aaa0.html)|2022-04-25
 
 - [上海市商务委员会](https://sww.sh.gov.cn/swdt/index.html)  
   😄[（绿卡通行证企业大全——本地镜像）](./data/data-sh-yq.md)
@@ -77,9 +77,11 @@ http://www.caict.ac.cn/kxyj/
 |[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（一） 欠缺 ]|2022-04-?
 ***
 ## 9. 数据报告 :+1::+1::+1:
-- [艾瑞咨询——产业研究报告](https://www.iresearch.com.cn/report.shtml)
+- [艾瑞咨询——产业研究报告](https://www.iresearch.com.cn/report.shtml)  
 
-😄[行业分类报告-24个分类](./data/data-report.md)
+😄[最新报告](./data/data-report.md)
+
+😄[行业分类报告-24个分类](./data/data-report-type.md)
 
 😄[行业年度报告-（2012年——2022年）](./data/data-report-year.md)   
 ***

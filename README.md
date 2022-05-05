@@ -1,5 +1,5 @@
 
-# 官方权威统计数据（持续更新：2022-5-1）
+# 官方权威统计数据（持续更新：2022-5-5）
 [数据下载](data.md)
 ```markdown
 收集整理的【官方权威】公开数据  
@@ -114,14 +114,14 @@ http://www.caict.ac.cn/kxyj/
  
 |世界500强|中国500强|
 |:----|:----|
-|[2021](https://www.fortunechina.com/fortune500/c/2021-08/02/content_394571.htm)  [本地镜像](./data/data-t500-en2021.md)|[2021](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392708.htm)  [本地镜像](./data/data-t500-cn2021.md)
-|[2020](https://www.fortunechina.com/fortune500/c/2020-08/10/content_372148.htm)  [本地镜像](./data/data-t500-en2020.md)|[2020](https://www.fortunechina.com/fortune500/c/2020-07/27/content_369925.htm)  [本地镜像](./data/data-t500-cn2020.md)
-|[2019](https://www.fortunechina.com/fortune500/c/2019-07/22/content_339535.htm)|[2019](https://www.fortunechina.com/fortune500/c/2019-07/10/content_337536.htm)  [本地镜像](./data/data-t500-cn2019.md)
-|[2018](https://www.fortunechina.com/fortune500/c/2018-07/19/content_311046.htm)|[2018](https://www.fortunechina.com/fortune500/c/2018-07/10/content_309961.htm)  [本地镜像](./data/data-t500-cn2018.md)
-|[2017](https://www.fortunechina.com/fortune500/c/2017-07/20/content_286785.htm)|[2017](https://www.fortunechina.com/fortune500/c/2017-07/31/content_287415.htm)  [本地镜像](./data/data-t500-cn2017.md)
-|[2016](https://www.fortunechina.com/fortune500/c/2016-07/20/content_266955.htm)|[2016](https://www.fortunechina.com/fortune500/c/2016-07/13/content_266415.htm)  [本地镜像](./data/data-t500-cn2016.md)
-|[2015](https://www.fortunechina.com/fortune500/c/2015-07/22/content_244435.htm)|[2015](https://www.fortunechina.com/fortune500/c/2015-07/08/content_242835.htm)
-|[2014](https://www.fortunechina.com/fortune500/c/2014-07/07/content_212535.htm)|[2014](https://www.fortunechina.com/fortune500/c/2014-07/14/content_212975.htm)
+|[2021](https://www.fortunechina.com/fortune500/c/2021-08/02/content_394571.htm)  [本地镜像](data-t500-en2021.md)|[2021](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392708.htm)  [本地镜像](data-t500-cn2021.md)
+|[2020](https://www.fortunechina.com/fortune500/c/2020-08/10/content_372148.htm)  [本地镜像](data-t500-en2020.md)|[2020](https://www.fortunechina.com/fortune500/c/2020-07/27/content_369925.htm)  [本地镜像](data-t500-cn2020.md)
+|[2019](https://www.fortunechina.com/fortune500/c/2019-07/22/content_339535.htm)|[2019](https://www.fortunechina.com/fortune500/c/2019-07/10/content_337536.htm)  [本地镜像](data-t500-cn2019.md)
+|[2018](https://www.fortunechina.com/fortune500/c/2018-07/19/content_311046.htm)|[2018](https://www.fortunechina.com/fortune500/c/2018-07/10/content_309961.htm)  [本地镜像](data-t500-cn2018.md)
+|[2017](https://www.fortunechina.com/fortune500/c/2017-07/20/content_286785.htm)|[2017](https://www.fortunechina.com/fortune500/c/2017-07/31/content_287415.htm)  [本地镜像](data-t500-cn2017.md)
+|[2016](https://www.fortunechina.com/fortune500/c/2016-07/20/content_266955.htm)|[2016](https://www.fortunechina.com/fortune500/c/2016-07/13/content_266415.htm)  [本地镜像](data-t500-cn2016.md)
+|[2015](https://www.fortunechina.com/fortune500/c/2015-07/22/content_244435.htm)|[2015](https://www.fortunechina.com/fortune500/c/2015-07/08/content_242835.htm)  [本地镜像](data-t500-cn2015.md)
+|[2014](https://www.fortunechina.com/fortune500/c/2014-07/07/content_212535.htm)|[2014](https://www.fortunechina.com/fortune500/c/2014-07/14/content_212975.htm)  [本地镜像](data-t500-cn2014.md)
 |[2013](https://www.fortunechina.com/fortune500/c/2013-07/08/content_164375.htm)|[2013](https://www.fortunechina.com/fortune500/c/2013-07/16/content_165379.htm)
 |[2012](https://www.fortunechina.com/fortune500/c/2012-07/09/content_106535.htm)|[2012](https://www.fortunechina.com/fortune500/c/2012-07/13/content_107377.htm)
 |[2011](https://www.fortunechina.com/fortune500/c/2011-07/07/content_62335.htm)|[2011](https://www.fortunechina.com/fortune500/c/2011-07/13/content_62684.htm)
@@ -148,9 +148,8 @@ http://www.caict.ac.cn/kxyj/
 
 |新闻发布 |日期|
 |:----|:----|
-|[上海六个区社会面基本清零，本轮疫情防控取得阶段性成效](https://wsjkw.sh.gov.cn/xwfb/20220501/4a77e8c10ff04b46ad21b7e0926c1fa0.html)|2022-05-01
-|[4月30日（0-24时）本市各区确诊病例、无症状感染者居住地信息](https://mp.weixin.qq.com/s/qbB7VjEXMTK0zB6JIqBbAA)|2022-05-01
-|[上海2022年4月30日，新增本土新冠肺炎确诊病例788例 新增本土无症状感染者7084例](https://wsjkw.sh.gov.cn/xwfb/20220501/7ab54b3353ce492eb210fa4a0e87c92a.html)|2022-05-01
+|[5月4日（0-24时）本市各区确诊病例、无症状感染者居住地信息](https://mp.weixin.qq.com/s/J68hA0ncRR_q91ccVINP0g)|2022-05-05
+|[上海2022年5月4日，新增本土新冠肺炎确诊病例261例 新增本土无症状感染者4390例](https://wsjkw.sh.gov.cn/xwfb/20220505/ee4247315f3b472a81dbd312dfd37ad9.html)|2022-05-05
 
 - [上海市商务委员会](https://sww.sh.gov.cn/swdt/index.html)  
   😄[（绿卡通行证企业大全——本地镜像）](./data/data-sh-yq.md)
@@ -158,6 +157,8 @@ http://www.caict.ac.cn/kxyj/
   
 |商务动态 |发布日期|
 |:----|:----|
+|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（十三） 98家](https://sww.sh.gov.cn/swdt/20220504/8cb818c3bba546429ea244e34cad7c90.html)|2022-5-2
+|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（十二） 96家](https://sww.sh.gov.cn/swdt/20220502/e4f74c867fb04a278be66051e64fdf30.html)|2022-04-30
 |[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（十一） 95家](https://sww.sh.gov.cn/swdt/20220428/2a3505adef7543d09f5c99234cdbbb33.html)|2022-04-28
 |[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（十） 90家](https://sww.sh.gov.cn/swdt/20220427/067af7c6c4434909bc0d23881f02aa9b.html)|2022-04-26
 |[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（九） 90家](https://sww.sh.gov.cn/swdt/20220425/0797bf2d88424a3a81bc6f53e743eb28.html)|2022-04-24

@@ -1,21 +1,19 @@
-## 4.工信数据（工业和信息化部）统计分析数据 :+1::+1::+1:
-https://www.miit.gov.cn/gxsj/index.html
-
+## 4.工信数据（工业和信息化部）[统计分析数据](https://www.miit.gov.cn/gxsj/index.html) :+1::+1::+1:  
 - 最新行业数据
 
 |行业|名称（详情）|发布日期|
 |:----|:----|:----|
-|原材料工业|[2022年1－3月钢铁行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/gt/art/2022/art_12caca1b92454b079822955b69bbdd35.html)|04-26
-|原材料工业|[2022年1－3月光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2022/art_0b1bfc84c19d4bce86359bb69a7229eb.html)|04-22
-|原材料工业|[2022年2月份光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2022/art_e4cfc2e6a24d4933a4cb1f74b612f7ea.html)|03-22
-|原材料工业|[2021年稀土功能材料生产情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/xt/art/2022/art_9ea6c85f60904293ab5020a058eb3155.html)|01-30
-|原材料工业|[2021年焦化行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/gt/art/2022/art_fb3d132d59e0486e8cae4399f2627309.html)|01-30
+|原材料工业|[2022年一季度铜行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_6df5fc2ce2cf46ca9f886e25016f594b.html)|04-29
+|原材料工业|[2022年一季度铝行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_0fa82b305be54248838d2a3dd792ffc4.html)|04-29
+|原材料工业|[2022年一季度铅锌行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_2adf88280dc84ca180137d3028e1bf2f.html)|04-29
+|原材料工业|[2022年一季度镍钴锂行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_fb1bb27cecc3436aac85116403687ce3.html)|04-29
+|原材料工业|[2022年一季度镁行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_51b129d9db13478bb0cfb6af763dfa5e.html)|04-29
+|装备工业|[2022年一季度中国造船产能利用监测指数同比增长环比回落](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2022/art_f20a2d23bb0846e4915d39f05ccde22a.html)|04-29
 |装备工业|[2022年一季度我国造船三大指标两降一增，国际市场份额保持全球领先](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2022/art_5a89d0e8015341ae9bd9ca6909a3d603.html)|04-18
 |装备工业|[2022年3月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_62903bf3b7e84d4d9e60daf32b798596.html)|04-11
 |装备工业|[2022年2月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_401ec6fcee7f4c17a9bf50cb764781c4.html)|03-11
 |装备工业|[2021年机床工具行业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/jx/art/2022/art_b23a1f8bae2d4835854d0c38027aae92.html)|03-02
 |装备工业|[2022年1月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_60d5e1b01d23474cb21566aed5046fc8.html)|02-21
-|装备工业|[2021年1－12月机械行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/jx/art/2022/art_6637687ace6d46279a2ee2c22b17c788.html)|01-30
 |消费品工业|[2022年1－3月食品行业产销情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_3c8e0f399d604d698d0ff6354753b1be.html)|04-21
 |消费品工业|[2022年1－3月饮料行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_f60db01e0daf4dd2b861e1648c7c87bd.html)|04-21
 |消费品工业|[2022年1－3月酿酒行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_98d6ad8074754afd8c65a552077d2e05.html)|04-21
