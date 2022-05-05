@@ -104,34 +104,24 @@ http://www.caict.ac.cn/kxyj/
 |[2022年一季度工业运行数据报告（投资）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220426518743308263.pdf)|2022-04-26
 ***
 ## 7. 财富FORTUNE 500强 :+1::+1::+1:
-[500强综合数据](top500.md)  |  [500强排行榜](./data/data-t500.md)
+[500强综合数据](top500.md)  |  [500强排行榜(本地镜像)](./top/t500.md)
 - [全球排行榜](https://www.fortunechina.com/rankings/node_11663.htm)
-- [世界500强](data/data-t500.md)
+- [世界500强](top/t500.md)
   😄 [2021年《财富》世界500强排行榜](https://www.fortunechina.com/fortune500/c/2021-08/02/content_394571.htm)
-- [中国500强](data/data-t500.md)
+- [中国500强](top/t500.md)
   😄 [2021年《财富》中国500强排行榜](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392708.htm)  
- 
- 
-|世界500强|中国500强|
-|:----|:----|
-|[2021](https://www.fortunechina.com/fortune500/c/2021-08/02/content_394571.htm)  [本地镜像](data-t500-en2021.md)|[2021](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392708.htm)  [本地镜像](data-t500-cn2021.md)
-|[2020](https://www.fortunechina.com/fortune500/c/2020-08/10/content_372148.htm)  [本地镜像](data-t500-en2020.md)|[2020](https://www.fortunechina.com/fortune500/c/2020-07/27/content_369925.htm)  [本地镜像](data-t500-cn2020.md)
-|[2019](https://www.fortunechina.com/fortune500/c/2019-07/22/content_339535.htm)|[2019](https://www.fortunechina.com/fortune500/c/2019-07/10/content_337536.htm)  [本地镜像](data-t500-cn2019.md)
-|[2018](https://www.fortunechina.com/fortune500/c/2018-07/19/content_311046.htm)|[2018](https://www.fortunechina.com/fortune500/c/2018-07/10/content_309961.htm)  [本地镜像](data-t500-cn2018.md)
-|[2017](https://www.fortunechina.com/fortune500/c/2017-07/20/content_286785.htm)|[2017](https://www.fortunechina.com/fortune500/c/2017-07/31/content_287415.htm)  [本地镜像](data-t500-cn2017.md)
-|[2016](https://www.fortunechina.com/fortune500/c/2016-07/20/content_266955.htm)|[2016](https://www.fortunechina.com/fortune500/c/2016-07/13/content_266415.htm)  [本地镜像](data-t500-cn2016.md)
-|[2015](https://www.fortunechina.com/fortune500/c/2015-07/22/content_244435.htm)|[2015](https://www.fortunechina.com/fortune500/c/2015-07/08/content_242835.htm)  [本地镜像](data-t500-cn2015.md)
-|[2014](https://www.fortunechina.com/fortune500/c/2014-07/07/content_212535.htm)|[2014](https://www.fortunechina.com/fortune500/c/2014-07/14/content_212975.htm)  [本地镜像](data-t500-cn2014.md)
-|[2013](https://www.fortunechina.com/fortune500/c/2013-07/08/content_164375.htm)|[2013](https://www.fortunechina.com/fortune500/c/2013-07/16/content_165379.htm)
-|[2012](https://www.fortunechina.com/fortune500/c/2012-07/09/content_106535.htm)|[2012](https://www.fortunechina.com/fortune500/c/2012-07/13/content_107377.htm)
-|[2011](https://www.fortunechina.com/fortune500/c/2011-07/07/content_62335.htm)|[2011](https://www.fortunechina.com/fortune500/c/2011-07/13/content_62684.htm)
-|[2010](https://www.fortunechina.com/fortune500/c/2010-07/09/content_38195.htm)|[2010](https://www.fortunechina.com/fortune500/c/2010-07/13/content_38379.htm)
-|...|
-|[2000](https://www.fortunechina.com/fortune500/c/2000-12/01/content_9624.htm)|
-|...|
-|[1996](https://www.fortunechina.com/fortune500/c/1996-11/01/content_9659.htm)|
-
--  [数据下载](./data/data-t500.md)
+#### 最新榜单（世界500强）
+- [2021年《财富》世界500强排行榜](https://www.fortunechina.com/fortune500/c/2021-08/02/content_394571.htm)
+- [2021年《财富》世界500强榜单上的143家中国公司](  https://www.fortunechina.com/fortune500/c/2021-08/02/content_394569.htm)
+- [2021年《财富》世界500强最赚钱的50家公司](
+  https://www.fortunechina.com/fortune500/c/2021-08/02/content_394570.htm)
+- [2021年《财富》世界500强亏损公司](
+  https://www.fortunechina.com/fortune500/c/2021-08/02/content_394565.htm)
+#### 最新榜单（中国500强）
+- [2021年《财富》中国500强排行榜](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392708.htm)
+- [2021年《财富》中国500强亏损公司](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392707.htm)
+- [2021年《财富》中国500强净资产收益率（ROE）最高的40家公司](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392706.htm)
+- [2021年《财富》中国500强净利润率最高的40家公司](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392705.htm)
   
 ***
 ## 8. 上海数据 :+1::+1::+1:
@@ -184,7 +174,7 @@ http://www.caict.ac.cn/kxyj/
 ***
 ## 10. AI公开数据集（^_^最好的在最后^_^） :+1::+1::+1::+1::+1: 五星强推！！！！！
 - [最全中文NLP资源库](https://github.com/fighting41love/funNLP)  
-  😄[（本地镜像）](./data/funnlp.md)
+  😄[（本地镜像）](./ai/funnlp.md)
 - 开放数据集(Open Dataset)
 
 |类别|名称|数量|说明|

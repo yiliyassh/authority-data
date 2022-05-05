@@ -35,13 +35,25 @@ http://www.caict.ac.cn/kxyj/
 - [专题报告 196个 ](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)    [(下载)](./data/data-caict-ztbg.md)
 ***
 ## 7. 财富FORTUNE 500强 :+1::+1::+1:
-[500强数据](top500.md)
+[500强数据（本地镜像）](./top/t500.md)
 - [全球排行榜](https://www.fortunechina.com/rankings/node_11663.htm)
 - [世界500强](https://www.fortunechina.com/fortune500/index.htm)
   😄 [2021年《财富》世界500强排行榜](https://www.fortunechina.com/fortune500/c/2021-08/02/content_394571.htm)
 - [中国500强](https://www.fortunechina.com/fortune500/node_4302.htm)
-  😄 [2021年《财富》中国500强排行榜](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392708.htm)
--  [数据下载](./data/data-t500.md)
+  😄 [2021年《财富》中国500强排行榜](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392708.htm)  
+#### 最新榜单（世界500强）
+- [2021年《财富》世界500强排行榜](https://www.fortunechina.com/fortune500/c/2021-08/02/content_394571.htm)
+- [2021年《财富》世界500强榜单上的143家中国公司](  https://www.fortunechina.com/fortune500/c/2021-08/02/content_394569.htm)
+- [2021年《财富》世界500强最赚钱的50家公司](
+  https://www.fortunechina.com/fortune500/c/2021-08/02/content_394570.htm)
+- [2021年《财富》世界500强亏损公司](
+  https://www.fortunechina.com/fortune500/c/2021-08/02/content_394565.htm)
+#### 最新榜单（中国500强）
+- [2021年《财富》中国500强排行榜](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392708.htm)
+- [2021年《财富》中国500强亏损公司](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392707.htm)
+- [2021年《财富》中国500强净资产收益率（ROE）最高的40家公司](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392706.htm)
+- [2021年《财富》中国500强净利润率最高的40家公司](https://www.fortunechina.com/fortune500/c/2021-07/20/content_392705.htm)
+
 ***
 ## 8. 上海数据 :+1::+1::+1:
 - [上海统计公报](http://tjj.sh.gov.cn/tjgb/index.html)
@@ -87,7 +99,7 @@ http://www.caict.ac.cn/kxyj/
 ***
 ## 10. AI公开数据集（^_^最好的在最后^_^） :+1::+1::+1::+1::+1: 五星强推！！！！！
 - [最全中文NLP资源库](https://github.com/fighting41love/funNLP)  
-  😄[本地镜像](./data/funnlp.md)
+  😄[本地镜像](./ai/funnlp.md)
 - 开放数据集(Open Dataset)  
 
 |类别|名称|数量|说明|
