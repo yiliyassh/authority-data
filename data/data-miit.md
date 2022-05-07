@@ -1,7 +1,4 @@
-## 工信数据（工业和信息化部）统计分析数据 :+1::+1::+1:
-- https://www.miit.gov.cn/gxsj/index.html
-
-
+## 工信数据（工业和信息化部）[统计分析数据](https://www.miit.gov.cn/gxsj/index.html) :+1::+1::+1:  
 - [原材料工业 ——钢铁 有色 石化化工 建材 稀土](https://www.miit.gov.cn/gxsj/tjfx/yclgy/index.html)
 - [装备工业——机械 汽车 民用船舶 民用航空工业](https://www.miit.gov.cn/gxsj/tjfx/zbgy/index.html)
 - [消费品工业——轻工 纺织 食品 家电](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/index.html)
@@ -12,20 +9,15 @@
 - [网络安全——网络安全信息与动态](https://www.miit.gov.cn/gxsj/tjfx/wlaq/index.html)
 
 
-### 原材料工业    ——   钢铁 有色 石化化工 建材 稀土
-- https://www.miit.gov.cn/gxsj/tjfx/yclgy/index.html
+### [原材料工业](https://www.miit.gov.cn/gxsj/tjfx/yclgy/index.html)    ——   钢铁 有色 石化化工 建材 稀土  
 
-### 装备工业    ——    机械 汽车 民用船舶 民用航空工业
-- https://www.miit.gov.cn/gxsj/tjfx/zbgy/index.html
+### [装备工业](https://www.miit.gov.cn/gxsj/tjfx/zbgy/index.html)    ——    机械 汽车 民用船舶 民用航空工业
 
-### 消费品工业    ——    轻工 纺织 食品 家电
-- https://www.miit.gov.cn/gxsj/tjfx/xfpgy/index.html
+### [消费品工业](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/index.html)    ——    轻工 纺织 食品 家电
 
-### 通信业    ——    基础电信业统计数据及运行分析
-- https://www.miit.gov.cn/gxsj/tjfx/txy/index.html
+### [通信业](https://www.miit.gov.cn/gxsj/tjfx/txy/index.html)    ——    基础电信业统计数据及运行分析
 
-### 电子信息制造业    ——    电子信息制造业统计数据及运行分析
-- https://www.miit.gov.cn/gxsj/tjfx/dzxx/index.html
+### [电子信息制造业](https://www.miit.gov.cn/gxsj/tjfx/dzxx/index.html)    ——    电子信息制造业统计数据及运行分析
 - [2021年电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_0997d192aa6f46fa8d76549f20b4e5d6.html)
 - [2020年电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2021/art_631562ee6c09471cace10b0f8379284c.html)
 - [2019年电子信息制造业运行情况](
@@ -105,8 +97,7 @@ https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_7fd4601b96b7481a83a34a302c9a
 - [2002年电子信息产业主要经济指标完成情况](
 https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_0a833e8a208647d5838fbcef48848e06.html)
 
-### 软件业    ——    软件和信息技术服务业统计数据和运行分析
-<br>https://www.miit.gov.cn/gxsj/tjfx/rjy/index.html
+### [软件业](https://www.miit.gov.cn/gxsj/tjfx/rjy/index.html)    ——    软件和信息技术服务业统计数据和运行分析  
 - [2021年全国软件和信息技术服务业主要指标](
 https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_dcfd7bbb585e432ea4ff13f7139306c9.html)
 - [2021年软件和信息技术服务业统计公报](
@@ -156,8 +147,7 @@ https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_867fab663b7b4120b588d4cd84d95
 - [2009年全国软件产业统计公报](
 https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_1d8717b47c824841bc42045b93c791b7.html)
 
-### 互联网    ——    互联网和相关服务业统计数据和运行分析
-<br>https://www.miit.gov.cn/gxsj/tjfx/hlw/index.html
+### [互联网](https://www.miit.gov.cn/gxsj/tjfx/hlw/index.html)    ——    互联网和相关服务业统计数据和运行分析
 - [2021年互联网和相关服务业运行情况](
 https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_b0299e5b207946f9b7206e752e727e66.html)
 - [2020年互联网和相关服务业运行情况](
@@ -169,12 +159,10 @@ https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2019/art_1d940adea84d4d7d9d93bc981952a
 - [2017年互联网和相关服务业快速增长](
 https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2018/art_714cf34f61844ea9a0bff7bc8082b7ca.html)
 
-### 网络安全    ——    网络安全信息与动态
-- https://www.miit.gov.cn/gxsj/tjfx/wlaq/index.html
+### [网络安全](https://www.miit.gov.cn/gxsj/tjfx/wlaq/index.html)    ——    网络安全信息与动态
 
 ### 工信部——统一检索平台
-- 站内搜索——十四五发展规划通知
-  <br>https://www.miit.gov.cn/search/index.html?websiteid=110000000000000&pg=&p=&tpl=&category=&q=%E5%8D%81%E5%9B%9B%E4%BA%94&jsflIndexSeleted=
+- 站内搜索——[十四五发展规划通知](https://www.miit.gov.cn/search/index.html?websiteid=110000000000000&pg=&p=&tpl=&category=&q=%E5%8D%81%E5%9B%9B%E4%BA%94&jsflIndexSeleted=)
 - [工业和信息化部关于印发“十四五”软件和信息技术服务业发展规划的通知](
   https://www.miit.gov.cn/jgsj/xxjsfzs/rjcy/art/2021/art_f99d51c91a684c1685db14f041af9bf3.html)
 - [工业和信息化部关于印发“十四五”信息化和工业化深度融合发展规划的通知](
