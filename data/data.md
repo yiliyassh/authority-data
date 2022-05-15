@@ -2,11 +2,10 @@
 
 |数据名称|本地镜像|shell下载|python下载|说明|
 |:----|:----|:----|:----|:----|
-|
-[1.中国统计年鉴](http://www.stats.gov.cn/tjsj/ndsj/)|[镜像](./data-tjnq.md)|[shell](../code/tjnq.md)|[python](../code/test.py)|中文版：1999~2021年，22年官方权威数据  英文版：2004~2021年，17年官方权威数据
-|[2.全国年度统计公报](http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/) |[镜像](./data-tjgb.md) |[shell](../code/tjgb.md)|[python](../code/test.py)|1978~2020年，42年官方权威数据
+|[1.中国统计年鉴](http://www.stats.gov.cn/tjsj/ndsj/)|[镜像](./data-tjnq.md)|[shell](../code/tjnq.md)|[python](../code/test.py)|中文版：1999-2021年，22年官方权威数据  英文版：2004-2021年，17年官方权威数据
+|[2.全国年度统计公报](http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/) |[镜像](./data-tjgb.md) |[shell](../code/tjgb.md)|[python](../code/test.py)|1978-2020年，42年官方权威数据
 |[3.工信数据（工业和信息化部）](https://www.miit.gov.cn/gxsj/index.html) |[镜像](./data-miit.md)|[shell](../code/test.md)|[python](../code/test.py)||  
-|[4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm)|[镜像](./data-internet.md)|[shell](../code/internet.md)|[python](../code/test.py)|1998~2022年，24年官方权威数据
+|[4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm)|[镜像](./data-internet.md)|[shell](../code/internet.md)|[python](../code/test.py)|1998-2022年，24年官方权威数据
 |[5.中国政府网](http://www.gov.cn/shuju/index.htm)|[镜像](./data-gov.md)|[shell](../code/test.md)|[python](../code/test.py)||
 |[6.中国信通院](http://www.caict.ac.cn/kxyj/) |[镜像](./data-caict-bps.md)|[shell](../code/test.md)|[python](../code/test.py)||
 |😄[白皮书：271 个](http://www.caict.ac.cn/kxyj/qwfb/bps)|[镜像](./data-caict-bps.md)|[(shell)](./data-caict-bps.md)|[python](../code/test.py)||
