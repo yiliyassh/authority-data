@@ -1,88 +1,29 @@
-## 中国统计年鉴 :+1::+1::+1:
-http://www.stats.gov.cn/tjsj/ndsj/
+-  [**返回**](../README.md)  | [**下载**](./data.md)  
+## [中国统计年鉴](http://www.stats.gov.cn/tjsj/ndsj/) :+1::+1::+1:
+- 下载历年统计年签
 
-### 下载中文版统计年签 :+1::+1::+1:
-### 2005~2021
-```
-wget http://www.stats.gov.cn/tjsj/ndsj/2021/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2021/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2020/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2020/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2019/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2019/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2018/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2018/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2017/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2017/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2016/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2016/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2015/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2015/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2014/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2014/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2013/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2013/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2012/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2012/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2011/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2011/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2010/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2010/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2009/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2009/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2008/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2008/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2007/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2007/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2006/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2006/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2005/left.htm|xargs cat left.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2005/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-```
-### 2004
-```
-wget http://www.stats.gov.cn/tjsj/ndsj/yb2004-c/left.htm|
-xargs cat left.htm|
-grep href|grep html|
-awk -F '"' '{print " http://www.stats.gov.cn/tjsj/ndsj/yb2004-c/"$2}'|
-grep -E '.jpg|.htm'|
-xargs wget 
-```
-- [2003](http://www.stats.gov.cn/tjsj/ndsj/yearbook2003_c.pdf)
-- [2002](http://www.stats.gov.cn/yearbook2001/indexC.htm)
-- [2001](http://www.stats.gov.cn/tjsj/ndsj/2001c/mulu.htm)
-- [2000](http://www.stats.gov.cn/tjsj/ndsj/zgnj/mulu.html)
-- [1999](http://www.stats.gov.cn/yearbook/indexC.htm)
-
-### 下载英文版统计年签 :+1::+1::+1:
-### 2007~2021
-```
-wget http://www.stats.gov.cn/tjsj/ndsj/2021/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2021/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2020/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2020/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2019/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2019/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2018/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2018/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2017/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2017/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2016/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2016/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2015/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2015/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2014/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2014/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2013/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2013/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2012/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2012/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2011/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2011/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2010/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2010/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2009/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2009/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2008/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2008/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-
-wget http://www.stats.gov.cn/tjsj/ndsj/2007/left_.htm|xargs cat left_.htm|grep href|grep html|awk -F "'" '{print " http://www.stats.gov.cn/tjsj/ndsj/2007/"$2}'|grep -E '.jpg|.htm'|xargs wget 
-```
+|中文（1999-2021）|英文（2007-2021）|
+|:----|:----|
+|[2021年](http://www.stats.gov.cn/tjsj/ndsj/2021/indexch.htm)|[2021年](http://www.stats.gov.cn/tjsj/ndsj/2021/indexeh.htm)
+|[2020年](http://www.stats.gov.cn/tjsj/ndsj/2020/indexch.htm)|[2020年](http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm)
+|[2019年](http://www.stats.gov.cn/tjsj/ndsj/2019/indexch.htm)|[2019年](http://www.stats.gov.cn/tjsj/ndsj/2019/indexeh.htm)
+|[2018年](http://www.stats.gov.cn/tjsj/ndsj/2018/indexch.htm)|[2018年](http://www.stats.gov.cn/tjsj/ndsj/2018/indexeh.htm)
+|[2017年](http://www.stats.gov.cn/tjsj/ndsj/2017/indexch.htm)|[2017年](http://www.stats.gov.cn/tjsj/ndsj/2017/indexeh.htm)
+|[2016年](http://www.stats.gov.cn/tjsj/ndsj/2016/indexch.htm)|[2016年](http://www.stats.gov.cn/tjsj/ndsj/2016/indexeh.htm)
+|[2015年](http://www.stats.gov.cn/tjsj/ndsj/2015/indexch.htm)|[2015年](http://www.stats.gov.cn/tjsj/ndsj/2015/indexeh.htm)
+|[2014年](http://www.stats.gov.cn/tjsj/ndsj/2014/indexch.htm)|[2014年](http://www.stats.gov.cn/tjsj/ndsj/2014/indexeh.htm)
+|[2013年](http://www.stats.gov.cn/tjsj/ndsj/2013/indexch.htm)|[2013年](http://www.stats.gov.cn/tjsj/ndsj/2013/indexeh.htm)
+|[2012年](http://www.stats.gov.cn/tjsj/ndsj/2012/indexch.htm)|[2012年](http://www.stats.gov.cn/tjsj/ndsj/2012/indexeh.htm)
+|[2011年](http://www.stats.gov.cn/tjsj/ndsj/2011/indexch.htm)|[2011年](http://www.stats.gov.cn/tjsj/ndsj/2011/indexeh.htm)
+|[2010年](http://www.stats.gov.cn/tjsj/ndsj/2010/indexch.htm)|[2010年](http://www.stats.gov.cn/tjsj/ndsj/2010/indexeh.htm)
+|[2009年](http://www.stats.gov.cn/tjsj/ndsj/2009/indexch.htm)|[2009年](http://www.stats.gov.cn/tjsj/ndsj/2009/indexeh.htm)
+|[2008年](http://www.stats.gov.cn/tjsj/ndsj/2008/indexch.htm)|[2008年](http://www.stats.gov.cn/tjsj/ndsj/2008/indexeh.htm)
+|[2007年](http://www.stats.gov.cn/tjsj/ndsj/2007/indexch.htm)|[2007年](http://www.stats.gov.cn/tjsj/ndsj/2007/indexeh.htm)
+|[2006年](http://www.stats.gov.cn/tjsj/ndsj/2006/indexch.htm)|
+|[2005年](http://www.stats.gov.cn/tjsj/ndsj/2005/indexch.htm)|
+|[2004年](http://www.stats.gov.cn/tjsj/ndsj/yb2004-c/indexch.htm)|
+|[2003](http://www.stats.gov.cn/tjsj/ndsj/yearbook2003_c.pdf)|
+|[2002](http://www.stats.gov.cn/yearbook2001/indexC.htm)|
+|[2001](http://www.stats.gov.cn/tjsj/ndsj/2001c/mulu.htm)|
+|[2000](http://www.stats.gov.cn/tjsj/ndsj/zgnj/mulu.html)|
+|[1999](http://www.stats.gov.cn/yearbook/indexC.htm)|
