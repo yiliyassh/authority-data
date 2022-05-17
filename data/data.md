@@ -8,15 +8,15 @@
 |[4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm)|[镜像](./data-internet.md)|[shell](../code/internet.md)|[python](../code/test.py)|1998-2022年，24年官方权威数据
 |[5.中国政府网](http://www.gov.cn/shuju/index.htm)|[镜像](./data-gov.md)|[shell](../code/test.md)|[python](../code/test.py)||
 |[6.中国信通院](http://www.caict.ac.cn/kxyj/) |[镜像](./data-caict-bps.md)|[shell](../code/test.md)|[python](../code/test.py)||
-|😄[白皮书：271 个](http://www.caict.ac.cn/kxyj/qwfb/bps)|[镜像](./data-caict-bps.md)|[(shell)](./data-caict-bps.md)|[python](../code/test.py)||
-|😄[专题报告：196 个](http://www.caict.ac.cn/kxyj/qwfb)|[镜像](./data-caict-ztbg.md)|[(shell)](./data-caict-ztbg.md)|[python](../code/test.py)||
-|😄[权威数据：487 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)|[镜像](./data-caict-qwsj.md)||[(shell)](./data-caict-qwsj.md)|[python](../code/test.py)||
+|😄[白皮书：271 个](http://www.caict.ac.cn/kxyj/qwfb/bps)|[镜像](./data-caict-bps.md)|[shell](./data-caict-bps.md)|[python](../code/test.py)||
+|😄[专题报告：196 个](http://www.caict.ac.cn/kxyj/qwfb)|[镜像](./data-caict-ztbg.md)|[shell](./data-caict-ztbg.md)|[python](../code/test.py)||
+|😄[权威数据：487 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)|[镜像](./data-caict-qwsj.md)||[shell](./data-caict-qwsj.md)|[python](../code/test.py)||
 |[7.财富FORTUNE 500强](https://www.fortunechina.com/rankings/node_11663.htm)|[镜像](../top/t500.md)|[shell](../code/test.md)|[python](../code/test.py)||  
 |8.上海数据|[镜像](./data-sh.md)|-|-|统计公报，统计年签，社会民生数据|
 |[上海统计公报](http://tjj.sh.gov.cn/tjgb/index.html)|[镜像](./data-sh.md)|[shell](../code/test.md)|[python](../code/test.py)|2002-2021年，20年官方权威数据|
 |[上海统计年签](http://tjj.sh.gov.cn/tjnj/index.html)|[镜像](./data-sh.md)|[shell](../code/test.md)|[python](../code/test.py)|2004-2021年，18年官方权威数据|
 |[上海市卫生健康委员会](https://wsjkw.sh.gov.cn/xwfb/index.html)|-|-|[python](../code/test.py)|疫情数据，权威发布|
-|[上海市商务委员会-绿卡通行证企业大全](https://sww.sh.gov.cn/swdt/index.html)|[镜像](./data-sh-yq.md)|-|[python](../code/sh-yq.py)|疫情保障，商务动态|
+|[上海市商务委员会-绿卡通行证企业大全](https://sww.sh.gov.cn/swdt/index.html)|[镜像](./data-sh-yq.md)|-|[python](../code/test.py)|疫情保障，商务动态|
 |[9.艾瑞咨询——产业研究报告](https://www.iresearch.com.cn/report.shtml)|-|-|-|新经济与产业数字化，专业咨询服务领导品牌|  
 |😄最新报告|[镜像](./data-report.md)|[shell](../code/test.md)|[python](../code/test.py)||
 |😄行业分类报告-24个分类|[镜像](./data-report-type.md)|[shell](../code/test.md)|[python](../code/test.py)||
