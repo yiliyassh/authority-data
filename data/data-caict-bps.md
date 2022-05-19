@@ -1,10 +1,12 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [白皮书：271 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
+- [白皮书：273 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[信息无障碍白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202205/t20220518_401483.htm)|2022-05-18|[信息无障碍白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202205/P020220518510041281463.pdf)
+|[信息通信业营商环境发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202205/t20220517_401445.htm)|2022-05-17|[信息通信业营商环境发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202205/P020220517553182355269.pdf)
 |[**数据中心白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/t20220422_400391.htm)|2022-04-22|[数据中心白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/P020220422707354529853.pdf)
 |[**人工智能白皮书（2022年**）](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/t20220412_399752.htm)|2022-04-12|[人工智能白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/P020220412613255124271.pdf)
 |[数字建筑发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/t20220330_398996.htm)|2022-03-30|[数字建筑发展白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202203/P020220330512284345397.pdf)

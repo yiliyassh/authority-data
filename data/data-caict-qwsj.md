@@ -1,10 +1,15 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [权威数据：485 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [权威数据：490 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[2022年3月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220516573130476905.pdf)|2022-05-16
+|[2022年3月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220516626693122213.pdf)|2022-05-16
+|[国内增值电信业务许可情况报告（2022.4）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220516441534931186.pdf)|2022-05-16
+|[2022年一季度我国互联网上市企业运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220512490343897406.pdf)|2022-05-12
+|[2022年第一季度5G云测平台监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220505407978078250.pdf)|2022-05-05
 |[信息无障碍动态（2022年第4期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220429558681182263.pdf)|2022-04-29
 |[2022年一季度钢铁行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220429554100941624.pdf)|2022-04-29
 |[2022年一季度医药行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220429540151096778.pdf)|2022-04-29

@@ -1,4 +1,4 @@
-# 官方权威统计数据（更新日期：2022-5-18）
+# 官方权威统计数据（更新日期：2022-5-20）
 
 |数据名称|本地镜像|shell下载|python下载|说明|
 |:----|:----|:----|:----|:----|
@@ -7,10 +7,10 @@
 |[3.工信数据（工业和信息化部）](https://www.miit.gov.cn/gxsj/index.html) |[镜像](./data-miit.md)| |[python](../code/miit.py)|八大行业：原材料工业,装备工业,消费品工业,通信业,电子信息制造业,软件业,互联网,网络安全|  
 |[4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm)|[镜像](./data-internet.md)|[shell](../code/internet.md)|[python](../code/internet.py)|1998-2022年，24年官方权威数据
 |[5.中国政府网](http://www.gov.cn/shuju/index.htm)|[镜像](./data-gov.md)| | |GDP、CPI、PPI |
-|[6.中国信通院](http://www.caict.ac.cn/kxyj/) |[镜像](./data-caict-bps.md)|[shell](../code/test.md)|[python](../code/test.py)||
-|😄[白皮书：271 个](http://www.caict.ac.cn/kxyj/qwfb/bps)|[镜像](./data-caict-bps.md)| |[python](../code/test.py)|权威发布：ICT行业白皮书|
-|😄[专题报告：196 个](http://www.caict.ac.cn/kxyj/qwfb)|[镜像](./data-caict-ztbg.md)| |[python](../code/test.py)|权威发布：ICT行业专题报告|
-|😄[权威数据：487 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)|[镜像](./data-caict-qwsj.md)| |[python](../code/test.py)|权威发布：ICT行业权威数据|
+|[6.中国信通院](http://www.caict.ac.cn/kxyj/) |[镜像](./data-caict-bps.md)| | |ICT行业数据 |
+|😄[白皮书：273 个](http://www.caict.ac.cn/kxyj/qwfb/bps)|[镜像](./data-caict-bps.md)| |[python](../code/caict-bps.py)|权威发布：ICT行业白皮书|
+|😄[专题报告：196 个](http://www.caict.ac.cn/kxyj/qwfb)|[镜像](./data-caict-ztbg.md)| |[python](../code/caict-bg.py)|权威发布：ICT行业专题报告|
+|😄[权威数据：490 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)|[镜像](./data-caict-qwsj.md)| |[python](../code/caict-qwsj.py)|权威发布：ICT行业权威数据|
 |[7.财富FORTUNE 500强](https://www.fortunechina.com/rankings/node_11663.htm)|[镜像](../top/t500.md)|[shell](../code/test.md)|[python](../code/test.py)|世界500强，中国500强|  
 |8.上海数据|[镜像](./data-sh.md)| | |统计公报，统计年签，社会民生数据|
 |[上海统计公报](http://tjj.sh.gov.cn/tjgb/index.html)|[镜像](./data-sh.md)|[shell](../code/test.md)|[python](../code/test.py)|2002-2021年，20年官方权威数据|
