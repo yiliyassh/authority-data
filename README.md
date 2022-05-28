@@ -66,8 +66,9 @@
 - [政府工作报告_历年（2014~2021）](http://www.gov.cn/guowuyuan/zfgzbg.htm)  
 😄 [商务部-商业特许经营备案查询](http://txjy.syggs.mofcom.gov.cn)  
 😄 [中国执行信息公开网](http://zxgk.court.gov.cn/)  
--  [镜像](./data/data-gov.md)    |  [下载](./data/data.md)
-
+😄 [商务部“走出去”公共服务平台](./data/data-guojia.md)
+-  [镜像](./data/data-gov.md)    |  [下载](./data/data.md)  
+   
 ***
 ## [6.中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:  
 - 😄[白皮书：273 个](http://www.caict.ac.cn/kxyj/qwfb/bps)    [(镜像)](./data/data-caict-bps.md)
@@ -120,35 +121,11 @@
 😄 [2021年上海市国民经济和社会发展统计公报 ](http://tjj.sh.gov.cn/tjgb/20220314/e0dcefec098c47a8b345c996081b5c94.html)
 - [上海统计年签](http://tjj.sh.gov.cn/tjnj/index.html)
 
-😄 [2021年上海统计年签 ](http://tjj.sh.gov.cn/tjnj/20220309/0e01088a76754b448de6d608c42dad0f.html)
--  [本地镜像](./data/data-sh.md) 
+😄 [2021年上海统计年签 ](http://tjj.sh.gov.cn/tjnj/20220309/0e01088a76754b448de6d608c42dad0f.html) | [镜像](./data/data-sh.md) 
    
 - [上海市卫生健康委员会](https://wsjkw.sh.gov.cn/xwfb/index.html)
-- [上海市商务委员会](https://sww.sh.gov.cn/swdt/index.html)  
-  😄[（绿卡通行证企业大全——本地镜像）](./data/data-sh-yq.md)  
-  
-|商务动态 |发布日期|
-|:----|:----|
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（二十） 57家](https://sww.sh.gov.cn/swdt/20220517/dfe48fafaf2d479e81568eebfbb30d9a.html)|2022-5-17
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（十九） 99家](https://sww.sh.gov.cn/swdt/20220514/baa3b16a9ef047649eae100cff508b0b.html)|2022-5-14
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（十八） 99家](https://sww.sh.gov.cn/swdt/20220513/c379fd6fa27c4c2796e5188c97faad06.html)|2022-5-12
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（十七） 98家](https://sww.sh.gov.cn/swdt/20220511/caa8ff40b3e341baba999d43d7b478ff.html)|2022-5-10
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（十六） 98家](https://sww.sh.gov.cn/swdt/20220509/7f53dad0f0b845099a1c7226e10c7cf0.html)|2022-5-8
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（十五） 98家](https://sww.sh.gov.cn/swdt/20220507/11a8757c47e847cdb216ffb9ab6962dc.html)|2022-5-6
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（十四） 98家](https://sww.sh.gov.cn/swdt/20220505/03e9319473654432a88bd3b09f7b532a.html)|2022-5-4
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（十三） 98家](https://sww.sh.gov.cn/swdt/20220504/8cb818c3bba546429ea244e34cad7c90.html)|2022-5-2
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（十二） 96家](https://sww.sh.gov.cn/swdt/20220502/e4f74c867fb04a278be66051e64fdf30.html)|2022-04-30
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（十一） 95家](https://sww.sh.gov.cn/swdt/20220428/2a3505adef7543d09f5c99234cdbbb33.html)|2022-04-28
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（十） 90家](https://sww.sh.gov.cn/swdt/20220427/067af7c6c4434909bc0d23881f02aa9b.html)|2022-04-26
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（九） 90家](https://sww.sh.gov.cn/swdt/20220425/0797bf2d88424a3a81bc6f53e743eb28.html)|2022-04-24
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（八） 86家](https://sww.sh.gov.cn/swdt/20220425/961f0b66451a4f4cb9a6d5e765df2620.html)|2022-04-23
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（七） 84家](https://sww.sh.gov.cn/swdt/20220421/07589027c7724736a24dbd1d2080f393.html)|2022-04-20
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（六）欠缺 ]|2022-04-1?
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（五） 75~88](https://sww.sh.gov.cn/swdt/20220418/597c7815918146a4aeab8563384e50d5.html)|2022-04-17
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（四） 62~74](https://sww.sh.gov.cn/swdt/20220415/7f4505aab76d4404ab067302638139cf.html)|2022-04-14
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（三）欠缺 ]|2022-04-1?
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（二） 21~42](https://sww.sh.gov.cn/swdt/20220412/42ea72bcb8854138953aa3d1d2524344.html)|2022-04-11
-|[上海市商业联合会抗疫保供产销对接信息平台生活物资供应名录（一） 欠缺 ]|2022-04-?
+- [上海市商务委员会](https://sww.sh.gov.cn/swdt/index.html)    
+😄[（绿卡通行证企业大全——本地镜像）](./data/data-sh-yq.md) 
 
 ***
 ## 9. 数据报告 :+1::+1::+1:

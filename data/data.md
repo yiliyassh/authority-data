@@ -7,6 +7,7 @@
 |[3.工信数据（工业和信息化部）](https://www.miit.gov.cn/gxsj/index.html) |[镜像](./data-miit.md)| |[python](../code/miit.py)|八大行业：原材料工业,装备工业,消费品工业,通信业,电子信息制造业,软件业,互联网,网络安全|  
 |[4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm)|[镜像](./data-internet.md)|[shell](../code/internet.md)|[python](../code/internet.py)|1998-2022年，24年官方权威数据
 |[5.中国政府网](http://www.gov.cn/shuju/index.htm)|[镜像](./data-gov.md)| | |GDP、CPI、PPI |
+|[商务部](http://www.caict.ac.cn/kxyj/) |[镜像](./data-guojia.md)| | [python](../code/guojia.py) |“走出去”公共服务平台 |
 |[6.中国信通院](http://www.caict.ac.cn/kxyj/) |[镜像](./data-caict-bps.md)| | |ICT行业数据 |
 |😄[白皮书：273 个](http://www.caict.ac.cn/kxyj/qwfb/bps)|[镜像](./data-caict-bps.md)| |[python](../code/caict-bps.py)|权威发布：ICT行业白皮书|
 |😄[专题报告：196 个](http://www.caict.ac.cn/kxyj/qwfb)|[镜像](./data-caict-ztbg.md)| |[python](../code/caict-bg.py)|权威发布：ICT行业专题报告|

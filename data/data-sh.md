@@ -3,7 +3,7 @@
 ## 8. 上海数据 :+1::+1::+1:
 - [上海统计公报](http://tjj.sh.gov.cn/tjgb/index.html)
 
-😄 最新-2022-03-15   [2021年上海市国民经济和社会发展统计公报 ](http://tjj.sh.gov.cn/tjgb/20220314/e0dcefec098c47a8b345c996081b5c94.html)
+😄 [2021年上海市国民经济和社会发展统计公报 ](http://tjj.sh.gov.cn/tjgb/20220314/e0dcefec098c47a8b345c996081b5c94.html)
 
 |名称|发布日期|
 |:----|:----|
