@@ -1,10 +1,13 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [专题报告：196 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+- [专题报告：199 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[5G+体育赛事典型场景和应用（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202205/t20220525_401768.htm)|2022-05-25|[5G+体育赛事典型场景和应用（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202205/P020220525599366843086.pdf)
+|[主要国家和地区推动制造业数字化转型的政策研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202205/t20220525_401734.htm)|2022-05-25|[主要国家和地区推动制造业数字化转型的政策研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202205/P020220525328269616177.pdf)
+|[数字技术适老化发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202205/t20220523_401701.htm)|2022-05-23|[数字技术适老化发展报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202205/P020220523527649690917.pdf)
 |[**全球5G专利活动报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220422_400379.htm)|2022-04-22|[全球5G专利活动报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220422375972363387.pdf)
 |[中国第三方数据中心运营商分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220408_399556.htm)|2022-04-08|[中国第三方数据中心运营商分析报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220408530633654580.pdf)
 |[全球云游戏产业深度观察及趋势研判研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/t20220317_398029.htm)|2022-03-17|[全球云游戏产业深度观察及趋势研判研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220317526747187627.pdf)

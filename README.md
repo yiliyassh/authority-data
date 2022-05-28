@@ -32,28 +32,26 @@
 |原材料工业|[2022年一季度镍钴锂行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_fb1bb27cecc3436aac85116403687ce3.html)|04-29
 |原材料工业|[2022年一季度镁行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_51b129d9db13478bb0cfb6af763dfa5e.html)|04-29
 |装备工业|[2022年4月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_f77a8699fdc8429189ac063d05f07ac0.html)|05-12
-|装备工业|[2022年一季度中国造船产能利用监测指数同比增长环比回落](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2022/art_f20a2d23bb0846e4915d39f05ccde22a.html)|04-29
-|装备工业|[2022年一季度我国造船三大指标两降一增，国际市场份额保持全球领先](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2022/art_5a89d0e8015341ae9bd9ca6909a3d603.html)|04-18
 |装备工业|[2021年机床工具行业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/jx/art/2022/art_b23a1f8bae2d4835854d0c38027aae92.html)|03-02
-|消费品工业|[2022年1－3月塑料制品行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_2c4415d9f2c94b22ad2a32c54610c482.html)|05-06
-|消费品工业|[2022年1－3月家电行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/jd/art/2022/art_1c27d9b7605847c785ef3315a4212f63.html)|05-06
-|消费品工业|[2022年1－3月皮革行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_86d25a2732374822b5cd0f95e84b2a09.html)|05-06
-|消费品工业|[2022年1－3月家具行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_097201be1f5b4d4e877170a94c168281.html)|05-06
-|消费品工业|[2022年1－3月造纸行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_b709c62d97bd4574968dda37cbafee57.html)|05-06
-|消费品工业|[2022年1－3月食品行业产销情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_3c8e0f399d604d698d0ff6354753b1be.html)|04-21
-|通信业|[2022年一季度通信水平分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_6b6f2edc16ba4d81a98628919645d94c.html)|04-19
-|通信业|[2022年一季度通信业主要通信能力](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_30f9f0378e854a3caf29c08912e26c11.html)|04-19
-|通信业|[2022年一季度通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_5dcf66a2e6a342af90d14be90a1d8c4b.html)|04-19
-|通信业|[2022年一季度通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_6f62df7886524a209b3d25d46c749301.html)|04-19
-|通信业|[2022年一季度通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_3395e5ba4f9349bba7d77ae8f166894c.html)|04-19
+|消费品工业|[2022年1－4月饮料行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_9d0cf87124e44eec9825925934e1d887.html)|05-19
+|消费品工业|[2022年1－4月酿酒行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_bdc79581089f4acab7caea2f535a68bd.html)|05-19
+|消费品工业|[2022年1－4月乳制品行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_1014a79085784ffaac83a1e106c901cf.html)|05-19
+|消费品工业|[2022年1－4月罐头行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_220afd8a4b0c4fa89cd721dfdd960faa.html)|05-19
+|消费品工业|[2022年1－4月食品行业产销情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_6ce05f2e815f43d6928b0ee96e5909e5.html)|05-19
+|通信业|[2022年4月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_e6db2d7fe1014db5912c07fd05955667.html)|05-20
+|通信业|[2022年1－4月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_428fbb1689f642248217343800cf64cf.html)|05-20
+|通信业|[2022年1－4月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_e3d341ee04984604a2041e2ce58ea509.html)|05-20
 |电子信息制造业|[2022年一季度电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_11b5593ba19047319891a1bb6e8b4fc8.html)|04-28
+|电子信息制造业|[2021年锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_439f3c87f9d247ee85592682b0f9ef8e.html)|02-24
 |电子信息制造业|[2021年电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_0997d192aa6f46fa8d76549f20b4e5d6.html)|01-28
-|软件业|[2022年一季度软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_4dace8790c664ea1bc740a126de93418.html)|04-24
-|软件业|[2022年一季度软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_e18aebe3e4e8469091fdf453b9c1ae7c.html)|04-24
-|软件业|[2022年一季度软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_47e628483af94dd3a3f789b5cb7561b2.html)|04-24
+|软件业|[2022年1－4月份软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_7588a75431b44e659e2810df6840dc77.html)|05-23
+|软件业|[2022年1－4月份软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_bed9ae570a2c43498b2b2fd975cd48bd.html)|05-23
+|软件业|[2022年1－4月份软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_9d99451d1c6f4ef08bdb59dea355d34d.html)|05-23
 |互联网|[2022年一季度互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_4a3e741e8fc443fa82f15d87a554eb3b.html)|04-29
 |互联网|[2021年互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_b0299e5b207946f9b7206e752e727e66.html)|01-27
 |互联网|[2020年互联网和相关服务业年度统计数据](https://www.miit.gov.cnhttps://www.miit.gov.cn/hlwnj/hlw.html)|11-09
+|网络安全|[5月16日－5月22日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_5edca66a20c34faca3506186686a7d53.html)|05-25
+|网络安全|[5月9日－5月15日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_eab8b28c504e4a12a18997eb1067b18b.html)|05-18
 |网络安全|[5月2日－5月8日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_654d1ba90cce43748a3a636ded32d568.html)|05-12
 ***
 ## [4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm) :+1::+1::+1:  
@@ -75,6 +73,7 @@
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[信息无障碍白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202205/t20220518_401483.htm)|2022-05-18|[信息无障碍白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202205/P020220518510041281463.pdf)
 |[**数据中心白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/t20220422_400391.htm)|2022-04-22|[数据中心白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/P020220422707354529853.pdf)
 |[**人工智能白皮书（2022年**）](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/t20220412_399752.htm)|2022-04-12|[人工智能白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/P020220412613255124271.pdf)
 |[AI框架发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202202/t20220225_397170.htm)|2022-02-25|[AI框架发展白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202202/P020220226369908606520.pdf)
@@ -83,21 +82,24 @@
 |[**全球数字治理白皮书**](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/t20211223_394423.htm)|2021-12-23|[全球数字治理白皮书.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/P020211223383085909153.pdf)
 
   
-- 😄[专题报告：196 个](http://www.caict.ac.cn/kxyj/qwfb)    [(镜像)](./data/data-caict-ztbg.md)
+- 😄[专题报告：199 个](http://www.caict.ac.cn/kxyj/qwfb)    [(镜像)](./data/data-caict-ztbg.md)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[主要国家和地区推动制造业数字化转型的政策研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202205/t20220525_401734.htm)|2022-05-25|[主要国家和地区推动制造业数字化转型的政策研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202205/P020220525328269616177.pdf)
 |[**全球5G专利活动报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220422_400379.htm)|2022-04-22|[全球5G专利活动报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220422375972363387.pdf)
 |[中国第三方数据中心运营商分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220408_399556.htm)|2022-04-08|[中国第三方数据中心运营商分析报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220408530633654580.pdf)
 |[全球云游戏产业深度观察及趋势研判研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/t20220317_398029.htm)|2022-03-17|[全球云游戏产业深度观察及趋势研判研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220317526747187627.pdf)
 
-- 😄[权威数据：487 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)    [(镜像)](./data/data-caict-qwsj.md)
+- 😄[权威数据：497 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)    [(镜像)](./data/data-caict-qwsj.md)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
-|[2022年一季度我国互联网上市企业运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220512490343897406.pdf)|2022-05-12
-|[2022年第一季度5G云测平台监测报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220505407978078250.pdf)|2022-05-05
-|[信息无障碍动态（2022年第4期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202204/P020220429558681182263.pdf)|2022-04-29
+|[2022年4月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220525362560283307.pdf)|2022-05-25
+|[2022年4月新能源汽车行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220525350361400188.pdf)|2022-05-25
+|[2022年4月工业运行数据报告（价格）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220523426724159491.pdf)|2022-05-23
+|[2022年4月工业运行数据报告（生产）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220523425938716326.pdf)|2022-05-23
+|[2022年4月工业运行数据报告（投资）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220523458566403140.pdf)|2022-05-23
 ***
 ## [7.财富FORTUNE 500强](https://www.fortunechina.com/rankings/node_11663.htm) :+1::+1::+1:
 [500强数据（本地镜像）](./top/t500.md)  
@@ -135,10 +137,12 @@
 
 |名称|发布日期|简介|
 |:----|:----|:----|
-|[2021年中国互联网CPS营销生态白皮书](https://report.iresearch.cn/report/202205/3993.shtml)|2022/5/13 9:00:00|《2021年中国互联网CPS营销生态白皮书》在对中国CPS营销生态的发展历程和大环境梳理的同时，从产业链和核心角色方出发解读当下CPS营销生态的现状。本报告将CPS售卖覆盖的场景划分为导购、社交和内容三个场景，供应链在不同场景中的重要性日益凸显。未来，供应链将驱动CPS营销生态逐渐趋于品质回归，品牌方的营销效果、联盟方的渠道布局、推客方的合作模式以及用户方的消费习惯都将向品质化升级。
-|[2022年中国杯壶行业研究报告](https://report.iresearch.cn/report/202205/3992.shtml)|2022/5/12 11:15:52|本报告对中国（密封型）杯壶行业的发展历程、现状和趋势进行梳理研究，并侧重对高端杯壶市场的市场规模、驱动因素以及消费者画像展开了调研，满足了发行人客户在招股书中对于我国杯壶行业数据和信息的引用需求，论证了发行人所在的高端杯壶细分领域发展前景。
-|[2021年中国新能源汽车换电市场研究报告](https://report.iresearch.cn/report/202205/3991.shtml)|2022/5/11 15:00:07|目前中国新能源汽车市场正在由以政策为导向逐渐转向以市场为导向的阶段，2021年中国新能源汽车市场实现了高速增长，但在市场快速发展的同时用户的“充电难”、“充电慢”等问题越加凸显，用户需求与充电模式的矛盾不断加深，。在此背景下，换电市场迎来发展转机，多项支持政策出台，资本涌入，技术不断成熟，商业模式逐渐成形，多方利好因素推进换电模式发展。本报告将聚焦新能源汽车换电市场，希望通过对中国新能源汽车换电市场外围环境（社会、经济、政策、技术）、发展现状、商业模式、及未来趋势的研究分析，帮助各方相关企业、机构充分了解中国新能汽车换电市场的发展态势，把握市场商机。
-|[云服务行业动态及热点研究月报-2022年4月](https://report.iresearch.cn/report/202205/3990.shtml)|2022/5/10 15:11:36|本月报是艾瑞针对云服务整体行业，金融云、政务云、工业云等行业云服务，商业增长与低代码等赛道在本月产生的热门事件、政策动向、技术革新、招采信息、资本动态等，及重点客户和头部企业的动态信号及标杆案例，进行材料搜集并整理的行业信息监测报告。艾瑞基于云服务行业洞察，捕捉行业最新业态，为读者提供商业见解的初衷，对公开信息进行分行业、分类别的收集整理，并结合多位云服务产业分析师对关键信息的分析洞见，向读者简洁、清晰、深入地展示近期中国云服务市场的变化方向。
+|[2022年中国电竞行业研究报告](https://report.iresearch.cn/report/202205/4001.shtml)|2022/5/27 10:24:20|《2022年中国电竞行业研究报告》基于艾瑞多年对电子竞技行业的研究、数据积累以及艾瑞数据产品监测成果，通过对国内电竞游戏产品、电竞赛事、电竞俱乐部、电竞营销、衍生内容等各个因素的分析，从政策及市场环境、市场动态等多个角度切实反映中国电竞行业现状与未来发展趋势。希望能为相关企业与资本市场提供参考意见与运营建议。
+|[2022年中国政企采购数字化转型白皮书](https://report.iresearch.cn/report/202204/3978.shtml)|2022/5/25 15:00:00|我国政府和国企年均采购金额较高，且受疫情与政策影响，线上不见面、无接触式采购成为近年来采购形式改革的发展重点，因此我国政企纷纷寻求采购数字化转型。为形成方便快捷的采买形式，构建区域性完备的监管体系，政企开始搭建采购平台。政企采购平台是将制度成果、理论成果与平台实践融为一体的产物，通过采购平台能采购公开招标数额标准以下、品类丰富的产品，以最大限度优化供求双方资源配置效率。经历了一段时间的自发性数字化转型，当前政企采购数字化水平整体仍呈现区域不均衡、制度不统一等特征。随着数字化渗透加深和阳光采购政策的深入执行，政企采购平台的应用仍有待深入。本报告以此为背景，深挖政企采购平台的价值与发展趋势，辅助政企通过采购平台，实现采购环节节资提效。
+|[2022年移动应用出海趋势洞察白皮书](https://report.iresearch.cn/report/202205/3999.shtml)|2022/5/24 14:47:26|《2022年移动应用出海趋势洞察白皮书》聚焦于移动应用出海领域，主要研究现阶段移动应用出海情况以及发展趋势，并就出海环境、出海表现、海外市场现状与机会、出海的挑战及策略进行了详细的阐述，帮助开发者增加对应用出海的了解，同时为出海决策提供一定的参考意见。
+|[2022年中国供应链数字化升级行业研究报告](https://report.iresearch.cn/report/202205/3998.shtml)|2022/5/23 16:27:25|《2022年中国供应链数字化行业研究报告》通过对政策、技术、供需端等方面发展情况的梳理，描绘中国供应链数字化升级的发展脉络，并通过与发达国家对比，定位中国供应链数字化升级发展阶段。同时，基于中国供应链数字化发展背景，重点分析不同类型的供应链数字化升级服务商切入角度与服务路径，探查供应链数字化服务核心及现存障碍，给予未来发展可行路径建议。
+|[2022年中国云服务行业应用白皮书](https://report.iresearch.cn/report/202205/3997.shtml)|2022/5/20 18:26:40|相对于以往艾瑞常规云服务相关研究报告不同，本报告侧重从供给侧和需求侧两个视角去看待云服务在各个垂直行业的差异化应用。一方面从供给侧来看，研究厂商基于自身行业理解和技术积累为满足不同行业客户需求的所提供的针对性的解决方案，在这一过程中，厂商会不断调整技术策略、产品策略、市场生态策略来适应需求侧的诉求。另一方面从需求侧来看，更加强调云服务在垂直行业的应用形态，包括在基础资源层、平台资源层、应用层上的明显行业属性差异。此外，对于需求侧的属性划分，本报告将聚焦在具备一定共性需求的数字原生行业和非数字原生行业两大类型进行研究。
+|[2022年中国零售私域数智化增长白皮书](https://report.iresearch.cn/report/202205/3995.shtml)|2022/5/19 12:05:36|《2022年中国零售私域数智化增长白皮书》通过对私域数智化发展背景、私域数智化布局及增长痛点“道”、“场”、“器”、“术”的分析，梳理零售私域数智化的布局策略，展现“选平台”、“用工具”、“重运营”、“贯渠道”的价值，旨在探讨私域数智化的发展趋势，以期对市场认知提供一定参考。
 |-|-|-|
 
 

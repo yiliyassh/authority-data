@@ -1,10 +1,17 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [权威数据：490 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [权威数据：497 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[2022年4月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220525364070672072.pdf)|2022-05-25
+|[2022年4月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220525362560283307.pdf)|2022-05-25
+|[2022年4月新能源汽车行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220525350361400188.pdf)|2022-05-25
+|[2022年4月电子行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220525349268984207.pdf)|2022-05-25
+|[2022年4月工业运行数据报告（价格）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220523426724159491.pdf)|2022-05-23
+|[2022年4月工业运行数据报告（生产）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220523425938716326.pdf)|2022-05-23
+|[2022年4月工业运行数据报告（投资）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220523458566403140.pdf)|2022-05-23
 |[2022年3月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220516573130476905.pdf)|2022-05-16
 |[2022年3月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220516626693122213.pdf)|2022-05-16
 |[国内增值电信业务许可情况报告（2022.4）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220516441534931186.pdf)|2022-05-16
