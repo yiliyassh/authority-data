@@ -38,30 +38,30 @@
 |通信业|[2022年1－4月份通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_29f8e02aad4b4c7fb175c1fd0507d058.html)|05-20
 |通信业|[2022年一季度通信水平分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_6b6f2edc16ba4d81a98628919645d94c.html)|04-19
 |通信业|[2022年一季度通信业主要通信能力](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_30f9f0378e854a3caf29c08912e26c11.html)|04-19
+|电子信息制造业|[2022年1－4月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_3dc23ace8fca4ba78b9012ab688d4919.html)|05-30
+|电子信息制造业|[2022年3－4月全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_affe164fd6fb403d85826dd991e3e83d.html)|05-27
+|电子信息制造业|[2022年3－4月全国锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_84a217f0ba6846f7b35a46d36e804c9b.html)|05-27
 |电子信息制造业|[2022年一季度电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_11b5593ba19047319891a1bb6e8b4fc8.html)|04-28
 |电子信息制造业|[2022年1－2月全国锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_6f44805bf5894541a265714111a26816.html)|04-02
 |电子信息制造业|[2022年1－2月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_2b9e0d4b977045269d0f68020c408da6.html)|03-30
-|电子信息制造业|[2022年1－2月全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_a9c66a8bed25446eb3cd3454df5e2577.html)|03-29
-|电子信息制造业|[2021年锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_439f3c87f9d247ee85592682b0f9ef8e.html)|02-24
-|电子信息制造业|[2021年电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_0997d192aa6f46fa8d76549f20b4e5d6.html)|01-28
 |软件业|[2022年1－4月份软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_7588a75431b44e659e2810df6840dc77.html)|05-23
 |软件业|[2022年1－4月份软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_bed9ae570a2c43498b2b2fd975cd48bd.html)|05-23
 |软件业|[2022年1－4月份软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_9d99451d1c6f4ef08bdb59dea355d34d.html)|05-23
 |软件业|[2022年一季度软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_4dace8790c664ea1bc740a126de93418.html)|04-24
 |软件业|[2022年一季度软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_e18aebe3e4e8469091fdf453b9c1ae7c.html)|04-24
 |软件业|[2022年一季度软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_47e628483af94dd3a3f789b5cb7561b2.html)|04-24
+|互联网|[2022年1－4月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_3429da56c0454085bb6f1f8ea19457f7.html)|05-30
 |互联网|[2022年一季度互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_4a3e741e8fc443fa82f15d87a554eb3b.html)|04-29
 |互联网|[2022年1－2月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_c074ba490a84490aadfccda1fa2b3eea.html)|03-30
 |互联网|[2021年互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_b0299e5b207946f9b7206e752e727e66.html)|01-27
 |互联网|[2021年1－11月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2021/art_c11f934d11e0405cbb5777fd57a7517f.html)|12-30
 |互联网|[2021年1－10月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2021/art_746966fb05bf429cb40924dac8971ff0.html)|12-01
-|互联网|[2020年互联网和相关服务业年度统计数据](https://www.miit.gov.cnhttps://www.miit.gov.cn/hlwnj/hlw.html)|11-09
+|网络安全|[5月23日－5月29日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_1ee7b9aa51ec4fcdb5e89a7f1694c801.html)|06-02
 |网络安全|[5月16日－5月22日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_5edca66a20c34faca3506186686a7d53.html)|05-25
 |网络安全|[5月9日－5月15日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_eab8b28c504e4a12a18997eb1067b18b.html)|05-18
 |网络安全|[5月2日－5月8日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_654d1ba90cce43748a3a636ded32d568.html)|05-12
 |网络安全|[4月25日－5月1日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_85c63a64ac4b4064b25c7afae7f0f5a4.html)|04-29
 |网络安全|[4月18日－４月24日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_8faf9bd9e4f946acba45d6243adcd25e.html)|04-26
-|网络安全|[4月11日－４月17日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_42754bc87e8e403da54717d9ed28a849.html)|04-20
 
 ### [原材料工业](https://www.miit.gov.cn/gxsj/tjfx/yclgy/index.html)    ——   钢铁 有色 石化化工 建材 稀土  
 
