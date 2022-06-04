@@ -1,7 +1,6 @@
-## [政府信息公开平台_中国政府网](http://www.gov.cn/zhengce/xxgk/index.htm)
+## [政府信息公开平台_中国政府网](http://www.gov.cn/zhengce/xxgk/index.htm)  
 
 - 政策分类  
-
 
 |类别|数量|
 |:----|:----|
