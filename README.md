@@ -1,5 +1,5 @@
 
-# 官方权威统计数据（持续更新：2022-6-3）
+# 官方权威统计数据（持续更新：2022-6-12）
 [数据下载 ： shell & python](./data/data.md)
 ```markdown
 收集整理的【官方权威】公开数据  
@@ -33,11 +33,12 @@
 |原材料工业|[2022年一季度镁行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_51b129d9db13478bb0cfb6af763dfa5e.html)|04-29
 |装备工业|[2022年4月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_f77a8699fdc8429189ac063d05f07ac0.html)|05-12
 |装备工业|[2021年机床工具行业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/jx/art/2022/art_b23a1f8bae2d4835854d0c38027aae92.html)|03-02
+|消费品工业|[2022年1－4月家具行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_b7dffa7a71e443a1b7f311f797df73f2.html)|06-02
+|消费品工业|[2022年1－4月家电行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/jd/art/2022/art_b0712acbf1e046369d712c580f605601.html)|06-02
+|消费品工业|[2022年1－4月造纸行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_16fdc20073f14d18be16177b72f13400.html)|06-02
+|消费品工业|[2022年1－4月皮革行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_1388170ede3e4a98b925283a6ee618b3.html)|06-02
+|消费品工业|[2022年1－4月塑料制品行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_aeecbb05a8224cdf888d7718e5e0badc.html)|06-02
 |消费品工业|[2022年1－4月饮料行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_9d0cf87124e44eec9825925934e1d887.html)|05-19
-|消费品工业|[2022年1－4月酿酒行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_bdc79581089f4acab7caea2f535a68bd.html)|05-19
-|消费品工业|[2022年1－4月乳制品行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_1014a79085784ffaac83a1e106c901cf.html)|05-19
-|消费品工业|[2022年1－4月罐头行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_220afd8a4b0c4fa89cd721dfdd960faa.html)|05-19
-|消费品工业|[2022年1－4月食品行业产销情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_6ce05f2e815f43d6928b0ee96e5909e5.html)|05-19
 |通信业|[2022年4月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_e6db2d7fe1014db5912c07fd05955667.html)|05-20
 |通信业|[2022年1－4月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_428fbb1689f642248217343800cf64cf.html)|05-20
 |通信业|[2022年1－4月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_e3d341ee04984604a2041e2ce58ea509.html)|05-20
@@ -50,9 +51,8 @@
 |互联网|[2022年1－4月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_3429da56c0454085bb6f1f8ea19457f7.html)|05-30
 |互联网|[2021年互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_b0299e5b207946f9b7206e752e727e66.html)|01-27
 |互联网|[2020年互联网和相关服务业年度统计数据](https://www.miit.gov.cnhttps://www.miit.gov.cn/hlwnj/hlw.html)|11-09
+|网络安全|[5月30日－6月5日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_21f1beac7cd94597bce7244b59c8abde.html)|06-09
 |网络安全|[5月23日－5月29日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_1ee7b9aa51ec4fcdb5e89a7f1694c801.html)|06-02
-|网络安全|[5月16日－5月22日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_5edca66a20c34faca3506186686a7d53.html)|05-25
-|网络安全|[5月9日－5月15日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_eab8b28c504e4a12a18997eb1067b18b.html)|05-18
 ***
 ## [4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm) :+1::+1::+1:  
 >1998~2022年，24年官方权威数据
@@ -92,10 +92,13 @@
 |[中国第三方数据中心运营商分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220408_399556.htm)|2022-04-08|[中国第三方数据中心运营商分析报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220408530633654580.pdf)
 |[全球云游戏产业深度观察及趋势研判研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/t20220317_398029.htm)|2022-03-17|[全球云游戏产业深度观察及趋势研判研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220317526747187627.pdf)
 
-- 😄[权威数据：500 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)    [(镜像)](./data/data-caict-qwsj.md)
+- 😄[权威数据：503 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)    [(镜像)](./data/data-caict-qwsj.md)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[国内手机产品交互载体特性监测报告（2022年第一期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202206/P020220607370177616919.pdf)|2022-06-07
+|[国内手机产品通信特性与技术能力监测报告（2022年第一期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202206/P020220607369475276552.pdf)|2022-06-07
+|[《全国移动网络质量监测报告》第1期](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202206/P020220606352021209673.pdf)|2022-06-06
 |[信息无障碍动态——世界电信和信息社会日特辑（2022年第5期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220531578140790596.pdf)|2022-05-31
 |[2022年4月钢铁行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220531379661795389.pdf)|2022-05-31
 |[2022年4月医药行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220531378505985769.pdf)|2022-05-31
@@ -139,6 +142,9 @@
 
 |名称|发布日期|简介|
 |:----|:----|:----|
+|[拨云雾，睹“氢”天—从氢能源产业链看行业发展](https://report.iresearch.cn/report/202206/4008.shtml)|2022/6/10 17:57:19|为防止气候环境的进一步恶化，我国已承诺2030碳达峰，2050碳中和，氢能源作为中凭借其取环保、获多元、储有量、用有需且高效、应用广的特点成为我国新能源体系中重要的一部分，绿氢（氢能源终极理想形态）作为“零碳排”能源更是发展重中之重。根据艾瑞推算，2060年中国氢能需求量达约1.3亿吨，使用氢能代替传统能源减少碳排放234.87吨，可节约超过700亿美元得碳税。目前，我国处于氢能源发展的起步阶段，以“灰氢”、“蓝氢”，成本与技术是制约氢能发展的主要因素，本报告从氢能源产业链的角度探索氢能源的未来发展之路，我们认为，应通过国家政策引导，充分利用传统能源基础设施，推动制氢、储氢、运氢环节技术发展，设备投入规模化生产，加快加氢站建设，推进氢能在工业、交通、建筑等领域的逐步应用与渗透，深度助力碳中和。
+|[2022年\"女性+\"综艺内容生态价值报告](https://report.iresearch.cn/report/202206/4007.shtml)|2022/6/7 15:57:08|本报告将聚焦近年来中国“女性+”综艺内容的生态及商业变现情况，结合艾瑞SVC（Sponsorship Value Creator）赞助效果评估数据库及用户调研数据，从近三年来中国“女性+”综艺的内容价值、营销价值、商业价值及变现手段等角度深入分析，剖析女性网络综艺内容及商业化手段的发展。
+|[2022年中国儿童青少年视觉健康白皮书](https://report.iresearch.cn/report/202205/4004.shtml)|2022/6/5 17:42:35|2022年两会期间，全民视觉健康已经上升成为国家战略，儿童青少年视觉健康关乎民生，与国家的经济发展、社会的和谐稳定息息相关。儿童青少年视觉健康的防控涉及政府、医疗机构、学校、家长等多个主体，本报告聚焦儿童青少年视觉健康，从儿童青少年视觉健康发展现状切入，通过定性访谈与用户调研，得出防控现存的难点与应对措施，旨在由浅入深描绘产业发展的未来。
 |[2022年中国数字化采购行业研究报告](https://report.iresearch.cn/report/202206/4006.shtml)|2022/6/2 10:18:54|本报告聚焦狭义的数字化采购即SRM（供应商关系管理）软件展开研究，探讨中国数字化采购的发展历程、驱动力、产业链、商业模式、竞争格局、投资价值等内容。SRM软件覆盖从采购寻源到交付结算、供应商评估的整个生命周期，能够对主营物资、非主营物资进行不同颗粒度的管理。2021年中国SRM市场规模达到16亿元，渗透率仅在1%左右。随着数字化采购应用成熟度的提升，SRM软件将遵循由超大型企业向大型企业进而向中小企业渗透的路径，预计到渗透率10%的时候，采购规模在10亿元以下的企业所贡献的收入将提升至近50%。
 |[云服务行业动态及热点研究月报-2022年5月](https://report.iresearch.cn/report/202206/4005.shtml)|2022/6/1 15:44:19|本月报是艾瑞针对云服务整体行业，金融云、政务云、工业云等行业云服务，云服务行业应用与政采云等赛道在本月产生的热门事件、政策动向、技术革新、招采信息、资本动态等，及重点客户和头部企业的动态信号及标杆案例，进行材料搜集并整理的行业信息监测报告。艾瑞基于云服务行业洞察，捕捉行业最新业态，为读者提供商业见解的初衷，对公开信息进行分行业、分类别的收集整理，并结合多位云服务产业分析师对关键信息的分析洞见，向读者简洁、清晰、深入地展示近期中国云服务市场的变化方向。
 |[艾瑞观潮：咖啡行业七大风向](https://report.iresearch.cn/report/202205/4003.shtml)|2022/5/30 14:48:35|本报告通过桌面研究和消费者调研，分析2022年咖啡行业的主要趋势发现。帮助线上线下咖啡企业更好地理解市场新变化和热点，从而洞悉未来品类趋势发展。

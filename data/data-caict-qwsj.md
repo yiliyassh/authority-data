@@ -1,10 +1,13 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [权威数据：500 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [权威数据：503 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[国内手机产品交互载体特性监测报告（2022年第一期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202206/P020220607370177616919.pdf)|2022-06-07
+|[国内手机产品通信特性与技术能力监测报告（2022年第一期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202206/P020220607369475276552.pdf)|2022-06-07
+|[《全国移动网络质量监测报告》第1期](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202206/P020220606352021209673.pdf)|2022-06-06
 |[信息无障碍动态——世界电信和信息社会日特辑（2022年第5期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220531578140790596.pdf)|2022-05-31
 |[2022年4月钢铁行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220531379661795389.pdf)|2022-05-31
 |[2022年4月医药行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202205/P020220531378505985769.pdf)|2022-05-31
