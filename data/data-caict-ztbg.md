@@ -1,10 +1,11 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [专题报告：201 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+- [专题报告：202 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[分布式系统稳定性建设指南（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/t20220620_404604.htm)|2022-06-20|[分布式系统稳定性建设指南（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/P020220621683623705917.pdf)
 |[OTT终端数据安全和个人信息保护研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/t20220616_404446.htm)|2022-06-16|[OTT终端数据安全和个人信息保护研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/P020220616521600917760.pdf)
 |[实时互动产业发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/t20220614_404308.htm)|2022-06-14|[实时互动产业发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/P020220614564340133801.pdf)
 |[5G+体育赛事典型场景和应用（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202205/t20220525_401768.htm)|2022-05-25|[5G+体育赛事典型场景和应用（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202205/P020220525599366843086.pdf)
