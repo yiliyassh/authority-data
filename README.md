@@ -1,4 +1,4 @@
-# 官方权威统计数据（持续更新：2022-7-1）
+# 官方权威统计数据（持续更新：2022-7-10）
 每周更新  ^_^  
 收集整理【官方权威】公开数据    
 （  注：:o: 一般   :+1: 好评 :+1::+1: 推荐 :+1::+1::+1: 强烈推荐   :x: 差评）    
@@ -35,14 +35,12 @@
 |装备工业|[2022年5月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_82343cadc84b47e48c0f0c769f903d69.html)|06-10
 |装备工业|[2022年4月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_f77a8699fdc8429189ac063d05f07ac0.html)|05-12
 |装备工业|[2021年机床工具行业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/jx/art/2022/art_b23a1f8bae2d4835854d0c38027aae92.html)|03-02
-|消费品工业|[2022年1－5月化纤行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_211d2f91be7b47e3ba7f59ab80302687.html)|06-29
-|消费品工业|[2022年1－5月服装行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_831d44b48bb74217ac7ca4426cd47323.html)|06-29
-|消费品工业|[2022年1－5月纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_f94c304209eb4efca7dbc9dcea4f59f4.html)|06-29
-|消费品工业|[2022年1－5月食品行业产销情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_0d4430b4ee214589b5fde0c4305edaa7.html)|06-21
-|消费品工业|[2022年1－5月乳制品行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_0870dc5debac46b282dedfe2601a3127.html)|06-21
-|消费品工业|[2022年1－5月罐头行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_d16ba2f7ab2a4ba9ad19e73bf3d74a9f.html)|06-21
-|消费品工业|[2022年1－5月饮料行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_6bfc08e90b29441c8b560f9f9b965bf9.html)|06-21
-|消费品工业|[2022年1－5月酿酒行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_652f6bed9fdd403b9516599b1817ea65.html)|06-21|通信业|[2022年5月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_701b9b4aef4c4ba9aff6bbcb72713b5a.html)|06-22
+|消费品工业|[2022年1－5月造纸行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_e674abf0820949f0949b78913c9f3418.html)|07-01
+|消费品工业|[2022年1－5月塑料制品行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_379f7640fd5040198a83da96c5e33537.html)|07-01
+|消费品工业|[2022年1－5月皮革行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_0dd8001ba99b4ccab3f7aeffcbd148e6.html)|07-01
+|消费品工业|[2022年1－5月家具行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_70b872e7d4ff4e3da416ffb3c3455570.html)|07-01
+|消费品工业|[2022年1－5月家电行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_22443b2322244f95aad5f0b98120c15b.html)|07-01
+|通信业|[2022年5月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_701b9b4aef4c4ba9aff6bbcb72713b5a.html)|06-22
 |通信业|[2022年1－5月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_b8491abea6324484a19b5438b08761a4.html)|06-22
 |通信业|[2022年1－5月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_c5c5f4098d004f8c8bf3bb10dbcb7cfa.html)|06-22
 |通信业|[2022年1－5月份通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_84d43f3ff32c457dabf66dcedfa7996f.html)|06-22
@@ -56,9 +54,10 @@
 |互联网|[2022年1－5月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_42b3d0c667dc45f8ab65b03ea7c54fdb.html)|06-30
 |互联网|[2021年互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_b0299e5b207946f9b7206e752e727e66.html)|01-27
 |互联网|[2020年互联网和相关服务业年度统计数据](https://www.miit.gov.cnhttps://www.miit.gov.cn/hlwnj/hlw.html)|11-09
-|网络安全|[6月6日－6月12日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_d3a2fb58ba4b4821be4b920507318621.html)|06-15
-|网络安全|[6月6日－6月12日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_d3a2fb58ba4b4821be4b920507318621.html)|06-15
-|网络安全|[5月30日－6月5日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_21f1beac7cd94597bce7244b59c8abde.html)|06-09
+|网络安全|[6月27日－7月3日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_7079810a65834897a6c80ff5dd8e5114.html)|07-07
+|网络安全|[6月20日－6月26日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_9bba6b33427e42ff93a432c271373224.html)|07-04
+|网络安全|[6月13日－6月19日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_07c7afaf2daa493696ab654825b87175.html)|07-04
+
 ***
 ## [4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm) :+1::+1::+1:  
 >1998~2022年，24年官方权威数据
@@ -76,10 +75,11 @@
    
 ***
 ## [6.中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:  
-- 😄[白皮书：273 个](http://www.caict.ac.cn/kxyj/qwfb/bps)    [(镜像)](./data/data-caict-bps.md)
+- 😄[白皮书：274 个](http://www.caict.ac.cn/kxyj/qwfb/bps)    [(镜像)](./data/data-caict-bps.md)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[中国数字经济发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/t20220708_405627.htm)|2022-07-08|[中国数字经济发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/P020220708428058652677.pdf)
 |[信息无障碍白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202205/t20220518_401483.htm)|2022-05-18|[信息无障碍白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202205/P020220518510041281463.pdf)
 |[**数据中心白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/t20220422_400391.htm)|2022-04-22|[数据中心白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/P020220422707354529853.pdf)
 |[**人工智能白皮书（2022年**）](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/t20220412_399752.htm)|2022-04-12|[人工智能白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/P020220412613255124271.pdf)
@@ -87,7 +87,6 @@
 |[2021年白皮书合集](http://www.caict.ac.cn/kxyj/qwfb/bps/202201/t20220126_396162.htm)|2022-01-26|[2021白皮书合集.zip](http://www.caict.ac.cn/kxyj/qwfb/bps/202201/P020220126330196461412.zip)
 |[**车联网白皮书**](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/t20211224_394522.htm)|2021-12-24|[车联网白皮书.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/P020211224634954242855.pdf)
 |[**全球数字治理白皮书**](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/t20211223_394423.htm)|2021-12-23|[全球数字治理白皮书.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/P020211223383085909153.pdf)
-
   
 - 😄[专题报告：202 个](http://www.caict.ac.cn/kxyj/qwfb)    [(镜像)](./data/data-caict-ztbg.md)
 
