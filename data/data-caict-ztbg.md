@@ -1,10 +1,12 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [专题报告：202 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+- [专题报告：204 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[数据治理研究报告——数据要素权益配置路径（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/t20220715_405971.htm)|2022-07-15|[数据治理研究报告——数据要素权益配置路径（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/P020220715499261607181.pdf)
+|[增值电信业对经济社会影响研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/t20220715_405970.htm)|2022-07-15|[增值电信业对经济社会影响研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/P020220715478861816444.pdf)
 |[分布式系统稳定性建设指南（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/t20220620_404604.htm)|2022-06-20|[分布式系统稳定性建设指南（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/P020220621683623705917.pdf)
 |[OTT终端数据安全和个人信息保护研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/t20220616_404446.htm)|2022-06-16|[OTT终端数据安全和个人信息保护研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/P020220616521600917760.pdf)
 |[实时互动产业发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/t20220614_404308.htm)|2022-06-14|[实时互动产业发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/P020220614564340133801.pdf)
