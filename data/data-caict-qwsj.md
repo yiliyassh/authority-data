@@ -1,10 +1,13 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [权威数据：514 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [权威数据：517 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[2022年6月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220720606251860345.pdf)|2022-07-20
+|[2022年6月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220720605798682006.pdf)|2022-07-20
+|[国内增值电信业务许可情况报告（2022.6）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220720545323990840.pdf)|2022-07-20
 |[信息无障碍动态（2022年第6期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202206/P020220630609049156304.pdf)|2022-06-30
 |[2022年5月钢铁行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202206/P020220630627798167666.pdf)|2022-06-30
 |[2022年5月医药行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202206/P020220630540346712676.pdf)|2022-06-30

@@ -1,10 +1,11 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [白皮书：274 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
+- [白皮书：275 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[云计算白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/t20220721_406226.htm)|2022-07-21|[云计算白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/P020220721643085625934.pdf)
 |[中国数字经济发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/t20220708_405627.htm)|2022-07-08|[中国数字经济发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/P020220708428058652677.pdf)
 |[信息无障碍白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202205/t20220518_401483.htm)|2022-05-18|[信息无障碍白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202205/P020220518510041281463.pdf)
 |[信息通信业营商环境发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202205/t20220517_401445.htm)|2022-05-17|[信息通信业营商环境发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202205/P020220517553182355269.pdf)
