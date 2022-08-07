@@ -1,4 +1,4 @@
-# 官方权威统计数据（持续更新：2022-7-31）
+# 官方权威统计数据（持续更新：2022-8-8）
 每周更新  ^_^  
 收集整理【官方权威】公开数据    
 （  注：:o: 一般   :+1: 好评 :+1::+1: 推荐 :+1::+1::+1: 强烈推荐   :x: 差评）    
@@ -27,29 +27,32 @@
 
 |行业|名称（详情）|发布日期|
 |:----|:----|:----|  
-|原材料工业|[2022年5月光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2022/art_ad1f5695dae84a15a720cd78245f5c94.html)|06-16
-|原材料工业|[2022年一季度有色金属行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_a32fadd5ae5240afa548810d1eecea24.html)|04-29
+|原材料工业|[2022年上半年稀土功能材料生产情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/xt/art/2022/art_bdb6144069b245ec94c20d10d4cfd38a.html)|08-05
+|原材料工业|[2022年上半年铜行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_4c6f2cd651e049f2838f1793d961667f.html)|08-05
+|原材料工业|[2022年上半年镁行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_f2769822ef304c9daf3002eb0c5b439f.html)|08-05
+|原材料工业|[2022年上半年工业硅行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_141ea5698208402a97b62e083474fb0d.html)|08-05
+|原材料工业|[2022年上半年镍钴锂行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_630cb8348eb6494e9942e1c743d1ee94.html)|08-05
+|装备工业|[2022年二季度中国造船产能利用监测指数小幅回落](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2022/art_4875fbc70a19418b9399a03ccfa7a8e6.html)|07-29
 |装备工业|[2022年上半年我国造船国际市场份额保持全球领先](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2022/art_232d428cff5744d8922665fc20302530.html)|07-14
-|装备工业|[2022年6月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_236f9381746c4f56a9c2bdd0e8748b31.html)|07-11
-|消费品工业|[2022年1－6月乳制品行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_198437dfa521474f803fe63dcabcd9fb.html)|07-22
-|消费品工业|[2022年1－6月罐头行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_dcab805e029249fba7f3534d66296692.html)|07-22
-|消费品工业|[2022年1－6月饮料行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_2e8f4e9b27f24f898033239a0e385a4d.html)|07-22
-|消费品工业|[2022年1－6月酿酒行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_fbdae83b6381461a972369f40bb4861c.html)|07-22
-|消费品工业|[2022年1－6月食品行业产销情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/sp/art/2022/art_c7d1716448d44dfd93a67c9c3e0cad9e.html)|07-22
+|消费品工业|[2022年上半年塑料制品行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_ac32e833bc804092b22528f7ca4bade9.html)|08-05
+|消费品工业|[2022年上半年家电行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/jd/art/2022/art_3c1da53a0371455291e5f7c2d30dcf20.html)|08-05
+|消费品工业|[2022年上半年皮革行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_558ee13c8a544b1285a930b0fcb4359e.html)|08-05
+|消费品工业|[2022年上半年家具行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_8757a906043640cea5b146472ec4a808.html)|08-05
+|消费品工业|[2022年上半年造纸行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_8b287e294ce546f7baa038d3d4407148.html)|08-05
+|消费品工业|[2022年上半年轻工业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_09aa4aee7b2c4cc98d7b88c1dca159bb.html)|08-05
 |通信业|[2022年上半年通信水平分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_de8db58c75024a078d990d0208e381a7.html)|07-25
 |通信业|[2022年上半年通信业主要通信能力](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_16ddf7b5d99b4a44be729127100bcbcf.html)|07-25
-|通信业|[2022年6月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_d8abfcf0d8d64fc28a9063449a119ea7.html)|07-25
-|通信业|[2022年上半年通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_18fbc3095bd047f18dc9fc69b9e7c248.html)|07-25
-|通信业|[2022年上半年通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_b015cb2ddbdf460881a46a5e03101a51.html)|07-25
-|通信业|[2022年上半年通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_185ae0fd6e4b4631b68dc241e6df6ce4.html)|07-25
+|电子信息制造业|[2022年上半年锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_2a837ababa794179a297f98a51d590bb.html)|08-03
+|电子信息制造业|[2022年上半年电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_3ae309f17ed545e1984a8c6cc23b2d51.html)|07-28
 |电子信息制造业|[2022年上半年中国光伏产业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_c05f35a00bc249a48936fb981eed0688.html)|07-20
-|电子信息制造业|[2022年1－5月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_17e20df1e9964469bf305d4c43746699.html)|06-29
 |软件业|[2022年上半年软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_9b2538bcda524d15aa5f1051b4e15ccc.html)|07-25
 |软件业|[2022年上半年软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_fae8d4ddc48748daab6d2c9591d1f37a.html)|07-25
 |软件业|[2022年上半年软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_4a89904f3abb4d5e82825a70f506af7b.html)|07-25
 |互联网|[2022年上半年互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_eadb1cb336dc4898a1ec7e73eddb4f36.html)|07-27
+|互联网|[2022年1－5月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_42b3d0c667dc45f8ab65b03ea7c54fdb.html)|06-30
 |网络安全|[7月11日－7月17日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_0280cc3e74164bb995c2e67d3bb29a52.html)|07-22
 |网络安全|[7月4日－7月10日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_1802ead7bf15474b976e4a10e6576d3c.html)|07-14
+|网络安全|[6月27日－7月3日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_7079810a65834897a6c80ff5dd8e5114.html)|07-07
 
 ***
 ## [4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm) :+1::+1::+1:  
@@ -147,6 +150,8 @@
 
 |名称|发布日期|简介|
 |:----|:----|:----|
+|[2022年中国年轻人群运动发展白皮书](https://report.iresearch.cn/report/202208/4040.shtml)|2022/8/7 10:00:00|《2022年中国年轻人群运动发展白皮书》深入分析了中国年轻人群运动发展现状，了解年轻人群对运动态度变化特征以及参与若干热门运动的心智变化历程，挖掘年轻人群整体运动消费特征，分析年轻人群对国潮运动品牌的行为及态度，探索中国年轻人群体育市场发展潜，并对未来运动产业发展趋势进行展望。
+|[元宇宙的近未来形态与概念应用的过渡方向研究](https://report.iresearch.cn/report/202208/4039.shtml)|2022/8/3 14:00:56|报告是元宇宙概念应用系列报告的首篇，内容主要涉及4个方面：1、尝试总结元宇宙在近年引发关注的核心背景；2、尝试对元宇宙的概念及其雏形的基础要素与特性给出一种定义方式；3、尝试对元宇宙概念应用的几种近未来过渡形式进行归纳与分析，对应用向元宇宙平台演进的适配性、方向和重点提供一种思路；4、尝试结合不同计算平台路径分析各类型的元宇宙概念应用的近远潜力。
 |[2022年中国视频云服务行业研究报告](https://report.iresearch.cn/report/202207/4038.shtml)|2022/7/29 16:50:07|视频原生时代来临，视频应用正加速向各行各业渗透。视频云基础设施属性显现，将有望为全行业输出商业创新与变革的源动力。本报告聚焦近年来视频云行业的变化，从新基建、新能力、新交付和新市场四个维度归纳厂商的发展思路，并对视频云市场规模和细分结构进行推算，展望视频云厂商在元宇宙时代和产业互联网应用方面的机遇。
 |[2022年中国内容协作平台市场研究报告](https://report.iresearch.cn/report/202207/4037.shtml)|2022/7/28 14:53:19|本篇报告着眼于中国内容协作市场，探究知识型信息的流动创造的新的机遇，并关注新时代下内容协作平台市场的变化。随着远程办公成为新常态，如何高效协同、发挥文件内容的生产力成为热门议题，在数字工作空间下，内容要素的流动将创造更丰富的价值。报告剖析了需求侧办公场景与服务需求以及供给侧部署模式与协同创新的目前状况与新变化，指出了双循环背景下企业出海将应对的挑战，并对内容协作市场的未来的趋势做出了展望。
 |[2022年同城即配平台C端用户洞察研究报告](https://report.iresearch.cn/report/202207/4035.shtml)|2022/7/25 18:00:00|本报告将聚焦同城即配平台C端用户的认知和需求研究，结合用户调研数据，从即配行业现状与趋势展望、即配行业C端用户洞察-用户画像、即配行业C端用户洞察-用户需求、即配行业典型企业案例-顺丰同城四个方面深入分析，剖析即配行业的现状和趋势、C端用户的认知和需求。帮助即配品牌更好地理解C端用户的需求，从而洞悉即配行业C端业务未来的趋势发展。
