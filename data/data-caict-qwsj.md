@@ -1,10 +1,12 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [权威数据：521 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [权威数据：522 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[2022年二季度互联网投融资运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220808565743400685.pdf)|2022-08-08
+|[信息无障碍动态（2022年第7期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220802562964140624.pdf)|2022-08-02
 |[2022年上半年新能源汽车行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220727606061522187.pdf)|2022-07-27
 |[2022年上半年电子行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220727602516794912.pdf)|2022-07-27
 |[2022年上半年工业运行数据报告（投资）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220727609723768281.pdf)|2022-07-27

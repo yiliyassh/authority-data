@@ -1,10 +1,11 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [专题报告：207 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+- [专题报告：208 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[数字政府全光网研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202208/t20220808_407065.htm)|2022-08-08|[数字政府全光网研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202208/P020220808626383532299.pdf)
 |[6G典型场景和关键能力](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/t20220724_406339.htm)|2022-07-24|[6G典型场景和关键能力](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/P020220724437616473703.pdf)
 |[5G新通话技术与业务创新研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/t20220722_406284.htm)|2022-07-22|[5G新通话技术与业务创新研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/P020220722583813270179.pdf)
 |[区块链基础设施研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/t20220720_406148.htm)|2022-07-20|[区块链基础设施研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/P020220720381650932740.pdf)
