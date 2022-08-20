@@ -103,10 +103,12 @@
 |[中国第三方数据中心运营商分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220408_399556.htm)|2022-04-08|[中国第三方数据中心运营商分析报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220408530633654580.pdf)
 |[全球云游戏产业深度观察及趋势研判研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/t20220317_398029.htm)|2022-03-17|[全球云游戏产业深度观察及趋势研判研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220317526747187627.pdf)
 
-- 😄[权威数据：522 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)    [(镜像)](./data/data-caict-qwsj.md)
+- 😄[权威数据：524 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)    [(镜像)](./data/data-caict-qwsj.md)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[2022年二季度我国互联网上市企业运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220819476152701732.pdf)|2022-08-19
+|[国内增值电信业务许可情况报告（2022.7）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220818542894570359.pdf)|2022-08-18
 |[2022年二季度互联网投融资运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220808565743400685.pdf)|2022-08-08
 |[2022年上半年新能源汽车行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220727606061522187.pdf)|2022-07-27
 |[2022年上半年电子行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220727602516794912.pdf)|2022-07-27
@@ -114,7 +116,6 @@
 |[2022年上半年工业运行数据报告（生产）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220727675716519980.pdf)|2022-07-27
 |[2022年6月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220720606251860345.pdf)|2022-07-20
 |[2022年6月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220720605798682006.pdf)|2022-07-20
-|[国内增值电信业务许可情况报告（2022.6）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220720545323990840.pdf)|2022-07-20
 ***
 ## [7.财富FORTUNE 500强](https://www.fortunechina.com/rankings/node_11663.htm) :+1::+1::+1:
 [500强数据（本地镜像）](./top/t500.md)  
