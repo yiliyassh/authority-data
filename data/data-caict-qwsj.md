@@ -1,10 +1,16 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [权威数据：524 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [权威数据：530 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[《全国移动网络质量监测报告》（第2期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220905362668924283.pdf)|2022-09-01
+|[信息无障碍动态（2022年第8期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220831378299223374.pdf)|2022-08-31
+|[2022年7月新能源汽车行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220830495370055730.pdf)|2022-08-30
+|[2022年7月电子行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220830494528219028.pdf)|2022-08-30
+|[2022年7月工业运行数据报告（投资）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220830492950639346.pdf)|2022-08-30
+|[2022年7月工业运行数据报告（生产）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220830491119512786.pdf)|2022-08-30
 |[2022年二季度我国互联网上市企业运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220819476152701732.pdf)|2022-08-19
 |[国内增值电信业务许可情况报告（2022.7）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220818542894570359.pdf)|2022-08-18
 |[2022年二季度互联网投融资运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220808565743400685.pdf)|2022-08-08
