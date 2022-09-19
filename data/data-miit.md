@@ -20,18 +20,18 @@
 |原材料工业|[2022年上半年铜行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_4c6f2cd651e049f2838f1793d961667f.html)|08-05
 |原材料工业|[2022年上半年镁行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_f2769822ef304c9daf3002eb0c5b439f.html)|08-05
 |原材料工业|[2022年上半年工业硅行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_141ea5698208402a97b62e083474fb0d.html)|08-05
+|装备工业|[2022年8月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_706267a598c94a25b9391224b63a62ab.html)|09-09
 |装备工业|[2022年7月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_b38d5e63166e4ff2bd9ae397efe1aacb.html)|08-12
 |装备工业|[2022年二季度中国造船产能利用监测指数小幅回落](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2022/art_4875fbc70a19418b9399a03ccfa7a8e6.html)|07-29
 |装备工业|[2022年上半年我国造船国际市场份额保持全球领先](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2022/art_232d428cff5744d8922665fc20302530.html)|07-14
 |装备工业|[2022年6月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_236f9381746c4f56a9c2bdd0e8748b31.html)|07-11
 |装备工业|[2022年5月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_82343cadc84b47e48c0f0c769f903d69.html)|06-10
-|装备工业|[2022年4月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_f77a8699fdc8429189ac063d05f07ac0.html)|05-12
+|消费品工业|[2022年1－7月造纸行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_d7c3fbcd6b1e461fb1b99f06a4c5fa2d.html)|09-08
+|消费品工业|[2022年1－7月塑料制品行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_e58ea38717c142d5b8af724332ff7860.html)|09-08
+|消费品工业|[2022年1－7月皮革行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_7914f50fddb347f2a75f9fc0d13572de.html)|09-08
+|消费品工业|[2022年1－7月家具行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_6551b7c4e14043129ac5bd8dcb651809.html)|09-08
+|消费品工业|[2022年1－7月家电行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/jd/art/2022/art_d9a4ee71a3b142098bf8ef0c8dc73a29.html)|09-08
 |消费品工业|[2022年1－7月服装行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_e8af05ef49674208b1f269453f3ace39.html)|09-02
-|消费品工业|[2022年1－7月纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_96845dd3da7d4c858782b97ac28dd817.html)|09-02
-|消费品工业|[2022年1－6月化纤行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_000e7607291b4d0a91e92cbed7b46d87.html)|08-09
-|消费品工业|[2022年1－6月服装行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_3ceec83ed6f843bb937044586ecdc8fc.html)|08-09
-|消费品工业|[2022年1－6月纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_4407d5200e86452db6f0a67a081486d8.html)|08-09
-|消费品工业|[2022年上半年塑料制品行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_ac32e833bc804092b22528f7ca4bade9.html)|08-05
 |通信业|[2022年7月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_b4367e312b9f455aa2be07d03757100a.html)|08-22
 |通信业|[2022年1－7月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_db0a1674fb49444b9367f3685e97581b.html)|08-22
 |通信业|[2022年1－7月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_4f6f29af4c9b4fd09bb732c9e4495047.html)|08-22
@@ -56,12 +56,12 @@
 |互联网|[2022年一季度互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_4a3e741e8fc443fa82f15d87a554eb3b.html)|04-29
 |互联网|[2022年1－2月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_c074ba490a84490aadfccda1fa2b3eea.html)|03-30
 |互联网|[2021年互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_b0299e5b207946f9b7206e752e727e66.html)|01-27
+|网络安全|[9月5日－9月11日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_4a3b2bb839af43a0979c4150a8f419c9.html)|09-15
+|网络安全|[8月29日－9月4日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_56f3c02838944ed7bbe0bbe8dc67b765.html)|09-13
+|网络安全|[8月22日－8月28日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_6de9d638182b44088982cafaf30a02c1.html)|09-02
+|网络安全|[8月15日－8月21日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_92ad3fce89cf4bdb8c3226ba50390029.html)|08-26
 |网络安全|[7月11日－7月17日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_0280cc3e74164bb995c2e67d3bb29a52.html)|07-22
 |网络安全|[7月4日－7月10日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_1802ead7bf15474b976e4a10e6576d3c.html)|07-14
-|网络安全|[6月27日－7月3日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_7079810a65834897a6c80ff5dd8e5114.html)|07-07
-|网络安全|[6月20日－6月26日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_9bba6b33427e42ff93a432c271373224.html)|07-04
-|网络安全|[6月13日－6月19日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_07c7afaf2daa493696ab654825b87175.html)|07-04
-|网络安全|[6月6日－6月12日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_d3a2fb58ba4b4821be4b920507318621.html)|06-15
 
 ### [原材料工业](https://www.miit.gov.cn/gxsj/tjfx/yclgy/index.html)    ——   钢铁 有色 石化化工 建材 稀土  
 

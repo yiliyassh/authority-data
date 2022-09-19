@@ -1,10 +1,11 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [专题报告：209 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+- [专题报告：210 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
 
 |名称（详情）|发布日期|下载（点击）|
-|:----|:----|:----|
+
+|[下一代ODN网络建设解决方案白皮书](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220915_408937.htm)|2022-09-15|[下一代ODN网络建设解决方案白皮书](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220915681798985759.pdf)
 |[可信人工智能产业生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220906_408553.htm)|2022-09-06|[可信人工智能产业生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220906498032388828.pdf)
 |[数字政府全光网研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202208/t20220808_407065.htm)|2022-08-08|[数字政府全光网研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202208/P020220808626383532299.pdf)
 |[6G典型场景和关键能力](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/t20220724_406339.htm)|2022-07-24|[6G典型场景和关键能力](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/P020220724437616473703.pdf)

@@ -1,10 +1,14 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [权威数据：530 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [权威数据：534 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[国内手机产品交互载体特性监测报告（2022年第二期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220916496961240243.pdf)|2022-09-16
+|[国内手机产品通信特性与技术能力监测报告（2022年第二期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220916496444887685.pdf)|2022-09-16
+|[2022年7月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220913633031673644.pdf)|2022-09-13
+|[2022年7月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220913632524064701.pdf)|2022-09-13
 |[《全国移动网络质量监测报告》（第2期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220905362668924283.pdf)|2022-09-01
 |[信息无障碍动态（2022年第8期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220831378299223374.pdf)|2022-08-31
 |[2022年7月新能源汽车行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220830495370055730.pdf)|2022-08-30
