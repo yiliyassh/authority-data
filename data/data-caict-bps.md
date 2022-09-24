@@ -1,10 +1,11 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [白皮书：278 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
+- [白皮书：279 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[5G消息发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/t20220922_409260.htm)|2022-09-22|[5G消息发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/P020220922719084352804.pdf)
 |[全球开源生态研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/t20220916_409031.htm)|2022-09-16|[全球开源生态研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/P020220916644891972234.pdf)
 |[人工智能生成内容（AIGC）白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/t20220902_408420.htm)|2022-09-02|[人工智能生成内容（AIGC）白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/P020220902534520798735.pdf)
 |[全球数字经贸规则年度观察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/t20220729_406686.htm)|2022-07-29|[全球数字经贸规则年度观察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/P020220729550446286663.pdf)

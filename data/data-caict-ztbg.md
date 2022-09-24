@@ -1,10 +1,12 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [专题报告：210 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+- [专题报告：212 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
 
 |名称（详情）|发布日期|下载（点击）|
-
+|:----|:----|:----|
+|[释放中国-东盟数字贸易发展潜力：新基建与新路径](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220921_409205.htm)|2022-09-21|[释放中国-东盟数字贸易发展潜力：新基建与新路径](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220921507229740807.pdf)
+|[中德车联网（智能网联汽车）C-V2X量产应用研究报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220920_409171.htm)|2022-09-20|[中德车联网（智能网联汽车）C-V2X量产应用研究报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220920578599931240.pdf)
 |[下一代ODN网络建设解决方案白皮书](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220915_408937.htm)|2022-09-15|[下一代ODN网络建设解决方案白皮书](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220915681798985759.pdf)
 |[可信人工智能产业生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220906_408553.htm)|2022-09-06|[可信人工智能产业生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220906498032388828.pdf)
 |[数字政府全光网研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202208/t20220808_407065.htm)|2022-08-08|[数字政府全光网研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202208/P020220808626383532299.pdf)
