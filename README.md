@@ -28,30 +28,27 @@
 |行业|名称（详情）|发布日期|
 |:----|:----|:----|  
 |原材料工业|[2022年1－7月光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2022/art_ecb1ba773a4d4da5868f7e3db9f1fce0.html)|08-16
+|原材料工业|[2022年上半年石化化工行业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/shhg/art/2022/art_98b9a5f92c2d437bb5e013bb93cd1f77.html)|08-05
 |原材料工业|[2022年上半年稀土功能材料生产情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/xt/art/2022/art_bdb6144069b245ec94c20d10d4cfd38a.html)|08-05
+|原材料工业|[2022年上半年铜行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_4c6f2cd651e049f2838f1793d961667f.html)|08-05
+|原材料工业|[2022年上半年镁行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_f2769822ef304c9daf3002eb0c5b439f.html)|08-05
 |装备工业|[2022年8月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_706267a598c94a25b9391224b63a62ab.html)|09-09
 |装备工业|[2022年7月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_b38d5e63166e4ff2bd9ae397efe1aacb.html)|08-12
-|消费品工业|[2022年1－7月造纸行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_d7c3fbcd6b1e461fb1b99f06a4c5fa2d.html)|09-08
-|消费品工业|[2022年1－7月塑料制品行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_e58ea38717c142d5b8af724332ff7860.html)|09-08
-|消费品工业|[2022年1－7月皮革行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_7914f50fddb347f2a75f9fc0d13572de.html)|09-08
-|消费品工业|[2022年1－7月家具行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_6551b7c4e14043129ac5bd8dcb651809.html)|09-08
-|消费品工业|[2022年1－7月家电行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/jd/art/2022/art_d9a4ee71a3b142098bf8ef0c8dc73a29.html)|09-08
+|消费品工业|[2022年1－8月化纤行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_07d72f6e9655434e914e5112c9f3a537.html)|09-28
+|消费品工业|[2022年1－8月服装行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_a192e004360a4b6fa45d04025e53a1c7.html)|09-28
+|消费品工业|[2022年1－8月纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_df0e1a9f86324b078e2b10f744cd4141.html)|09-28
 |通信业|[2022年8月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_81bcac096699456ab2477b5c5451548f.html)|09-20
 |通信业|[2022年1－8月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_190fdf8d7a33429090c87bff87eb1b33.html)|09-20
 |通信业|[2022年1－8月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_483fa574f8bc4050ab6a7788e81b9d30.html)|09-20
-|通信业|[2022年1－8月份通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_146e5784030e4cdcbd5698e4e3e19341.html)|09-20
 |电子信息制造业|[2022年1－7月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_de7ce8cc55cd46069275be0461d8d103.html)|08-30
 |电子信息制造业|[2022年上半年锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_2a837ababa794179a297f98a51d590bb.html)|08-03
-|电子信息制造业|[2022年上半年电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_3ae309f17ed545e1984a8c6cc23b2d51.html)|07-28
-|电子信息制造业|[2022年上半年中国光伏产业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_c05f35a00bc249a48936fb981eed0688.html)|07-20
-|软件业|[2022年1－7月份软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_383d5868fdef45ada413874cd55e3b7f.html)|08-23
-|软件业|[2022年1－7月份软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_41100ecfad894e1ab6850d9974162ae0.html)|08-23
-|软件业|[2022年1－7月份软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_a848d1d361c64987a726eb5de4f8d22b.html)|08-23
-|互联网|[2022年1－7月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_a4f1659d3f904f558ee78421dc7f0a04.html)|08-30
-|互联网|[2022年上半年互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_eadb1cb336dc4898a1ec7e73eddb4f36.html)|07-27
+|软件业|[2022年1－8月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_c0276295fc40482bb551e8f9e8cd2c7f.html)|09-29
+|软件业|[2022年1－8月份软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_a26e42e8b4ce47ea83a0dd52c8c27809.html)|09-27
+|软件业|[2022年1－8月份软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_9ae626d8a4ea471a945d5eb1cb0ac6eb.html)|09-27
+|软件业|[2022年1－8月份软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_3c92b5ebe4594e8cb775a7f1290a401b.html)|09-27
+|互联网|[2022年1－8月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_ea5be443dc384bee9ffe17740b053685.html)|09-29
+|网络安全|[9月19日－9月25日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_01c3ab78d0a74f43bf8da1bb9f63c25c.html)|09-28
 |网络安全|[9月12日－9月18日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_1475578f15904aef9dbd7c6369174b86.html)|09-23
-|网络安全|[9月5日－9月11日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_4a3b2bb839af43a0979c4150a8f419c9.html)|09-15
-
 
 ***
 ## [4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm) :+1::+1::+1:  
@@ -170,6 +167,9 @@
 
 |名称|发布日期|简介|
 |:----|:----|:----|
+|[2022年中国财税数字化行业研究报告](https://report.iresearch.cn/report/202209/4073.shtml)|2022/9/29 17:30:10","Id":"freport.4071|本报告对中国新汉服行业的现状和趋势进行梳理研究，主要围绕新汉服行业的市场规模、驱动因素以及消费者画像等方面进行了调研与分析。对新汉服行业的发展现状进和前景行了全面的展示，同时对其未来的发展趋势和方向进行了分析与探索。
+|[2022年中国虚拟偶像行业研究报告](https://report.iresearch.cn/report/202209/4071.shtml)|2022/9/28 13:30:00","Id":"freport.4069|端边云协同的AI视觉产业研究报告为艾瑞咨询集团自主研究发布的行业报告。本报告重点阐述AI视觉产业背景，讨论端边云协同的需求与发特点，对端边云协同的AI视觉典型行业领域进行讨论，展示典型厂商案例与未来的技术与生态发展趋势。希望通过本报告，为读者呈现现阶段AI视觉行业发展的要点，提供辨析和判断AI视觉行业趋势的方法启发。
+|[2022年中国教育智能硬件市场与用户洞察报告](https://report.iresearch.cn/report/202209/4069.shtml)|2022/9/23 17:42:22","Id":"freport.4068|近年来，中国ACGN行业发展迅猛，流量为王的时代逐渐向品牌化生态化发展，除了产品粉丝群体广度的拓展和深度的挖掘，还注重IP形象的树立和价值的延伸。微博多年深耕社交运营，具备公域流量和私域运营的双重优势，为ACGN内容打造品牌生态提供强有力的支持。
 |[2022年“专精特新”企业发展研究报告](https://report.iresearch.cn/report/202209/4068.shtml)|2022/9/21 18:05:29|报告回顾了2021年中国网络招聘行业市场发展变化，从多个角度解读市场以及行业的变化。通过分析以上变化，总结如今网络招聘行业存在的问题和挑战，并对行业未来的发展趋势给出一定的建议供各方参考。
 |[2022年中国数字藏品行业研究报告](https://report.iresearch.cn/report/202209/4065.shtml)|2022/9/16 17:16:54|报告对我国金融云行业的发展背景、竞争格局、市场规模等情况进行深入梳理。从存量市场与增量市场两大维度洞察中国金融云行业未来的发展方向与实践效能，并对卓越服务商及卓越解决方案进行深度解读。
 |[2022年中国体育赛事IP商业化研究报告](https://report.iresearch.cn/report/202209/4063.shtml)|2022/9/13 15:00:00|白皮书通过全面梳理和洞察目前中国汽车数字化营销的发展现状与趋势，并深度洞察汽车厂商和汽车后市场相关企业的数字化营销痛点与需求，深入分析和挖掘当前汽车用户选车、购车、买车、用车、养车等流程中的行为变化特点，帮助京东向汽车厂商和汽车后市场企业展现其突出营销价值，进而实现京东在汽车厂商和汽车后市场企业侧的业务增长。
