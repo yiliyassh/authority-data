@@ -1,4 +1,4 @@
-# 官方权威统计数据（持续更新：2022-9-25）
+# 官方权威统计数据（持续更新：2022-10-15）
 每周更新  ^_^  
 收集整理【官方权威】公开数据    
 （  注：:o: 一般   :+1: 好评 :+1::+1: 推荐 :+1::+1::+1: 强烈推荐   :x: 差评）    
@@ -32,11 +32,13 @@
 |原材料工业|[2022年上半年稀土功能材料生产情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/xt/art/2022/art_bdb6144069b245ec94c20d10d4cfd38a.html)|08-05
 |原材料工业|[2022年上半年铜行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_4c6f2cd651e049f2838f1793d961667f.html)|08-05
 |原材料工业|[2022年上半年镁行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2022/art_f2769822ef304c9daf3002eb0c5b439f.html)|08-05
+|装备工业|[2022年9月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_13d4eb9fe9474a1fb6931024d6cfe64e.html)|10-11
 |装备工业|[2022年8月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_706267a598c94a25b9391224b63a62ab.html)|09-09
-|装备工业|[2022年7月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_b38d5e63166e4ff2bd9ae397efe1aacb.html)|08-12
-|消费品工业|[2022年1－8月化纤行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_07d72f6e9655434e914e5112c9f3a537.html)|09-28
-|消费品工业|[2022年1－8月服装行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_a192e004360a4b6fa45d04025e53a1c7.html)|09-28
-|消费品工业|[2022年1－8月纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_df0e1a9f86324b078e2b10f744cd4141.html)|09-28
+|消费品工业|[2022年1－8月家电行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/jd/art/2022/art_252a16aba104421684bb5f05fdafb480.html)|09-30
+|消费品工业|[2022年1－8月家具行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_ed4358ddc6f14fd389acee305619a2dd.html)|09-30
+|消费品工业|[2022年1－8月塑料制品行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_1845d27927c245c9b32bce5b406ef630.html)|09-30
+|消费品工业|[2022年1－8月造纸行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_8f219b4307bd47c2b17d6bf8e352947b.html)|09-30
+|消费品工业|[2022年1－8月皮革行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_80f2040d04c74a6a9e55124f28700f95.html)|09-30
 |通信业|[2022年8月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_81bcac096699456ab2477b5c5451548f.html)|09-20
 |通信业|[2022年1－8月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_190fdf8d7a33429090c87bff87eb1b33.html)|09-20
 |通信业|[2022年1－8月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_483fa574f8bc4050ab6a7788e81b9d30.html)|09-20
@@ -47,8 +49,8 @@
 |软件业|[2022年1－8月份软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_9ae626d8a4ea471a945d5eb1cb0ac6eb.html)|09-27
 |软件业|[2022年1－8月份软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_3c92b5ebe4594e8cb775a7f1290a401b.html)|09-27
 |互联网|[2022年1－8月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_ea5be443dc384bee9ffe17740b053685.html)|09-29
-|网络安全|[9月19日－9月25日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_01c3ab78d0a74f43bf8da1bb9f63c25c.html)|09-28
-|网络安全|[9月12日－9月18日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_1475578f15904aef9dbd7c6369174b86.html)|09-23
+|网络安全|[10月3日－10月9日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_c21584bd9c4249fe9124633f7614d010.html)|10-13
+|网络安全|[9月26日－10月2日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_61d0d4c5606645eb8b0265aefc54ac76.html)|10-10
 
 ***
 ## [4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm) :+1::+1::+1:  
