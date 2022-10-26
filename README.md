@@ -1,4 +1,4 @@
-# 官方权威统计数据（持续更新：2022-10-15）
+# 官方权威统计数据（持续更新：2022-10-26）
 每周更新  ^_^  
 收集整理【官方权威】公开数据    
 （  注：:o: 一般   :+1: 好评 :+1::+1: 推荐 :+1::+1::+1: 强烈推荐   :x: 差评）    
@@ -42,15 +42,16 @@
 |通信业|[2022年8月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_81bcac096699456ab2477b5c5451548f.html)|09-20
 |通信业|[2022年1－8月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_190fdf8d7a33429090c87bff87eb1b33.html)|09-20
 |通信业|[2022年1－8月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_483fa574f8bc4050ab6a7788e81b9d30.html)|09-20
-|电子信息制造业|[2022年1－7月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_de7ce8cc55cd46069275be0461d8d103.html)|08-30
-|电子信息制造业|[2022年上半年锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_2a837ababa794179a297f98a51d590bb.html)|08-03
+|电子信息制造业|[2022年7－8月全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_07dcc18487dc4ae1b3cd4e87a6b55e71.html)|10-14
+|电子信息制造业|[2022年7－8月全国锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_3e1f5ba27b9b472cad3e7572516f7232.html)|10-14
+|电子信息制造业|[2022年1－8月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_ea5be443dc384bee9ffe17740b053685.html)|09-29
 |软件业|[2022年1－8月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_c0276295fc40482bb551e8f9e8cd2c7f.html)|09-29
 |软件业|[2022年1－8月份软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_a26e42e8b4ce47ea83a0dd52c8c27809.html)|09-27
 |软件业|[2022年1－8月份软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_9ae626d8a4ea471a945d5eb1cb0ac6eb.html)|09-27
 |软件业|[2022年1－8月份软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_3c92b5ebe4594e8cb775a7f1290a401b.html)|09-27
-|互联网|[2022年1－8月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_ea5be443dc384bee9ffe17740b053685.html)|09-29
+|互联网|[2022年1－7月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_a4f1659d3f904f558ee78421dc7f0a04.html)|08-30
+|网络安全|[10月10日－10月16日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_e630e64e205e4d64ad2b4622ee22cce9.html)|10-19
 |网络安全|[10月3日－10月9日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_c21584bd9c4249fe9124633f7614d010.html)|10-13
-|网络安全|[9月26日－10月2日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_61d0d4c5606645eb8b0265aefc54ac76.html)|10-10
 
 ***
 ## [4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm) :+1::+1::+1:  
@@ -87,10 +88,11 @@
 |[**车联网白皮书**](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/t20211224_394522.htm)|2021-12-24|[车联网白皮书.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/P020211224634954242855.pdf)
 |[**全球数字治理白皮书**](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/t20211223_394423.htm)|2021-12-23|[全球数字治理白皮书.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/P020211223383085909153.pdf)
   
-- 😄[专题报告：212 个](http://www.caict.ac.cn/kxyj/qwfb)    [(镜像)](./data/data-caict-ztbg.md)
+- 😄[专题报告：213 个](http://www.caict.ac.cn/kxyj/qwfb)    [(镜像)](./data/data-caict-ztbg.md)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[算力时代网络运力研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202210/t20221012_409939.htm)|2022-10-12|[算力时代网络运力研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202210/P020221012504035144088.pdf)
 |[释放中国-东盟数字贸易发展潜力：新基建与新路径](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220921_409205.htm)|2022-09-21|[释放中国-东盟数字贸易发展潜力：新基建与新路径](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220921507229740807.pdf)
 |[中德车联网（智能网联汽车）C-V2X量产应用研究报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220920_409171.htm)|2022-09-20|[中德车联网（智能网联汽车）C-V2X量产应用研究报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220920578599931240.pdf)
 |[下一代ODN网络建设解决方案白皮书](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220915_408937.htm)|2022-09-15|[下一代ODN网络建设解决方案白皮书](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220915681798985759.pdf)
@@ -108,30 +110,18 @@
 |[中国第三方数据中心运营商分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220408_399556.htm)|2022-04-08|[中国第三方数据中心运营商分析报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220408530633654580.pdf)
 |[全球云游戏产业深度观察及趋势研判研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/t20220317_398029.htm)|2022-03-17|[全球云游戏产业深度观察及趋势研判研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220317526747187627.pdf)
 
-- 😄[权威数据：535 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)    [(镜像)](./data/data-caict-qwsj.md)
+- 😄[权威数据：538 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)    [(镜像)](./data/data-caict-qwsj.md)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[2022年7月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202210/P020221026564040871216.pdf)|2022-10-26
+|[2022年8月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202210/P020221026563397822797.pdf)|2022-10-26
+|[国内增值电信业务许可情况报告（2022.9）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202210/P020221020372500447033.pdf)|2022-10-20
+|[信息无障碍动态（2022年第9期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202210/P020221008545143995045.pdf)|2022-10-08
 |[国内增值电信业务许可情况报告（2022.8）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220920585224101323.pdf)|2022-09-20
 |[国内手机产品交互载体特性监测报告（2022年第二期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220916496961240243.pdf)|2022-09-16
 |[国内手机产品通信特性与技术能力监测报告（2022年第二期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220916496444887685.pdf)|2022-09-16
-|[2022年7月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220913633031673644.pdf)|2022-09-13
-|[2022年7月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220913632524064701.pdf)|2022-09-13
-|[《全国移动网络质量监测报告》（第2期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220905362668924283.pdf)|2022-09-01
-|[信息无障碍动态（2022年第8期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220831378299223374.pdf)|2022-08-31
-|[2022年7月新能源汽车行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220830495370055730.pdf)|2022-08-30
-|[2022年7月电子行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220830494528219028.pdf)|2022-08-30
-|[2022年7月工业运行数据报告（投资）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220830492950639346.pdf)|2022-08-30
-|[2022年7月工业运行数据报告（生产）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220830491119512786.pdf)|2022-08-30
-|[2022年二季度我国互联网上市企业运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220819476152701732.pdf)|2022-08-19
-|[国内增值电信业务许可情况报告（2022.7）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220818542894570359.pdf)|2022-08-18
-|[2022年二季度互联网投融资运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202208/P020220808565743400685.pdf)|2022-08-08
-|[2022年上半年新能源汽车行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220727606061522187.pdf)|2022-07-27
-|[2022年上半年电子行业运行数据报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220727602516794912.pdf)|2022-07-27
-|[2022年上半年工业运行数据报告（投资）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220727609723768281.pdf)|2022-07-27
-|[2022年上半年工业运行数据报告（生产）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220727675716519980.pdf)|2022-07-27
-|[2022年6月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220720606251860345.pdf)|2022-07-20
-|[2022年6月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202207/P020220720605798682006.pdf)|2022-07-20
+
 ***
 ## [7.财富FORTUNE 500强](https://www.fortunechina.com/rankings/node_11663.htm) :+1::+1::+1:
 [500强数据（本地镜像）](./top/t500.md)  

@@ -1,10 +1,14 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [权威数据：534 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [权威数据：538 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[2022年7月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202210/P020221026564040871216.pdf)|2022-10-26
+|[2022年8月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202210/P020221026563397822797.pdf)|2022-10-26
+|[国内增值电信业务许可情况报告（2022.9）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202210/P020221020372500447033.pdf)|2022-10-20
+|[信息无障碍动态（2022年第9期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202210/P020221008545143995045.pdf)|2022-10-08
 |[国内增值电信业务许可情况报告（2022.8）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220920585224101323.pdf)|2022-09-20
 |[国内手机产品交互载体特性监测报告（2022年第二期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220916496961240243.pdf)|2022-09-16
 |[国内手机产品通信特性与技术能力监测报告（2022年第二期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220916496444887685.pdf)|2022-09-16
