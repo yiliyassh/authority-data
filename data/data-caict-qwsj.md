@@ -1,10 +1,14 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [权威数据：538 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [权威数据：542 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[国内增值电信业务许可情况报告（2022.10）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221117528706501754.pdf)|2022-11-17
+|[2022年三季度我国互联网上市企业运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221116595504161100.pdf)|2022-11-16
+|[信息无障碍动态（2022年第10期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221103547444738364.pdf)|2022-11-03
+|[2022年三季度互联网投融资运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221101575920982516.pdf)|2022-11-01
 |[2022年7月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202210/P020221026564040871216.pdf)|2022-10-26
 |[2022年8月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202210/P020221026563397822797.pdf)|2022-10-26
 |[国内增值电信业务许可情况报告（2022.9）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202210/P020221020372500447033.pdf)|2022-10-20

@@ -1,10 +1,15 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [白皮书：279 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
+- [白皮书：284 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[脑机接口总体愿景与关键技术研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221126_412081.htm)|2022-11-26|[脑机接口总体愿景与关键技术研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221126768090197204.pdf)
+|[中国工业经济发展形势展望（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221125_412011.htm)|2022-11-25|[中国工业经济发展形势展望（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221125354713531627.pdf)
+|[中国县域工业经济发展报告（2022）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221125_412010.htm)|2022-11-25|[中国县域工业经济发展报告（2022）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221125353373559031.pdf)
+|[中国金融科技生态白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221117_411575.htm)|2022-11-17|[中国金融科技生态白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221117542199873767.pdf)
+|[中国算力发展指数白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221105_411006.htm)|2022-11-05|[中国算力发展指数白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221105727522653499.pdf)
 |[5G消息发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/t20220922_409260.htm)|2022-09-22|[5G消息发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/P020220922719084352804.pdf)
 |[全球开源生态研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/t20220916_409031.htm)|2022-09-16|[全球开源生态研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/P020220916644891972234.pdf)
 |[人工智能生成内容（AIGC）白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/t20220902_408420.htm)|2022-09-02|[人工智能生成内容（AIGC）白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/P020220902534520798735.pdf)
