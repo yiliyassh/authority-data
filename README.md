@@ -1,4 +1,4 @@
-# 官方权威统计数据（持续更新：2022-11-28）
+# 官方权威统计数据（持续更新：2022-12-12）
 每周更新  ^_^  
 收集整理【官方权威】公开数据    
 （  注：:o: 一般   :+1: 好评 :+1::+1: 推荐 :+1::+1::+1: 强烈推荐   :x: 差评）    
@@ -35,27 +35,26 @@
 |装备工业|[2022年10月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2022/art_bb5e97cc60a844e8acf546a33e688ac5.html)|11-11
 |装备工业|[2022年三季度中国造船产能利用监测指数实现回升](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2022/art_ec1a4ac2adaf49ebba3a81873d687b3c.html)|11-01
 |装备工业|[2022年前三季度我国造船市场份额保持全球领先](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2022/art_d04f98503d9846b19ba4c264214b2565.html)|10-27
-|消费品工业|[2022年1－9月造纸行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_9686b4f2417842168c695862150de218.html)|11-11
-|消费品工业|[2022年1－9月塑料制品行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_8e6fecee35334c958a0914a523ed17b8.html)|11-11
-|消费品工业|[2022年1－9月皮革行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_f26a6b089c644554a501b299a4a3c43c.html)|11-11
-|消费品工业|[2022年1－9月家具行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_202f876f67b84f0a81e1605f90030cd1.html)|11-11
-|消费品工业|[2022年1－9月家电行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/jd/art/2022/art_658fc1a27f4043648a476f30cd8f7446.html)|11-11
+|消费品工业|[2022年1－10月化纤行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_4447ac920ba343de80e2f0600cf52765.html)|12-05
+|消费品工业|[2022年1－10月服装行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_9bcd6d18ebdd43a199ab403d083d638a.html)|12-05
+|消费品工业|[2022年1－10月纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2022/art_91ddf3ef66134a459089785c12389ada.html)|12-05
+|消费品工业|[2022年1－10月塑料制品行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_e0e5bc1b85af47c9ad44bcb56dfd1315.html)|12-02
+|消费品工业|[2022年1－10月家具行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_8f2984f389ec4d4ab5b35b676c795ce3.html)|12-02
+|消费品工业|[2022年1－10月家电行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/jd/art/2022/art_2002aeff016c47bea75258195e5620c0.html)|12-02
 |通信业|[2022年10月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_c869a9b369ab4aaaad032e7a05cd2464.html)|11-21
 |通信业|[2022年1－10月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_fa261d9328224bfaa2632f841d352b4e.html)|11-21
 |通信业|[2022年1－10月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_ee8899d7ddeb41dfbfd6d1768a5a21a0.html)|11-21
 |通信业|[2022年1－10月份通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_326d66ed6f8046068d36f26005849c20.html)|11-21
-|互联网|[2021年电子信息制造业年度统计数据](https://www.miit.gov.cnhttps://www.miit.gov.cn/dznj2021/hlw.html)|11-08
+|电子信息制造业|[2022年1－10月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_dfa59e1e5b7f485e8aedc8af262dd4fd.html)|11-30
 |电子信息制造业|[2022年前三季度电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_eea85f8c2bc343a5b04af599fd3e2bc2.html)|10-31
-|电子信息制造业|[2022年7－8月全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_07dcc18487dc4ae1b3cd4e87a6b55e71.html)|10-14
-|电子信息制造业|[2022年7－8月全国锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_3e1f5ba27b9b472cad3e7572516f7232.html)|10-14
 |软件业|[2022年1－10月份软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_f8bfc11548324a248e69b25b63020a0c.html)|11-23
 |软件业|[2022年前三季度软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_f66b6def9e554085bda63b6e4234d3b0.html)|10-26
 |软件业|[2022年前三季度软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_e69291f1a410401faf14bfb97bb56daf.html)|10-26
 |软件业|[2022年前三季度软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_41091e94953d48c2a21e90b141ca6c8b.html)|10-26
+|互联网|[2022年1－10月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_2f2b44819a3d44588dfa934cb0c17ec6.html)|11-30
 |互联网|[2021年互联网和相关服务业年度统计数据](https://www.miit.gov.cnhttps://www.miit.gov.cn/hlwnj2021/hlw.html)|11-01
-|互联网|[2022年前三季度互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_5a25f16e772744b8930c5b720fd053c9.html)|10-31
-|网络安全|[11月14日－11月20日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_d67b1161c8e24cca8d6a4df46fdefb8a.html)|11-23
-|网络安全|[11月7日－11月13日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_263e544520f94ecbb0dd026fba7ac146.html)|11-17
+|网络安全|[11月28日－12月4日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_50a29f8d612e4feeb9a64cd7b4efb3b8.html)|12-09
+|网络安全|[11月21日－11月27日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_48931ad544da4fa1846a37bd52607371.html)|12-02
 
 ***
 ## [4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm) :+1::+1::+1:  
@@ -74,10 +73,11 @@
    
 ***
 ## [6.中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:  
-- 😄[白皮书：284 个](http://www.caict.ac.cn/kxyj/qwfb/bps)    [(镜像)](./data/data-caict-bps.md)
+- 😄[白皮书：285 个](http://www.caict.ac.cn/kxyj/qwfb/bps)    [(镜像)](./data/data-caict-bps.md)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[**全球数字经济白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221207_412453.htm)|2022-12-07|[全球数字经济白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020221207397428021671.pdf)
 |[脑机接口总体愿景与关键技术研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221126_412081.htm)|2022-11-26|[脑机接口总体愿景与关键技术研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221126768090197204.pdf)
 |[**中国工业经济发展形势展望（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221125_412011.htm)|2022-11-25|[中国工业经济发展形势展望（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221125354713531627.pdf)
 |[中国县域工业经济发展报告（2022）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221125_412010.htm)|2022-11-25|[中国县域工业经济发展报告（2022）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221125353373559031.pdf)
@@ -97,10 +97,15 @@
 |[**车联网白皮书**](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/t20211224_394522.htm)|2021-12-24|[车联网白皮书.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/P020211224634954242855.pdf)
 |[**全球数字治理白皮书**](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/t20211223_394423.htm)|2021-12-23|[全球数字治理白皮书.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/P020211223383085909153.pdf)
   
-- 😄[专题报告：216 个](http://www.caict.ac.cn/kxyj/qwfb)    [(镜像)](./data/data-caict-ztbg.md)
+- 😄[专题报告：221 个](http://www.caict.ac.cn/kxyj/qwfb)    [(镜像)](./data/data-caict-ztbg.md)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[**中国智慧企业发展报告（2022）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221209_412554.htm)|2022-12-09|[中国智慧企业发展报告（2022）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221209357952132146.pdf)
+|[数字时代治理现代化研究报告——运用数字技术进行政府治理的...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221207_412454.htm)|2022-12-07|[数字时代治理现代化研究报告——运用数字技术进行政府治理的...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221207530304282075.pdf)
+|[重点工业行业碳达峰碳中和需求洞察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221205_412382.htm)|2022-12-05|[重点工业行业碳达峰碳中和需求洞察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221205617900617167.pdf)
+|[金融云安全体系建设与实践研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221202_412287.htm)|2022-12-02|[金融云安全体系建设与实践研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221202509779249643.pdf)
+|[**中国智能制造发展研究报告——智能工厂**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/t20221128_412110.htm)|2022-11-28|[中国智能制造发展研究报告——智能工厂](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/P020221128387338586599.pdf)
 |[数字政府发展趋势与建设路径研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/t20221123_411845.htm)|2022-11-23|[数字政府发展趋势与建设路径研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/P020221123496269315741.pdf)
 |[**5G时代“AIoT+金融”研究报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/t20221122_411790.htm)|2022-11-22|[5G时代“AIoT+金融”研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/P020221122581973542304.pdf)
 |[5G应用创新发展白皮书——2022年第五届“绽放杯”5G应用征集...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/t20221118_411628.htm)|2022-11-18|[5G应用创新发展白皮书——2022年第五届“绽放杯”5G应用征集...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/P020221118420352552862.pdf)
@@ -122,10 +127,14 @@
 |[中国第三方数据中心运营商分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220408_399556.htm)|2022-04-08|[中国第三方数据中心运营商分析报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220408530633654580.pdf)
 |[全球云游戏产业深度观察及趋势研判研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/t20220317_398029.htm)|2022-03-17|[全球云游戏产业深度观察及趋势研判研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220317526747187627.pdf)
 
-- 😄[权威数据：542 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)    [(镜像)](./data/data-caict-qwsj.md)
+- 😄[权威数据：546 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)    [(镜像)](./data/data-caict-qwsj.md)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[《全国移动网络质量监测报告》（第3期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221208623971103509.pdf)|2022-12-08
+|[信息无障碍动态（2022年第11期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221202408180553397.pdf)|2022-12-02
+|[2022年9月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221128655325731629.pdf)|2022-11-28
+|[2022年9月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221128654611383846.pdf)|2022-11-28
 |[国内增值电信业务许可情况报告（2022.10）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221117528706501754.pdf)|2022-11-17
 |[**2022年三季度我国互联网上市企业运行情况**](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221116595504161100.pdf)|2022-11-16
 |[信息无障碍动态（2022年第10期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221103547444738364.pdf)|2022-11-03
@@ -175,6 +184,11 @@
 
 |名称|发布日期|简介|
 |:----|:----|:----|
+|[2022年中国医疗科技行业研究报告](https://report.iresearch.cn/report/202212/4116.shtml)|2022/12/12 17:38:08|近年来，“云数物智移”等数字技术蓬勃发展，这些技术的集成在疾病监控、辅助决策、健康管理等方面发挥了重要的作用，为现代化智慧医疗的建设提供了技术支持，使患者就医更从容，医者行医更轻松，政府治理更高效，进一步助推了我国医疗卫生体系的发展。艾瑞认为，随着更多新兴技术与医疗场景的逐步融合，科技将会赋能医疗“底色”，加速智慧医疗建设的进程，医疗科技行业方兴日盛。
+|[数字新生态：2022年中国低代码厂商发展白皮书](https://report.iresearch.cn/report/202212/4115.shtml)|2022/12/9 17:18:58|当前低代码厂商类型主要有原生型、传统型、生态型三种。生态型低代码厂商主打“产品+服务+生态”的模式，这里的生态可分为内部多应用的集成利用与外部合作伙伴的协作，完善低代码产品本身功能、提升自身产品性能的同时也可实现与合作伙伴的生态共建。本报告通过从产品能力、品牌影响力、生态能力三个维度对低代码厂商进行评价，认为产品功能全面、具备一体化开发平台能力，厂商背景雄厚、资金链充裕、客户认可度高的厂商更受市场欢迎，同时具备内部资源链接能力和外部合作伙伴链接能力的厂商更具生态发展优势。此外，报告认为平台一体化、生态模式多样化，从客户以及合作伙伴两个维度拓展生态将是低代码厂商未来的发展模式趋势。
+|[**2022年中国数据库研究报告**](https://report.iresearch.cn/report/202212/4114.shtml)|2022/12/8 15:25:50|当前，数据规模爆炸性增长、数据类型愈发丰富、数据应用快速深化。数据库作为最为复杂、跨技术领域最多的基础软件，在数字经济时代其战略性、基础性的地位愈发凸显，是数字基础设施的坚实底座，是数字化转型的核心引擎。近年来全球范围内创新型数据库产品快速涌现，市场格局剧烈变革，我国数据库支持政策不断加码，产业进入重大发展机遇期。
+|[云服务行业动态及热点研究月报 - 2022年11月](https://report.iresearch.cn/report/202212/4112.shtml)|2022/12/7 18:17:04|本月报是艾瑞针对整体云服务以及政企数智办公平台等热门赛道在本月产生的热门事件、政策动向、技术革新、招采信息、资本动态等，及重点客户和头部企业的动态信号及标杆案例，进行材料搜集并整理的行业信息监测报告。艾瑞基于云服务行业洞察，捕捉行业最新业态，为读者提供商业见解的初衷，对公开信息进行分行业、分类别的收集整理，并结合多位云服务产业分析师对关键信息的分析洞见，向读者简洁、清晰、深入地展示近期中国云服务市场的变化方向。
+|[**2022年政企数智办公平台行业研究报告**](https://report.iresearch.cn/report/202211/4111.shtml)|2022/11/28 16:48:31|疫情和政策推进远程办公及数字化办公产品渗透，业务系统数字化改革和办公需求升级推进政企办公平台智能化。政企办公平台也从传统信息门户向数智办公平台升级，通过统一的办公入口和开放接口联通、聚合分散的业务系统，提高办公效率和体验，驱动管理模式变革。但不同主体对数智办公平台的需求侧重存在差异，本报告就政企数智办公平台搭建难点、商业模式及服务商优劣势进行分析，帮助政企选择适合自己组织架构和发展模式的数智办公平台。
 |[中国当代新型恋爱关系白皮书](https://report.iresearch.cn/report/202211/4110.shtml)|2022/11/25 15:27:41|白皮书主要研究与探讨了现阶段中国年轻人的多种恋爱关系/模式，并且针对区别于传统恋爱的新型恋爱关系进行了深入的剖析。通过当代年轻人的婚恋价值观的深度解读，探寻恋爱内核变化的真正原因，并洞察年轻人对婚恋关系的选择与态度。
 |[2022年中国眼镜行业白皮书](https://report.iresearch.cn/report/202211/4109.shtml)|2022/11/24 13:51:42|从市场环境看，2022年上半年以来，国内疫情多发散发，眼镜制造业出现了从产业链下游逐渐向上游传递的销售冲击。从产品发展看，触网低龄化加重孩子用眼压力，青控产品愈加受到市场青睐，卫健委持续部署多项工作关注青少年眼健康；从品牌认知看，消费者对国产眼镜偏好呈积极转变，国产眼镜产品信心度进一步提升。本报告将从宏观产业动态演变、企业发展模式演进和消费者需求变化等角度出发，洞察眼镜产业的动态演变和经营模式，为后疫情时代的眼镜产业发展给到参考建议。
 |[2022年中国医疗美容行业研究报告](https://report.iresearch.cn/report/202211/4108.shtml)|2022/11/24 13:15:27|随着生活水平的提高，消费行为的关注重点逐步从经济物质转向个人的幸福感。从马斯洛的需求阶梯角度来说，医疗美容消费可以覆盖从生存需求中的“健康保障”到高层级需求中的“尊重”与“归属”等。我国的医疗美容服务市场潜力较大，民营医美机构的收益增速较快。同时，行业准入门槛提高，也助力医美服务行业建立公众信誉。本报告聚焦医美行业上游材料，分析在医美赛道持续裂变细分的趋势下，不同材料的发展潜力及未来医美行业的发展方向。

@@ -1,10 +1,14 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [权威数据：542 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [权威数据：546 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[《全国移动网络质量监测报告》（第3期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221208623971103509.pdf)|2022-12-08
+|[信息无障碍动态（2022年第11期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221202408180553397.pdf)|2022-12-02
+|[2022年9月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221128655325731629.pdf)|2022-11-28
+|[2022年9月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221128654611383846.pdf)|2022-11-28
 |[国内增值电信业务许可情况报告（2022.10）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221117528706501754.pdf)|2022-11-17
 |[2022年三季度我国互联网上市企业运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221116595504161100.pdf)|2022-11-16
 |[信息无障碍动态（2022年第10期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221103547444738364.pdf)|2022-11-03
