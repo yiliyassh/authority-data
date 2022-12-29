@@ -1,10 +1,13 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [白皮书：285 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
+- [白皮书：288 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[全球Web3技术产业生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221221_413175.htm)|2022-12-21|[全球Web3技术产业生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020221221683126603210.pdf)
+|[中国无线经济发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221220_413013.htm)|2022-12-20|[中国无线经济发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020221220361400761604.pdf)
+|[中国宽带发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221216_412886.htm)|2022-12-16|[中国宽带发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020221216530946937820.pdf)
 |[全球数字经济白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221207_412453.htm)|2022-12-07|[全球数字经济白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020221207397428021671.pdf)
 |[脑机接口总体愿景与关键技术研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221126_412081.htm)|2022-11-26|[脑机接口总体愿景与关键技术研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221126768090197204.pdf)
 |[中国工业经济发展形势展望（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221125_412011.htm)|2022-11-25|[中国工业经济发展形势展望（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221125354713531627.pdf)

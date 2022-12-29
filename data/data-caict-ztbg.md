@@ -1,10 +1,13 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [专题报告：221 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+- [专题报告：224 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[城市云服务发展指数报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221227_413371.htm)|2022-12-27|[城市云服务发展指数报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221227663975475856.pdf)
+|[全球Wi-Fi 6技术创新与标准必要专利分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221226_413329.htm)|2022-12-26|[全球Wi-Fi 6技术创新与标准必要专利分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221227382451960781.pdf)
+|[城市制造业高质量发展评价研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221222_413228.htm)|2022-12-22|[城市制造业高质量发展评价研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221222663832781594.pdf)
 |[中国智慧企业发展报告（2022）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221209_412554.htm)|2022-12-09|[中国智慧企业发展报告（2022）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221209357952132146.pdf)
 |[数字时代治理现代化研究报告——运用数字技术进行政府治理的...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221207_412454.htm)|2022-12-07|[数字时代治理现代化研究报告——运用数字技术进行政府治理的...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221207530304282075.pdf)
 |[重点工业行业碳达峰碳中和需求洞察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221205_412382.htm)|2022-12-05|[重点工业行业碳达峰碳中和需求洞察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221205617900617167.pdf)

@@ -32,34 +32,36 @@
 |消费品工业|[2022年1－10月塑料制品行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_e0e5bc1b85af47c9ad44bcb56dfd1315.html)|12-02
 |消费品工业|[2022年1－10月家具行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2022/art_8f2984f389ec4d4ab5b35b676c795ce3.html)|12-02
 |消费品工业|[2022年1－10月家电行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/jd/art/2022/art_2002aeff016c47bea75258195e5620c0.html)|12-02
+|通信业|[2022年11月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_f4e35322a94c420ebb1fa056968ac49c.html)|12-26
+|通信业|[2022年1－11月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_8874c4e3619a4ca78f6a7f8a2472dd50.html)|12-26
+|通信业|[2022年1－11月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_990039874bde4516b784095a13046eb1.html)|12-26
+|通信业|[2022年1－11月份通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_558d4b4172004a65a063d54635a38576.html)|12-26
 |通信业|[2022年10月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_c869a9b369ab4aaaad032e7a05cd2464.html)|11-21
 |通信业|[2022年1－10月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_fa261d9328224bfaa2632f841d352b4e.html)|11-21
-|通信业|[2022年1－10月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_ee8899d7ddeb41dfbfd6d1768a5a21a0.html)|11-21
-|通信业|[2022年1－10月份通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_326d66ed6f8046068d36f26005849c20.html)|11-21
-|通信业|[2022年前三季度通信水平分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2022/art_aae176aa773a44fab7f0c3d63583b25e.html)|10-26
+|电子信息制造业|[2022年1－10月全国锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_69e21ccf97f64b3d91833792d2834722.html)|12-21
+|电子信息制造业|[2022年1－10月全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_e446339301f94051910cba28cef3d2b3.html)|12-15
 |电子信息制造业|[2022年1－10月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_dfa59e1e5b7f485e8aedc8af262dd4fd.html)|11-30
 |互联网|[2021年电子信息制造业年度统计数据](https://www.miit.gov.cnhttps://www.miit.gov.cn/dznj2021/hlw.html)|11-08
 |电子信息制造业|[2022年前三季度电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_eea85f8c2bc343a5b04af599fd3e2bc2.html)|10-31
 |电子信息制造业|[2022年7－8月全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_07dcc18487dc4ae1b3cd4e87a6b55e71.html)|10-14
-|电子信息制造业|[2022年7－8月全国锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_3e1f5ba27b9b472cad3e7572516f7232.html)|10-14
-|电子信息制造业|[2022年1－8月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_ea5be443dc384bee9ffe17740b053685.html)|09-29
+|软件业|[2022年1－11月份分地区软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_9b9d77c6d82543f4bd4cd9b923648577.html)|12-26
+|软件业|[2022年1－11月份软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_056141ffc8b4495e87255c12b8afa8a8.html)|12-26
+|软件业|[2022年1－11月份软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_704372396ebd41299944d48dff6f411e.html)|12-26
 |软件业|[2022年1－10月份软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_f8bfc11548324a248e69b25b63020a0c.html)|11-23
 |软件业|[2022年前三季度软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_f66b6def9e554085bda63b6e4234d3b0.html)|10-26
-|软件业|[2022年前三季度软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_e69291f1a410401faf14bfb97bb56daf.html)|10-26
-|软件业|[2022年前三季度软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_41091e94953d48c2a21e90b141ca6c8b.html)|10-26
-|软件业|[2022年1－8月份软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_a26e42e8b4ce47ea83a0dd52c8c27809.html)|09-27
 |互联网|[2022年1－10月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_2f2b44819a3d44588dfa934cb0c17ec6.html)|11-30
 |互联网|[2021年互联网和相关服务业年度统计数据](https://www.miit.gov.cnhttps://www.miit.gov.cn/hlwnj2021/hlw.html)|11-01
 |互联网|[2022年前三季度互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_5a25f16e772744b8930c5b720fd053c9.html)|10-31
 |软件业|[2022年1－8月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_c0276295fc40482bb551e8f9e8cd2c7f.html)|09-29
 |互联网|[2022年1－7月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_a4f1659d3f904f558ee78421dc7f0a04.html)|08-30
 |互联网|[2022年上半年互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_eadb1cb336dc4898a1ec7e73eddb4f36.html)|07-27
+|网络安全|[12月12日－12月18日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_dc90359ad89c45b084a558ae08ac373e.html)|12-23
+|网络安全|[12月5日－12月11日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_f98aa2af950a483eb0e903dd570a4b77.html)|12-16
 |网络安全|[11月28日－12月4日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_50a29f8d612e4feeb9a64cd7b4efb3b8.html)|12-09
 |网络安全|[11月21日－11月27日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_48931ad544da4fa1846a37bd52607371.html)|12-02
 |网络安全|[11月14日－11月20日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_d67b1161c8e24cca8d6a4df46fdefb8a.html)|11-23
 |网络安全|[11月7日－11月13日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_263e544520f94ecbb0dd026fba7ac146.html)|11-17
-|网络安全|[10月31日－11月6日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_d6d1e041d9554300a11451b587311232.html)|11-11
-|网络安全|[10月24日－10月30日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2022/art_1cbfd5c220b64d4ba93aba4ac03293b3.html)|11-02
+
 
 ### [原材料工业](https://www.miit.gov.cn/gxsj/tjfx/yclgy/index.html)    ——   钢铁 有色 石化化工 建材 稀土  
 

@@ -1,7 +1,8 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
-## [中国互联网络发展状况统计报告](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm) :+1::+1::+1:  
-- [第50次《中国互联网络发展状况统计报告》（2022年8月）](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202202/P020220311493378715650.pdf)
+## [中国互联网络发展状况统计报告](http://www.cnnic.net.cn/6/86/88/index.html) :+1::+1::+1:  
+
+- [第50次《中国互联网络发展状况统计报告》（2022年8月）](http://www.cnnic.net.cn/NMediaFile/2022/0926/MAIN1664183425619U2MS433V3V.pdf)
 - [第49次《中国互联网络发展状况统计报告》（2022年2月）](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202202/P020220311493378715650.pdf)
 - [第48次《中国互联网络发展状况统计报告》（2021年8月）](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202109/P020210915523670981527.pdf)
 - [第47次《中国互联网络发展状况统计报告》（2021年2月）](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202102/P020210203334633480104.pdf)

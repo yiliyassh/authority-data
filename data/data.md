@@ -1,11 +1,11 @@
-## 官方权威统计数据（更新日期：2022-12-12）
+## 官方权威统计数据（更新日期：2022-12-29）
 
 |数据名称|本地镜像|shell下载|python下载|说明|
 |:----|:----|:----|:----|:----|
 |[1.中国统计年鉴](http://www.stats.gov.cn/tjsj/ndsj/)|[镜像](./data-tjnq.md)|[shell](../code/tjnq.md)|[python](../code/tjnq.py)|中文版：1999-2021年，22年官方权威数据  英文版：2004-2021年，17年官方权威数据
 |[2.全国年度统计公报](http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/) |[镜像](./data-tjgb.md) |[shell](../code/tjgb.md)|[python](../code/tjgb.py)|1978-2020年，42年官方权威数据
 |[3.工信数据（工业和信息化部）](https://www.miit.gov.cn/gxsj/index.html) |[镜像](./data-miit.md)| |[python](../code/miit.py)|八大行业：原材料工业,装备工业,消费品工业,通信业,电子信息制造业,软件业,互联网,网络安全|  
-|[4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/index.htm)|[镜像](./data-internet.md)|[shell](../code/internet.md)|[python](../code/internet.py)|1998-2022年，24年官方权威数据
+|[4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/6/86/88/index.html)|[镜像](./data-internet.md)|[shell](../code/internet.md)|[python](../code/internet.py)|1998-2022年，24年官方权威数据
 |[5.中国政府网](http://www.gov.cn/shuju/index.htm)|[镜像](./data-gov.md)| | |GDP、CPI、PPI |
 |[商务部](http://www.caict.ac.cn/kxyj/) |[镜像](./data-guojia.md)| | [python](../code/guojia.py) |“走出去”公共服务平台 |
 |[6.中国信通院](http://www.caict.ac.cn/kxyj/) | | | |ICT行业数据 |
