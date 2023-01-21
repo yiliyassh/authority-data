@@ -1,10 +1,25 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [白皮书：288 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
+- [白皮书：303 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[2022中国信通院“集智”白皮书大礼包](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230119_414770.htm)|2023-01-19|[2022中国信通院“集智”白皮书大礼包](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230119434521488830.zip)
+|[网络立法白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230112_414232.htm)|2023-01-12|[网络立法白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230114499859875704.pdf)
+|[数字孪生城市白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230111_414086.htm)|2023-01-11|[数字孪生城市白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230111662616392246.pdf)
+|[全球数字治理白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230110_413920.htm)|2023-01-10|[全球数字治理白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230110553626083595.pdf)
+|[区域碳达峰碳中和发展规划白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230108_413795.htm)|2023-01-08|[区域碳达峰碳中和发展规划白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230108571024363073.pdf)
+|[全球产业创新生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230108_413794.htm)|2023-01-08|[全球产业创新生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230108016980027481.pdf)
+|[量子信息技术发展与应用研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413790.htm)|2023-01-07|[量子信息技术发展与应用研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107433234479315.pdf)
+|[车联网白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413791.htm)|2023-01-07|[车联网白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107447240886127.pdf)
+|[电信业数字化转型发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230106_413739.htm)|2023-01-06|[电信业数字化转型发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230108499919167787.pdf)
+|[数字化绿色化协同发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413793.htm)|2023-01-07|[数字化绿色化协同发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107860562732799.pdf)
+|[工业数字化绿色化融合发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413789.htm)|2023-01-07|[工业数字化绿色化融合发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107393430185823.pdf)
+|[中国5G发展和经济社会影响白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413792.htm)|2023-01-07|[中国5G发展和经济社会影响白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107836826955809.pdf)
+|[数据要素白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413788.htm)|2023-01-07|[数据要素白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107392254519512.pdf)
+|[大数据白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230104_413644.htm)|2023-01-04|[大数据白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230104388100740258.pdf)
+|[区块链白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221229_413462.htm)|2022-12-29|[区块链白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230105572446062995.pdf)
 |[全球Web3技术产业生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221221_413175.htm)|2022-12-21|[全球Web3技术产业生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020221221683126603210.pdf)
 |[中国无线经济发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221220_413013.htm)|2022-12-20|[中国无线经济发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020221220361400761604.pdf)
 |[中国宽带发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221216_412886.htm)|2022-12-16|[中国宽带发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020221216530946937820.pdf)

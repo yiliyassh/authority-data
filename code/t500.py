@@ -42,7 +42,7 @@ def get_url2(content,ctype,iyear):
     cyear = str(iyear)
     # 英文年度榜
     # 5列
-    if ctype=='en' and cyear in(2020,2021):
+    if ctype=='en' and cyear in(2020,2021,2022):
         pattern=re.compile('<tr>\n<td>(.*?)</td>\n<td><a.*?>(.*?)</a></td>\n<td>(.*?)</td>\n<td>(.*?)</td>\n<td>(.*?)</td>\n<td.*?><span>.*?</span></td></tr>',re.S)
     # 6列
     if ctype=='en' and cyear in(2015,2018,2019):
@@ -127,7 +127,8 @@ def get_file(url):
 
 # 下载最新数据
 # 《财富》世界500强排行榜
-url = 'https://www.fortunechina.com/fortune500/index.htm'
+#url = 'https://www.fortunechina.com/fortune500/index.htm'
+url = 'https://www.fortunechina.com/fortune500/c/2022-08/03/content_415683.htm'
 # 《财富》中国500强排行榜
 #url = 'https://www.fortunechina.com/fortune500/node_4302.htm'
 

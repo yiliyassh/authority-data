@@ -1,10 +1,15 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [权威数据：552 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [权威数据：558 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[数字乡村发展动态（2023年第1期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202301/P020230111619868513362.pdf)|2023-01-11
+|[国内增值电信业务许可情况报告（2022.12）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202301/P020230110744722852234.pdf)|2023-01-10
+|[2022年11月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202301/P020230104700638689036.pdf)|2023-01-04
+|[2022年11月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202301/P020230104699950469397.pdf)|2023-01-04
+|[信息无障碍动态（2022年第12期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221230459333338543.pdf)|2022-12-30
 |[国内手机产品交互载体特性监测报告（2022年第三期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221228385345601810.pdf)|2022-12-28
 |[国内手机产品通信特性与技术能力监测报告（2022年第三期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221228385149218328.pdf)|2022-12-28
 |[2022年10月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221226393199223190.pdf)|2022-12-26

@@ -1,10 +1,20 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [专题报告：224 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+- [专题报告：234 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[知识产权视角下的数据要素制度构建研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230119_414776.htm)|2023-01-19|[知识产权视角下的数据要素制度构建研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230119610955756149.pdf)
+|[DPU发展分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230110_413879.htm)|2023-01-10|[DPU发展分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230110425192655080.pdf)
+|[中国XOps应用创新发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230109_413843.htm)|2023-01-09|[中国XOps应用创新发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230109534000377704.pdf)
+|[城市云服务发展指数报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230109_413842.htm)|2023-01-09|[城市云服务发展指数报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230109427122762120.pdf)
+|[通信基础设施共建共享发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230107_413787.htm)|2023-01-07|[通信基础设施共建共享发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230107337639003738.pdf)
+|[可持续计算蓝皮报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230105_413693.htm)|2023-01-05|[可持续计算蓝皮报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230109354840540298.pdf)
+|[数据要素流通视角下数据安全保障研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230104_413655.htm)|2023-01-04|[数据要素流通视角下数据安全保障研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230104678966342520.pdf)
+|[数字社区研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221230_413509.htm)|2022-12-30|[数字社区研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221230458667851480.pdf)
+|[互联网行业社会责任/ESG信息披露观察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221229_413463.htm)|2022-12-29|[互联网行业社会责任/ESG信息披露观察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221229453302770666.pdf)
+|[新形势下信息通信行业行政合规免罚制度体系建设研究报告（202...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221229_413461.htm)|2022-12-29|[新形势下信息通信行业行政合规免罚制度体系建设研究报告（202...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221229688405292473.pdf)
 |[城市云服务发展指数报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221227_413371.htm)|2022-12-27|[城市云服务发展指数报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221227663975475856.pdf)
 |[全球Wi-Fi 6技术创新与标准必要专利分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221226_413329.htm)|2022-12-26|[全球Wi-Fi 6技术创新与标准必要专利分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221227382451960781.pdf)
 |[城市制造业高质量发展评价研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221222_413228.htm)|2022-12-22|[城市制造业高质量发展评价研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221222663832781594.pdf)
