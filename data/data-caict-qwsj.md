@@ -1,10 +1,14 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [权威数据：560 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [权威数据：564 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[2022年11月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202302/P020230217620305599369.pdf)|2023-02-17
+|[2022年12月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202302/P020230217708836475452.pdf)|2023-02-17
+|[数字乡村发展动态（2023年第2期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202302/P020230215435443251404.pdf)|2023-02-15
+|[2022年四季度互联网投融资运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202302/P020230213570332426763.pdf)|2023-02-13
 |[国内增值电信业务许可情况报告（2023.1）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202302/P020230209483571771183.pdf)|2023-02-09
 |[信息无障碍动态（2023年第1期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202301/P020230131606898765183.pdf)|2023-01-31
 |[数字乡村发展动态（2023年第1期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202301/P020230111619868513362.pdf)|2023-01-11

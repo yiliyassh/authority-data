@@ -1,10 +1,14 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [专题报告：234 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+- [专题报告：238 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[全光运力研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230217_415734.htm)|2023-02-17|[全光运力研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230217517703022811.pdf)
+|[数字政府典型案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230215_415634.htm)|2023-02-15|[数字政府典型案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230215518101160564.pdf)
+|[全光网络协同发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230215_415633.htm)|2023-02-15|[全光网络协同发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230215504678547100.pdf)
+|[软件定义存储发展与应用研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230214_415584.htm)|2023-02-14|[软件定义存储发展与应用研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230214476307831922.pdf)
 |[知识产权视角下的数据要素制度构建研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230119_414776.htm)|2023-01-19|[知识产权视角下的数据要素制度构建研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230119610955756149.pdf)
 |[DPU发展分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230110_413879.htm)|2023-01-10|[DPU发展分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230110425192655080.pdf)
 |[中国XOps应用创新发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230109_413843.htm)|2023-01-09|[中国XOps应用创新发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230109534000377704.pdf)
