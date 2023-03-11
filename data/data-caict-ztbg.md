@@ -5,6 +5,8 @@
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[数字孪生城市成熟度研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230227_416118.htm)|2023-02-27|[数字孪生城市成熟度研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230227609828705294.pdf)
+|[数字孪生城市产业图谱研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230227_416104.htm)|2023-02-27|[数字孪生城市产业图谱研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230227661738927755.pdf)
 |[全光运力研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230217_415734.htm)|2023-02-17|[全光运力研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230217517703022811.pdf)
 |[数字政府典型案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230215_415634.htm)|2023-02-15|[数字政府典型案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230215518101160564.pdf)
 |[全光网络协同发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230215_415633.htm)|2023-02-15|[全光网络协同发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230215504678547100.pdf)
