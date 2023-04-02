@@ -1,4 +1,4 @@
-# 官方权威统计数据（持续更新：2023-3-10）
+# 官方权威统计数据（持续更新：2023-4-2）
 每周更新  ^_^  
 收集整理【官方权威】公开数据    
 （  注：:o: 一般   :+1: 好评 :+1::+1: 推荐 :+1::+1::+1: 强烈推荐   :x: 差评）    
@@ -27,8 +27,11 @@
 
 |行业|名称（详情）|发布日期|
 |:----|:----|:----|  
+|原材料工业|[2022年光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2023/art_0d65e024766c4548b86a25b44e26b18f.html)|02-02
 |原材料工业|[2022年石化化工行业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/shhg/art/2023/art_267832ba685a44b69b4b6916cb26442c.html)|02-01
 |原材料工业|[2022年1－10月光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2022/art_917a09e3973447cfb834632cf9dbe211.html)|11-18
+|装备工业|[2023年2月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2023/art_6fdcb7e7d61e4dfc8500300a8b882e4f.html)|03-10
+|装备工业|[2023年1月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2023/art_63f7a871abf54e74ad0a031a431b3312.html)|02-10
 |装备工业|[2022年中国造船产能利用监测指数创近10年新高](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2023/art_f7873e75796747f6861a76c555766ed4.html)|02-02
 |装备工业|[2022年我国造船国际市场份额保持全球领先](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2023/art_61ee47e879b344b1ad0a35144aee5b50.html)|01-19
 |消费品工业|[2022年造纸行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2023/art_77aab77f069a4fca85099a745ef1d10b.html)|02-03
@@ -37,17 +40,26 @@
 |消费品工业|[2022年家具行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2023/art_e3fb79f7607e455a83d854ba67221e5c.html)|02-03
 |消费品工业|[2022年家电行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/jd/art/2023/art_4d09be34dd5f494c9d8cf1d862168581.html)|02-03
 |消费品工业|[2022年1－12月化纤行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2023/art_d674a5d0bc494242a3b1b253020c6347.html)|02-02
+|通信业|[2023年1－2月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_c7920c326cbf45ec995b279cb519c6c5.html)|03-23
+|通信业|[2023年1－2月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_f9fdaee7d8fd4584a9279b6ecc33c70e.html)|03-23
+|通信业|[2023年1－2月份通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_195e92b8d2f249e0b6d5f119de016d0b.html)|03-23
 |通信业|[2023年春节假期移动数据流量保持增长](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_460177a0f3b64da3b4d7fe489efeafa4.html)|01-31
 |通信业|[2022年通信业统计公报](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_77b586a554e64763ab2c2888dcf0b9e3.html)|01-19
+|电子信息制造业|[2023年1－2月全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_e5fd0046233c4250abcaae484b9c3a2f.html)|03-29
+|电子信息制造业|[2023年1－2月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_7c4acae43b6c4db48dc0c9c63a67b2b8.html)|03-29
 |电子信息制造业|[2022年电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_68cf6347b7d44170bcd70eedd658eebe.html)|02-02
 |电子信息制造业|[2021年电子信息制造业年度统计数据](https://www.miit.gov.cnhttps://www.miit.gov.cn/dznj2021/hlw.html)|11-08
+|软件业|[2023年1－2月份分地区软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_c8316146350d41bc988d59e5720f018d.html)|03-27
+|软件业|[2023年1－2月份软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_24c52b596c1546e7b36d80f8c3b92e34.html)|03-27
+|软件业|[2023年1－2月份软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_4627bbddbbd14d4cbe26eee20942638b.html)|03-27
 |软件业|[2022年全国软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_6e80846e191240f596763f865404b64c.html)|01-31
 |软件业|[2022年软件和信息技术服务业统计公报](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_77b5e552aacc47e3a682c4527a4fab7f.html)|01-31
+|互联网|[2023年1－2月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2023/art_4ea0a64085cc4c00ab5ec263117fda88.html)|03-31
 |互联网|[2022年互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2023/art_40202ca145fe4d34a5ca4cf2f5dfc91e.html)|01-31
 |互联网|[2021年互联网和相关服务业年度统计数据](https://www.miit.gov.cnhttps://www.miit.gov.cn/hlwnj2021/hlw.html)|11-01
-|网络安全|[2月13日－2月19日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_f9826effd55c423eac7bad025d3e7ee6.html)|02-23
-|网络安全|[2月6日－2月12日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_64ab974a742c466d990b36f47631c0d6.html)|02-17
-|网络安全|[1月30日－2月5日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_1c989d26ce5546bf9cf9b1704d7a55a4.html)|02-08
+|网络安全|[3月20日－3月26日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_927ef4a76ffa4f769a4e496ac980434f.html)|03-31
+|网络安全|[3月13日－3月19日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_f30a2c7cb26c473d82ded27cbab5292b.html)|03-23
+|网络安全|[3月6日－3月12日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_324f8e98e5f44844abba3f044f0c2167.html)|03-16
 
 ***
 ## [4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/6/86/88/index.html) :+1::+1::+1:  
