@@ -1,10 +1,16 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [专题报告：238 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+- [专题报告：246 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[智能网联汽车应用服务市场研究报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/t20230421_418831.htm)|2023-04-21|[智能网联汽车应用服务市场研究报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/P020230421601499344793.pdf)
+|[全球5G标准必要专利及标准提案研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/t20230421_418829.htm)|2023-04-21|[全球5G标准必要专利及标准提案研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/P020230421528385442774.pdf)
+|[全球工业减碳贸易和对外投资政策研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/t20230418_418573.htm)|2023-04-18|[全球工业减碳贸易和对外投资政策研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/P020230418537149693887.pdf)
+|[数字孪生城市技术应用典型实践案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/t20230407_418010.htm)|2023-04-07|[数字孪生城市技术应用典型实践案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/P020230412456142386368.pdf)
+|[数据中心智能化运维发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202303/t20230323_417269.htm)|2023-03-23|[数据中心智能化运维发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202303/P020230323582881859045.pdf)
+|[人工智能研发运营体系（MLOps）实践指南（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202303/t20230316_416827.htm)|2023-03-16|[人工智能研发运营体系（MLOps）实践指南（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202303/P020230316567347382391.pdf)
 |[数字孪生城市成熟度研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230227_416118.htm)|2023-02-27|[数字孪生城市成熟度研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230227609828705294.pdf)
 |[数字孪生城市产业图谱研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230227_416104.htm)|2023-02-27|[数字孪生城市产业图谱研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230227661738927755.pdf)
 |[全光运力研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230217_415734.htm)|2023-02-17|[全光运力研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230217517703022811.pdf)

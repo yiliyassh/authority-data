@@ -1,10 +1,11 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [白皮书：303 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
+- [白皮书：304 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[中国数字经济发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202304/t20230427_419051.htm)|2023-04-27|[中国数字经济发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202304/P020230427572038320317.pdf)
 |[2022中国信通院“集智”白皮书大礼包](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230119_414770.htm)|2023-01-19|[2022中国信通院“集智”白皮书大礼包](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230119434521488830.zip)
 |[网络立法白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230112_414232.htm)|2023-01-12|[网络立法白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230114499859875704.pdf)
 |[数字孪生城市白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230111_414086.htm)|2023-01-11|[数字孪生城市白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230111662616392246.pdf)
