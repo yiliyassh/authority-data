@@ -1,10 +1,13 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [权威数据：571 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [权威数据：574 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[国内增值电信业务许可情况报告（2023.3）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202305/P020230512598560785632.pdf)|2023-05-12
+|[2023年一季度互联网投融资运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202305/P020230506459254597304.pdf)|2023-05-06
+|[信息无障碍动态（2023年第4期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202305/P020230506455853176469.pdf)|2023-05-06
 |[数字乡村发展动态（2023年第4期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202304/P020230425502890787377.pdf)|2023-04-25
 |[国内增值电信业务许可情况报告（2023.3）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202304/P020230413686043245437.pdf)|2023-04-13
 |[信息无障碍动态（2023年第3期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202304/P020230406522482190449.pdf)|2023-04-06

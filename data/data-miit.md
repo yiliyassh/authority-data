@@ -20,30 +20,30 @@
 |原材料工业|[2022年石化化工行业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/shhg/art/2023/art_267832ba685a44b69b4b6916cb26442c.html)|02-01
 |原材料工业|[2022年1－10月光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2022/art_917a09e3973447cfb834632cf9dbe211.html)|11-18
 |原材料工业|[2022年1－8月光伏压延玻璃运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2022/art_2930e5b180b04d91be151afc6062d989.html)|09-20
+|装备工业|[2023年4月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2023/art_ac7be92d71b2447db22155007ab77058.html)|05-11
+|装备工业|[2023年一季度中国造船产能利用监测指数继续保持增长](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2023/art_2718845b6a3440edb828e1faf3f1e657.html)|05-06
 |装备工业|[2023年一季度我国造船三大指标市场份额保持全球领先](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2023/art_1c30971daf3d4a25a5a20a9e86c78156.html)|04-19
 |装备工业|[2023年3月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2023/art_9cdfd3d829b24222a8ecf947d6627a45.html)|04-11
 |装备工业|[2023年2月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2023/art_6fdcb7e7d61e4dfc8500300a8b882e4f.html)|03-10
 |装备工业|[2023年1月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2023/art_63f7a871abf54e74ad0a031a431b3312.html)|02-10
-|装备工业|[2022年中国造船产能利用监测指数创近10年新高](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2023/art_f7873e75796747f6861a76c555766ed4.html)|02-02
-|装备工业|[2022年我国造船国际市场份额保持全球领先](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2023/art_61ee47e879b344b1ad0a35144aee5b50.html)|01-19
+|消费品工业|[2023年一季度纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2023/art_4b91d0aba6024ce99ec9eabf484ffa0d.html)|05-05
 |消费品工业|[2023年1－2月化纤行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2023/art_e48b31ea838f41a49c0f292a8a586d07.html)|04-12
 |消费品工业|[2023年1－2月服装行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2023/art_ea6c6d3f71fb4d8b8f1069f1fcfd7c7a.html)|04-12
 |消费品工业|[2023年1－2月纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2023/art_a0b04c38f03c4fb3ad12fe21a00ef989.html)|04-12
 |消费品工业|[2023年1－2月塑料制品行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2023/art_b43597f7930d44be9250b66cfa1fda3c.html)|04-03
 |消费品工业|[2023年1－2月家电行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/jd/art/2023/art_8b740cfe695b4f72a9deb7281e2c0a9b.html)|04-03
-|消费品工业|[2023年1－2月皮革行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2023/art_893b6fa4e22a4632bd1299534fa90099.html)|04-03
 |通信业|[2023年一季度通信水平分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_1bcc82bf59a04f84bf947b1a8b07a847.html)|04-21
 |通信业|[2023年一季度通信业主要通信能力](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_d59d73368fec49f9b4457f7ab6269bcd.html)|04-21
 |通信业|[2023年3月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_d0e5730ceb1c41fba6cbc91ce33a4ff6.html)|04-21
 |通信业|[2023年1－3月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_9ceaea76934d4d3994a618ed740f6890.html)|04-21
 |通信业|[2023年1－3月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_81e54f7beaf346a08159babc87262715.html)|04-21
 |通信业|[2023年第一季度通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_08438aebb91b49ed99f7e467046515c7.html)|04-21
+|电子信息制造业|[2023年一季度电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_9e99f7ba8f964ca49d90d1b1301dc541.html)|05-04
 |电子信息制造业|[2023年1－2月全国锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_0708712c495b4e298fe2f857133733fa.html)|04-04
 |电子信息制造业|[2023年1－2月全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_e5fd0046233c4250abcaae484b9c3a2f.html)|03-29
 |电子信息制造业|[2023年1－2月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_7c4acae43b6c4db48dc0c9c63a67b2b8.html)|03-29
 |电子信息制造业|[2022年全国锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_87a66c4fedd047e2a3f4fead23e99718.html)|02-23
 |电子信息制造业|[2022年全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_371709ff3546460d833238f414e991c8.html)|02-16
-|电子信息制造业|[2022年电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_68cf6347b7d44170bcd70eedd658eebe.html)|02-02
 |软件业|[2023年一季度分地区软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_365fe259c43144c793b10c8298aa91bd.html)|04-24
 |软件业|[2023年一季度软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_12a5b1cec34645938081188fa8bb072e.html)|04-24
 |软件业|[2023年一季度软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_37a4167c00e941898ebbec7bd47e93a1.html)|04-24
@@ -56,12 +56,12 @@
 |互联网|[2022年1－11月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_bc62d12ba51747a9822ad424fcb028f0.html)|12-30
 |互联网|[2022年1－10月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_2f2b44819a3d44588dfa934cb0c17ec6.html)|11-30
 |互联网|[2021年互联网和相关服务业年度统计数据](https://www.miit.gov.cnhttps://www.miit.gov.cn/hlwnj2021/hlw.html)|11-01
+|网络安全|[5月8日－5月14日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_b89e4cc300da466a884324598e385e08.html)|05-17
+|网络安全|[5月1日－5月7日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_f7c247376e4e4e338456b5ffa0a3c258.html)|05-10
+|网络安全|[4月24日－4月30日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_d808cb3a1b0b4d6097a9f10b058f90f4.html)|05-06
 |网络安全|[4月17日－4月23日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_938abb366754425eabf4917a111643dd.html)|04-27
 |网络安全|[4月10日－4月16日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_659cad0a4960476f96c7b20e58b546ef.html)|04-19
 |网络安全|[4月3日－4月9日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_b3b380eca34d4c8d8f9749a8b15466ff.html)|04-12
-|网络安全|[3月27日－4月2日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_d196bb44e8e64a2389afaa72d2b40b16.html)|04-06
-|网络安全|[3月20日－3月26日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_927ef4a76ffa4f769a4e496ac980434f.html)|03-31
-|网络安全|[3月13日－3月19日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_f30a2c7cb26c473d82ded27cbab5292b.html)|03-23
 
 
 ### [原材料工业](https://www.miit.gov.cn/gxsj/tjfx/yclgy/index.html)    ——   钢铁 有色 石化化工 建材 稀土  

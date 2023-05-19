@@ -1,10 +1,14 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [专题报告：246 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+- [专题报告：250 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[确定性承载技术和评测体系研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230516_419859.htm)|2023-05-16|[确定性承载技术和评测体系研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230516626368983124.pdf)
+|[企业数字化转型技术发展趋势研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230509_419516.htm)|2023-05-09|[企业数字化转型技术发展趋势研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230509620141144077.pdf)
+|[数控机床网络安全研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230508_419421.htm)|2023-05-08|[数控机床网络安全研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230508482473750482.pdf)
+|[全球云游戏产业深度观察及趋势研判研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230506_419368.htm)|2023-05-06|[全球云游戏产业深度观察及趋势研判研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230506602687918663.pdf)
 |[智能网联汽车应用服务市场研究报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/t20230421_418831.htm)|2023-04-21|[智能网联汽车应用服务市场研究报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/P020230421601499344793.pdf)
 |[全球5G标准必要专利及标准提案研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/t20230421_418829.htm)|2023-04-21|[全球5G标准必要专利及标准提案研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/P020230421528385442774.pdf)
 |[全球工业减碳贸易和对外投资政策研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/t20230418_418573.htm)|2023-04-18|[全球工业减碳贸易和对外投资政策研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/P020230418537149693887.pdf)
