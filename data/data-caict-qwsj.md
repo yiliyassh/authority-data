@@ -1,10 +1,22 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [权威数据：574 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [权威数据：586 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[信息无障碍动态（2023年第6期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202307/P020230705492088047702.pdf)|2023-07-05
+|[2023年5月国内手机市场运行分析报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202306/P020230626449403805326.pdf)|2023-06-26
+|[2023年4月国内手机市场运行分析报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202306/P020230626446968530878.pdf)|2023-06-26
+|[2023年3月国内手机市场运行分析报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202306/P020230626444804275454.pdf)|2023-06-26
+|[2023年2月国内手机市场运行分析报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202306/P020230626440784154270.pdf)|2023-06-26
+|[2023年1月国内手机市场运行分析报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202306/P020230626395989857953.pdf)|2023-06-26
+|[国内手机产品交互载体特性监测报告（2023年第一期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202306/P020230621615564696748.pdf)|2023-06-21
+|[国内手机产品通信特性与技术能力监测报告（2023年第一期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202306/P020230621615117152114.pdf)|2023-06-21
+|[数字乡村发展动态（2023年第5期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202306/P020230621589751339351.pdf)|2023-06-21
+|[国内增值电信业务许可情况报告（2023.4）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202306/P020230614604419180241.pdf)|2023-06-14
+|[信息无障碍动态（2023年第5期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202306/P020230603625800923754.pdf)|2023-06-03
+|[2023年一季度我国互联网上市企业运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202305/P020230529621205022414.pdf)|2023-05-29
 |[国内增值电信业务许可情况报告（2023.3）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202305/P020230512598560785632.pdf)|2023-05-12
 |[2023年一季度互联网投融资运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202305/P020230506459254597304.pdf)|2023-05-06
 |[信息无障碍动态（2023年第4期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202305/P020230506455853176469.pdf)|2023-05-06

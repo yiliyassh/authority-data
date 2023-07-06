@@ -1,10 +1,17 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [专题报告：250 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+- [专题报告：257 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[我国“亩均论英雄”改革地方实践与发展展望（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230625_438944.htm)|2023-06-25|[我国“亩均论英雄”改革地方实践与发展展望（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230625394975884560.pdf)
+|[数字技术赋能碳中和案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230616_438727.htm)|2023-06-16|[数字技术赋能碳中和案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230616591579211505.pdf)
+|[全球自动驾驶战略与政策观察——政策助力L4级自动驾驶开启无...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230615_438712.htm)|2023-06-15|[全球自动驾驶战略与政策观察——政策助力L4级自动驾驶开启无...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230615549938227507.pdf)
+|[应急通信产业发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230615_438676.htm)|2023-06-15|[应急通信产业发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230615703456578477.pdf)
+|[快递业5G消息服务研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230607_428686.htm)|2023-06-07|[快递业5G消息服务研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230607508270795601.pdf)
+|[5G消息搜索服务研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230606_426457.htm)|2023-06-06|[5G消息搜索服务研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230606532296830956.pdf)
+|[数据要素交易指数研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230530_425982.htm)|2023-05-30|[数据要素交易指数研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230530525656926749.pdf)
 |[确定性承载技术和评测体系研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230516_419859.htm)|2023-05-16|[确定性承载技术和评测体系研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230516626368983124.pdf)
 |[企业数字化转型技术发展趋势研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230509_419516.htm)|2023-05-09|[企业数字化转型技术发展趋势研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230509620141144077.pdf)
 |[数控机床网络安全研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230508_419421.htm)|2023-05-08|[数控机床网络安全研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230508482473750482.pdf)
