@@ -30,7 +30,7 @@ def show_result(items):
         curl = item[0]
         cname = item[1]
         # 生成完整的链接地址
-        #http://www.stats.gov.cn/tjsj/zxfb/201602/t20160229_1323991.html
+        #http://www.stats.gov.cn/sj/zxfb/201602/t20160229_1323991.html
         if str(cname).find('年')>-1:
             cyear = str(cname).replace('年','')
             iyear = int(cyear)
@@ -38,7 +38,7 @@ def show_result(items):
             curl = 'http://www.stats.gov.cn'+str(curl)
         if iyear>=1978 and iyear<=2012:
             curl=str(curl).replace('./','/')
-            curl = 'http://www.stats.gov.cn/tjsj/tjgb/ndtjgb'+str(curl)
+            curl = 'http://www.stats.gov.cn/sj/tjgb/ndtjgb'+str(curl)
         strs = '|['+cname+']('+curl+')'
         # 显示链接信息
         print(strs)
@@ -64,11 +64,12 @@ def get_file(url):
 
 # 下载（2013~2021）
 # 2022-2021年
-#url = 'http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/index.html'
+
+url = 'http://www.stats.gov.cn/sj/tjgb/ndtjgb/qgndtjgb/index.html'
 # 1983-2001年
-#url = 'http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/index_1.html'
+#url = 'http://www.stats.gov.cn/sj/tjgb/ndtjgb/index_1.html'
 #
-url = 'http://www.stats.gov.cn/tjsj/tjgb/ndtjgb/index_2.html'
+#url = 'http://www.stats.gov.cn/sj/tjgb/ndtjgb/index_2.html'
 
 # 获取信息
 html = get_html(url)
