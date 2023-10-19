@@ -1,4 +1,4 @@
-# 官方权威统计数据（持续更新：2023-8-13）
+# 官方权威统计数据（持续更新：2023-10-18）
 每周更新  ^_^  
 收集整理【官方权威】公开数据    
 （  注：:o: 一般   :+1: 好评 :+1::+1: 推荐 :+1::+1::+1: 强烈推荐   :x: 差评）    
@@ -27,38 +27,52 @@
 
 |行业|名称（详情）|发布日期|
 |:----|:----|:----|  
-|原材料工业|[2023年1－5月光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2023/art_88180965da2145fd9c2e12adb9fb8f51.html)|06-21
-|原材料工业|[2023年1－3月光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2023/art_a46460757b8340d1a8999dd9f6043627.html)|04-21
-|装备工业|[2023年5月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2023/art_28d354841654409ca8751396b961dd7f.html)|06-09
-|装备工业|[2023年4月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2023/art_ac7be92d71b2447db22155007ab77058.html)|05-11
-|装备工业|[2023年一季度中国造船产能利用监测指数继续保持增长](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2023/art_2718845b6a3440edb828e1faf3f1e657.html)|05-06
-|装备工业|[2023年一季度我国造船三大指标市场份额保持全球领先](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2023/art_1c30971daf3d4a25a5a20a9e86c78156.html)|04-19
-|消费品工业|[2023年1－4月纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2023/art_0becf8f521c2461e9c1c66c408f0ab4b.html)|06-02
-|消费品工业|[2023年一季度纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2023/art_4b91d0aba6024ce99ec9eabf484ffa0d.html)|05-05
-|通信业|[2023年5月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_b319bc4217f8443899f4ec559a461034.html)|06-21
-|通信业|[2023年1－5月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_2594780c1c074fa0bb6dbfc7b406cdf2.html)|06-21
-|通信业|[2023年1－5月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_741ba02963e2433fb2c990b8409c8e34.html)|06-21
-|通信业|[2023年1－5月份通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_a62ac3d2646541fba9e6a5e3a20534c1.html)|06-21
-|电子信息制造业|[2023年1－5月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_d7e7c79714eb4d1e8fbb22421b03e95a.html)|06-30
-|电子信息制造业|[2023年3－4月全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_55de7bf0638044048b9896e85cd8983b.html)|06-08
-|软件业|[2023年1－5月份分地区软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_97cb210658454031a6aea3b10ee59dfa.html)|06-25
-|软件业|[2023年1－5月份软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_7b3250cf27d04144952d9d62a43e919e.html)|06-25
-|软件业|[2023年1－5月份软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_0fa16c853f0141e780e304f0ad5731f4.html)|06-25
-|互联网|[2023年1－4月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2023/art_184cf2c5c2804f639f3ad162c62d39b0.html)|05-31
-|互联网|[2022年互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2023/art_40202ca145fe4d34a5ca4cf2f5dfc91e.html)|01-31
-|互联网|[2021年互联网和相关服务业年度统计数据](https://www.miit.gov.cnhttps://www.miit.gov.cn/hlwnj2021/hlw.html)|11-01
-|网络安全|[6月19日－6月25日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_1d723c4e9ec94780b059c23c735602c7.html)|06-29
-|网络安全|[6月12日－6月18日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_55095388b4304314b0561e440ada630c.html)|06-21
-|网络安全|[6月5日－6月11日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_f0827f17502d4f3ca4e761d46d011080.html)|06-14
-|网络安全|[5月29日－6月4日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_0df8bafb240e430dbc5d63bb02bdfd47.html)|06-07
+|原材料工业|[2023年1－7月有色金属行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2023/art_55b50d1ce9414d69b2e02440561a91e2.html)|08-24
+|原材料工业|[2023年1－7月光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2023/art_946d1127172746479c41b84f23aaa5a2.html)|08-17
+|原材料工业|[2023年1－6月光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2023/art_0f8f6ab05e4a4a679d31ca0c221dbef6.html)|07-25
+|装备工业|[2023年9月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2023/art_fce3df5fdc544f8bbb2277fac5df58da.html)|10-13
+|装备工业|[2023年前三季度我国造船市场份额保持全球领先](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2023/art_d042bb73c50d4727925e32b941ed7649.html)|10-12
+|装备工业|[2023年上半年我国造船三大指标全面增长 国际市场份额继续领先](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2023/art_c7ee8b3efdff46b3a4e1bc94092a4e09.html)|07-12
+|消费品工业|[2023年1－8月纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2023/art_00c38155f33f4ca1960a87c6517e4dbb.html)|10-09
+|消费品工业|[2023年1－8月造纸行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2023/art_ea01d6cf2f7945548f11b2f0bdf8dd50.html)|10-09
+|消费品工业|[2023年1－8月塑料制品行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2023/art_41c68372b2484a2b959c5d540ceaabaf.html)|10-09
+|消费品工业|[2023年1－8月皮革行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2023/art_82e81f79160d4c90855dece26b607b92.html)|10-09
+|消费品工业|[2023年1－8月家具行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2023/art_f3b800563ab345008e3c6cbcb48d83e3.html)|10-09
+|消费品工业|[2023年1－8月家电行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/jd/art/2023/art_ed6e1fecd4f748cd9cc76644455964d2.html)|10-09
+|通信业|[2023年8月互联网宽带接入用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_34fb037793a94745a98c795a1f765197.html)|09-21
+|通信业|[2023年8月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_9fe6492c080543b68697441e56fc3ba2.html)|09-21
+|通信业|[2023年1－8月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_502cf2600ab44e1ab95bb426fec9b6aa.html)|09-21
+|通信业|[2023年1－8月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_7f7adc3f903849acb19ef9c14207fd00.html)|09-21
+|通信业|[2023年1－8月份通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_1c55b48c50a8422484721b4d627ba23b.html)|09-21
+|电子信息制造业|[2023年7－8月全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_567e88d5526946ca88d717dcca97c446.html)|10-09
+|电子信息制造业|[2023年7－8月全国锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_0f2a9845c9954575a9c6d81b334671f8.html)|10-09
+|电子信息制造业|[2023年上半年全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_44cb8a4dfc534c438bde822a6243398d.html)|08-02
+|电子信息制造业|[2023年上半年锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_a331ae905ae343b281e0acc6e85948ad.html)|08-02
+|软件业|[2023年1－8月份分地区软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_e64d3270189e481980d45bc4128f0689.html)|09-25
+|软件业|[2023年1－8月份软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_0d65022a638f44a5ba11eac23fda1fee.html)|09-25
+|软件业|[2023年1－8月份软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_6971a3c0ea6c49c19e364c9597a79077.html)|09-25
+|互联网|[2023年上半年互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2023/art_1e078242dee140cb99d46ecc070e7717.html)|07-31
+|网络安全|[10月9日－10月15日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_913a2fd2e8c74dbe9f974d917b7aa024.html)|10-18
+|网络安全|[10月2日－10月8日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_53c35f72eadc4186855488cd2ceac7ba.html)|10-11
+|网络安全|[9月25日－10月1日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_b265391c5f8046f29a61deca84779d42.html)|10-07
+
 
 ***
 ## [4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/6/86/88/index.html) :+1::+1::+1:  
 >1998~2022年，24年官方权威数据
 >
-😄 [最新：第51次《中国互联网络发展状况统计报告》](https://www.cnnic.net.cn/NMediaFile/2023/0322/MAIN16794576367190GBA2HA1KQ.pdf)  
-截至2022年12月，我国网民规模为10.67亿，互联网普及率达75.6%。
+😄 [最新：第52次《中国互联网络发展状况统计报告》](https://www.cnnic.net.cn/NMediaFile/2023/0908/MAIN1694151810549M3LV0UWOAV.pdf)  
+截至2023年6月，我国网民规模为10.79亿，互联网普及率达76.4%。
 -  [镜像](./data/data-internet.md)    |  [下载](./data/data.md)
+- [第52次《中国互联网络发展状况统计报告》（2023年8月）](https://www.cnnic.net.cn/NMediaFile/2023/0908/MAIN1694151810549M3LV0UWOAV.pdf)
+- [第51次《中国互联网络发展状况统计报告》（2023年2月）](https://www.cnnic.net.cn/NMediaFile/2023/0807/MAIN169137187130308PEDV637M.pdf)
+- [第50次《中国互联网络发展状况统计报告》（2022年8月）](http://www.cnnic.net.cn/NMediaFile/2022/0926/MAIN1664183425619U2MS433V3V.pdf)
+- [第49次《中国互联网络发展状况统计报告》（2022年2月）](https://www.cnnic.net.cn/NMediaFile/2023/0807/MAIN1691372884990HDTP1QOST8.pdf)
+- [第48次《中国互联网络发展状况统计报告》（2021年8月）](https://www.cnnic.net.cn/NMediaFile/old_attach/P020210915523670981527.pdf)
+- [第47次《中国互联网络发展状况统计报告》（2021年2月）](http://www.cnnic.net.cn/NMediaFile/old_attach/P020210203334633480104.pdf)
+- [第46次《中国互联网络发展状况统计报告》（2020年9月）](http://www.cnnic.net.cn/NMediaFile/old_attach/P020210205509651950014.pdf)
+- [第45次《中国互联网络发展状况统计报告》（2020年4月）](https://www.cnnic.net.cn/NMediaFile/old_attach/P020210205505603631479.pdf)
+
 ***
 ## [5.中国政府网](http://www.gov.cn/shuju/index.htm) :+1::+1::+1:  
 - [政府工作报告_历年（2014~2021）](http://www.gov.cn/guowuyuan/zfgzbg.htm)  
@@ -70,119 +84,149 @@
    
 ***
 ## [6.中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:  
-- 😄[白皮书：304 个](http://www.caict.ac.cn/kxyj/qwfb/bps)    [(镜像)](./data/data-caict-bps.md)
+- 😄[白皮书：310 个](http://www.caict.ac.cn/kxyj/qwfb/bps)    [(镜像)](./data/data-caict-bps.md)
 
-|名称（详情）|发布日期|下载（点击）|
-|:----|:----|:----|
-|[中国数字经济发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202304/t20230427_419051.htm)|2023-04-27|[中国数字经济发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202304/P020230427572038320317.pdf)
-|[**2022中国信通院“集智”白皮书大礼包**](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230119_414770.htm)|2023-01-19|[2022中国信通院“集智”白皮书大礼包](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230119434521488830.zip)
-|[网络立法白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230112_414232.htm)|2023-01-12|[网络立法白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230114499859875704.pdf)
-|[数字孪生城市白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230111_414086.htm)|2023-01-11|[数字孪生城市白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230111662616392246.pdf)
-|[**全球数字治理白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230110_413920.htm)|2023-01-10|[全球数字治理白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230110553626083595.pdf)
-|[区域碳达峰碳中和发展规划白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230108_413795.htm)|2023-01-08|[区域碳达峰碳中和发展规划白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230108571024363073.pdf)
-|[全球产业创新生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230108_413794.htm)|2023-01-08|[全球产业创新生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230108016980027481.pdf)
-|[**量子信息技术发展与应用研究报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413790.htm)|2023-01-07|[量子信息技术发展与应用研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107433234479315.pdf)
-|[**车联网白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413791.htm)|2023-01-07|[车联网白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107447240886127.pdf)
-|[电信业数字化转型发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230106_413739.htm)|2023-01-06|[电信业数字化转型发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230108499919167787.pdf)
-|[数字化绿色化协同发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413793.htm)|2023-01-07|[数字化绿色化协同发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107860562732799.pdf)
-|[工业数字化绿色化融合发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413789.htm)|2023-01-07|[工业数字化绿色化融合发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107393430185823.pdf)
-|[中国5G发展和经济社会影响白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413792.htm)|2023-01-07|[中国5G发展和经济社会影响白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107836826955809.pdf)
-|[**数据要素白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413788.htm)|2023-01-07|[数据要素白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107392254519512.pdf)
-|[**大数据白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230104_413644.htm)|2023-01-04|[大数据白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230104388100740258.pdf)
-|[**区块链白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221229_413462.htm)|2022-12-29|[区块链白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230105572446062995.pdf)
-|[全球Web3技术产业生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221221_413175.htm)|2022-12-21|[全球Web3技术产业生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020221221683126603210.pdf)
-|[中国无线经济发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221220_413013.htm)|2022-12-20|[中国无线经济发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020221220361400761604.pdf)
-|[中国宽带发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221216_412886.htm)|2022-12-16|[中国宽带发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020221216530946937820.pdf)
-|[**全球数字经济白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221207_412453.htm)|2022-12-07|[全球数字经济白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020221207397428021671.pdf)
-|[脑机接口总体愿景与关键技术研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221126_412081.htm)|2022-11-26|[脑机接口总体愿景与关键技术研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221126768090197204.pdf)
-|[**中国工业经济发展形势展望（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221125_412011.htm)|2022-11-25|[中国工业经济发展形势展望（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221125354713531627.pdf)
-|[中国县域工业经济发展报告（2022）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221125_412010.htm)|2022-11-25|[中国县域工业经济发展报告（2022）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221125353373559031.pdf)
-|[中国金融科技生态白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221117_411575.htm)|2022-11-17|[中国金融科技生态白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221117542199873767.pdf)
-|[**中国算力发展指数白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221105_411006.htm)|2022-11-05|[中国算力发展指数白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221105727522653499.pdf)
-|[5G消息发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/t20220922_409260.htm)|2022-09-22|[5G消息发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/P020220922719084352804.pdf)
-|[**全球开源生态研究报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/t20220916_409031.htm)|2022-09-16|[全球开源生态研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/P020220916644891972234.pdf)
-|[人工智能生成内容（AIGC）白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/t20220902_408420.htm)|2022-09-02|[人工智能生成内容（AIGC）白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/P020220902534520798735.pdf)
-|[全球数字经贸规则年度观察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/t20220729_406686.htm)|2022-07-29|[全球数字经贸规则年度观察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/P020220729550446286663.pdf)
-|[**云计算白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/t20220721_406226.htm)|2022-07-21|[云计算白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/P020220721643085625934.pdf)
-|[中国数字经济发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/t20220708_405627.htm)|2022-07-08|[中国数字经济发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/P020220708428058652677.pdf)
-|[信息无障碍白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202205/t20220518_401483.htm)|2022-05-18|[信息无障碍白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202205/P020220518510041281463.pdf)
-|[**数据中心白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/t20220422_400391.htm)|2022-04-22|[数据中心白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/P020220422707354529853.pdf)
-|[**人工智能白皮书（2022年**）](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/t20220412_399752.htm)|2022-04-12|[人工智能白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/P020220412613255124271.pdf)
-|[**AI框架发展白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202202/t20220225_397170.htm)|2022-02-25|[AI框架发展白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202202/P020220226369908606520.pdf)
-|[2021年白皮书合集](http://www.caict.ac.cn/kxyj/qwfb/bps/202201/t20220126_396162.htm)|2022-01-26|[2021白皮书合集.zip](http://www.caict.ac.cn/kxyj/qwfb/bps/202201/P020220126330196461412.zip)
-|[**车联网白皮书**](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/t20211224_394522.htm)|2021-12-24|[车联网白皮书.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/P020211224634954242855.pdf)
-|[**全球数字治理白皮书**](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/t20211223_394423.htm)|2021-12-23|[全球数字治理白皮书.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/P020211223383085909153.pdf)
+| 名称（详情）                                                                                                |发布日期|下载（点击）|
+|:------------------------------------------------------------------------------------------------------|:----|:----|
+| [**数据要素白皮书（2023年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/t20230926_462892.htm)                |2023-09-26|[数据要素白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/P020230926495254355530.pdf)
+| [**中国算力发展指数白皮书（2023年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/t20230914_461823.htm)            |2023-09-14|[中国算力发展指数白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/P020230914584614752938.pdf)
+| [中国无线经济发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/t20230914_461822.htm)               |2023-09-14|[中国无线经济发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/P020230914583102836895.pdf)
+| [**中国综合算力评价白皮书（2023年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/t20230906_461185.htm)            |2023-09-06|[中国综合算力评价白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/P020230906485351670771.pdf)
+| [云计算白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202307/t20230725_458185.htm)                     |2023-07-25|[云计算白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202307/P020230725521473129120.pdf)
+| [优化营商环境研究报告——信息通信行业管理的改革和实践（202...](http://www.caict.ac.cn/kxyj/qwfb/bps/202307/t20230720_457629.htm) |2023-07-20|[优化营商环境研究报告——信息通信行业管理的改革和实践（202...](http://www.caict.ac.cn/kxyj/qwfb/bps/202307/P020230720681090316925.pdf)
+| [中国数字经济发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202304/t20230427_419051.htm)               |2023-04-27|[中国数字经济发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202304/P020230427572038320317.pdf)
+| [**2022中国信通院“集智”白皮书大礼包**](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230119_414770.htm)           |2023-01-19|[2022中国信通院“集智”白皮书大礼包](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230119434521488830.zip)
+| [网络立法白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230112_414232.htm)                    |2023-01-12|[网络立法白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230114499859875704.pdf)
+| [数字孪生城市白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230111_414086.htm)                  |2023-01-11|[数字孪生城市白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230111662616392246.pdf)
+| [**全球数字治理白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230110_413920.htm)              |2023-01-10|[全球数字治理白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230110553626083595.pdf)
+| [区域碳达峰碳中和发展规划白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230108_413795.htm)            |2023-01-08|[区域碳达峰碳中和发展规划白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230108571024363073.pdf)
+| [全球产业创新生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230108_413794.htm)               |2023-01-08|[全球产业创新生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230108016980027481.pdf)
+| [**量子信息技术发展与应用研究报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413790.htm)        |2023-01-07|[量子信息技术发展与应用研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107433234479315.pdf)
+| [**车联网白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413791.htm)                 |2023-01-07|[车联网白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107447240886127.pdf)
+| [电信业数字化转型发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230106_413739.htm)              |2023-01-06|[电信业数字化转型发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230108499919167787.pdf)
+| [数字化绿色化协同发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413793.htm)              |2023-01-07|[数字化绿色化协同发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107860562732799.pdf)
+| [工业数字化绿色化融合发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413789.htm)            |2023-01-07|[工业数字化绿色化融合发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107393430185823.pdf)
+| [中国5G发展和经济社会影响白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413792.htm)           |2023-01-07|[中国5G发展和经济社会影响白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107836826955809.pdf)
+| [**数据要素白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230107_413788.htm)                |2023-01-07|[数据要素白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230107392254519512.pdf)
+| [**大数据白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230104_413644.htm)                 |2023-01-04|[大数据白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230104388100740258.pdf)
+| [**区块链白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221229_413462.htm)                 |2022-12-29|[区块链白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230105572446062995.pdf)
+| [全球Web3技术产业生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221221_413175.htm)           |2022-12-21|[全球Web3技术产业生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020221221683126603210.pdf)
+| [中国无线经济发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221220_413013.htm)               |2022-12-20|[中国无线经济发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020221220361400761604.pdf)
+| [中国宽带发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221216_412886.htm)                  |2022-12-16|[中国宽带发展白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020221216530946937820.pdf)
+| [**全球数字经济白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/t20221207_412453.htm)              |2022-12-07|[全球数字经济白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202212/P020221207397428021671.pdf)
+| [脑机接口总体愿景与关键技术研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221126_412081.htm)          |2022-11-26|[脑机接口总体愿景与关键技术研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221126768090197204.pdf)
+| [**中国工业经济发展形势展望（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221125_412011.htm)           |2022-11-25|[中国工业经济发展形势展望（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221125354713531627.pdf)
+| [中国县域工业经济发展报告（2022）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221125_412010.htm)                |2022-11-25|[中国县域工业经济发展报告（2022）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221125353373559031.pdf)
+| [中国金融科技生态白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221117_411575.htm)                |2022-11-17|[中国金融科技生态白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221117542199873767.pdf)
+| [**中国算力发展指数白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/t20221105_411006.htm)            |2022-11-05|[中国算力发展指数白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202211/P020221105727522653499.pdf)
+| [5G消息发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/t20220922_409260.htm)                   |2022-09-22|[5G消息发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/P020220922719084352804.pdf)
+| [**全球开源生态研究报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/t20220916_409031.htm)             |2022-09-16|[全球开源生态研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/P020220916644891972234.pdf)
+| [人工智能生成内容（AIGC）白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/t20220902_408420.htm)          |2022-09-02|[人工智能生成内容（AIGC）白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202209/P020220902534520798735.pdf)
+| [全球数字经贸规则年度观察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/t20220729_406686.htm)             |2022-07-29|[全球数字经贸规则年度观察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/P020220729550446286663.pdf)
+| [**云计算白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/t20220721_406226.htm)                 |2022-07-21|[云计算白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/P020220721643085625934.pdf)
+| [中国数字经济发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/t20220708_405627.htm)                 |2022-07-08|[中国数字经济发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202207/P020220708428058652677.pdf)
+| [信息无障碍白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202205/t20220518_401483.htm)                   |2022-05-18|[信息无障碍白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202205/P020220518510041281463.pdf)
+| [**数据中心白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/t20220422_400391.htm)                |2022-04-22|[数据中心白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/P020220422707354529853.pdf)
+| [**人工智能白皮书（2022年**）](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/t20220412_399752.htm)                |2022-04-12|[人工智能白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202204/P020220412613255124271.pdf)
+| [**AI框架发展白皮书（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/bps/202202/t20220225_397170.htm)              |2022-02-25|[AI框架发展白皮书（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202202/P020220226369908606520.pdf)
+| [2021年白皮书合集](http://www.caict.ac.cn/kxyj/qwfb/bps/202201/t20220126_396162.htm)                        |2022-01-26|[2021白皮书合集.zip](http://www.caict.ac.cn/kxyj/qwfb/bps/202201/P020220126330196461412.zip)
+| [**车联网白皮书**](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/t20211224_394522.htm)                        |2021-12-24|[车联网白皮书.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/P020211224634954242855.pdf)
+| [**全球数字治理白皮书**](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/t20211223_394423.htm)                     |2021-12-23|[全球数字治理白皮书.pdf](http://www.caict.ac.cn/kxyj/qwfb/bps/202112/P020211223383085909153.pdf)
   
-- 😄[专题报告：257 个](http://www.caict.ac.cn/kxyj/qwfb)    [(镜像)](./data/data-caict-ztbg.md)
+- 😄[专题报告：270 个](http://www.caict.ac.cn/kxyj/qwfb)    [(镜像)](./data/data-caict-ztbg.md)
 
-|名称（详情）|发布日期|下载（点击）|
-|:----|:----|:----|
-|[我国“亩均论英雄”改革地方实践与发展展望（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230625_438944.htm)|2023-06-25|[我国“亩均论英雄”改革地方实践与发展展望（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230625394975884560.pdf)
-|[数字技术赋能碳中和案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230616_438727.htm)|2023-06-16|[数字技术赋能碳中和案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230616591579211505.pdf)
-|[全球自动驾驶战略与政策观察——政策助力L4级自动驾驶开启无...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230615_438712.htm)|2023-06-15|[全球自动驾驶战略与政策观察——政策助力L4级自动驾驶开启无...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230615549938227507.pdf)
-|[应急通信产业发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230615_438676.htm)|2023-06-15|[应急通信产业发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230615703456578477.pdf)
-|[快递业5G消息服务研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230607_428686.htm)|2023-06-07|[快递业5G消息服务研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230607508270795601.pdf)
-|[5G消息搜索服务研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230606_426457.htm)|2023-06-06|[5G消息搜索服务研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230606532296830956.pdf)
-|[数据要素交易指数研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230530_425982.htm)|2023-05-30|[数据要素交易指数研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230530525656926749.pdf)
-|[确定性承载技术和评测体系研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230516_419859.htm)|2023-05-16|[确定性承载技术和评测体系研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230516626368983124.pdf)
-|[企业数字化转型技术发展趋势研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230509_419516.htm)|2023-05-09|[企业数字化转型技术发展趋势研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230509620141144077.pdf)
-|[数控机床网络安全研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230508_419421.htm)|2023-05-08|[数控机床网络安全研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230508482473750482.pdf)
-|[全球云游戏产业深度观察及趋势研判研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230506_419368.htm)|2023-05-06|[全球云游戏产业深度观察及趋势研判研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230506602687918663.pdf)
-|[智能网联汽车应用服务市场研究报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/t20230421_418831.htm)|2023-04-21|[智能网联汽车应用服务市场研究报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/P020230421601499344793.pdf)
-|[全球5G标准必要专利及标准提案研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/t20230421_418829.htm)|2023-04-21|[全球5G标准必要专利及标准提案研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/P020230421528385442774.pdf)
-|[全球工业减碳贸易和对外投资政策研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/t20230418_418573.htm)|2023-04-18|[全球工业减碳贸易和对外投资政策研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/P020230418537149693887.pdf)
-|[数字孪生城市技术应用典型实践案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/t20230407_418010.htm)|2023-04-07|[数字孪生城市技术应用典型实践案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/P020230412456142386368.pdf)
-|[数据中心智能化运维发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202303/t20230323_417269.htm)|2023-03-23|[数据中心智能化运维发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202303/P020230323582881859045.pdf)
-|[人工智能研发运营体系（MLOps）实践指南（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202303/t20230316_416827.htm)|2023-03-16|[人工智能研发运营体系（MLOps）实践指南（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202303/P020230316567347382391.pdf)
-|[数字孪生城市成熟度研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230227_416118.htm)|2023-02-27|[数字孪生城市成熟度研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230227609828705294.pdf)
-|[数字孪生城市产业图谱研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230227_416104.htm)|2023-02-27|[数字孪生城市产业图谱研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230227661738927755.pdf)
-|[全光运力研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230217_415734.htm)|2023-02-17|[全光运力研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230217517703022811.pdf)
-|[数字政府典型案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230215_415634.htm)|2023-02-15|[数字政府典型案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230215518101160564.pdf)
-|[全光网络协同发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230215_415633.htm)|2023-02-15|[全光网络协同发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230215504678547100.pdf)
-|[软件定义存储发展与应用研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230214_415584.htm)|2023-02-14|[软件定义存储发展与应用研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230214476307831922.pdf)
-|[**知识产权视角下的数据要素制度构建研究报告（2023年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230119_414776.htm)|2023-01-19|[知识产权视角下的数据要素制度构建研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230119610955756149.pdf)
-|[DPU发展分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230110_413879.htm)|2023-01-10|[DPU发展分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230110425192655080.pdf)
-|[中国XOps应用创新发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230109_413843.htm)|2023-01-09|[中国XOps应用创新发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230109534000377704.pdf)
-|[城市云服务发展指数报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230109_413842.htm)|2023-01-09|[城市云服务发展指数报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230109427122762120.pdf)
-|[通信基础设施共建共享发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230107_413787.htm)|2023-01-07|[通信基础设施共建共享发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230107337639003738.pdf)
-|[**可持续计算蓝皮报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230105_413693.htm)|2023-01-05|[可持续计算蓝皮报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230109354840540298.pdf)
-|[数据要素流通视角下数据安全保障研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230104_413655.htm)|2023-01-04|[数据要素流通视角下数据安全保障研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230104678966342520.pdf)
-|[**数字社区研究报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221230_413509.htm)|2022-12-30|[数字社区研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221230458667851480.pdf)
-|[互联网行业社会责任/ESG信息披露观察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221229_413463.htm)|2022-12-29|[互联网行业社会责任/ESG信息披露观察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221229453302770666.pdf)
-|[新形势下信息通信行业行政合规免罚制度体系建设研究报告（202...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221229_413461.htm)|2022-12-29|[新形势下信息通信行业行政合规免罚制度体系建设研究报告（202...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221229688405292473.pdf)
-|[城市云服务发展指数报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221227_413371.htm)|2022-12-27|[城市云服务发展指数报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221227663975475856.pdf)
-|[全球Wi-Fi 6技术创新与标准必要专利分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221226_413329.htm)|2022-12-26|[全球Wi-Fi 6技术创新与标准必要专利分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221227382451960781.pdf)
-|[城市制造业高质量发展评价研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221222_413228.htm)|2022-12-22|[城市制造业高质量发展评价研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221222663832781594.pdf)
-|[**中国智慧企业发展报告（2022）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221209_412554.htm)|2022-12-09|[中国智慧企业发展报告（2022）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221209357952132146.pdf)
-|[数字时代治理现代化研究报告——运用数字技术进行政府治理的...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221207_412454.htm)|2022-12-07|[数字时代治理现代化研究报告——运用数字技术进行政府治理的...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221207530304282075.pdf)
-|[重点工业行业碳达峰碳中和需求洞察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221205_412382.htm)|2022-12-05|[重点工业行业碳达峰碳中和需求洞察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221205617900617167.pdf)
-|[金融云安全体系建设与实践研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221202_412287.htm)|2022-12-02|[金融云安全体系建设与实践研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221202509779249643.pdf)
-|[**中国智能制造发展研究报告——智能工厂**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/t20221128_412110.htm)|2022-11-28|[中国智能制造发展研究报告——智能工厂](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/P020221128387338586599.pdf)
-|[数字政府发展趋势与建设路径研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/t20221123_411845.htm)|2022-11-23|[数字政府发展趋势与建设路径研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/P020221123496269315741.pdf)
-|[**5G时代“AIoT+金融”研究报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/t20221122_411790.htm)|2022-11-22|[5G时代“AIoT+金融”研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/P020221122581973542304.pdf)
-|[5G应用创新发展白皮书——2022年第五届“绽放杯”5G应用征集...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/t20221118_411628.htm)|2022-11-18|[5G应用创新发展白皮书——2022年第五届“绽放杯”5G应用征集...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/P020221118420352552862.pdf)
-|[算力时代网络运力研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202210/t20221012_409939.htm)|2022-10-12|[算力时代网络运力研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202210/P020221012504035144088.pdf)
-|[释放中国-东盟数字贸易发展潜力：新基建与新路径](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220921_409205.htm)|2022-09-21|[释放中国-东盟数字贸易发展潜力：新基建与新路径](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220921507229740807.pdf)
-|[中德车联网（智能网联汽车）C-V2X量产应用研究报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220920_409171.htm)|2022-09-20|[中德车联网（智能网联汽车）C-V2X量产应用研究报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220920578599931240.pdf)
-|[下一代ODN网络建设解决方案白皮书](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220915_408937.htm)|2022-09-15|[下一代ODN网络建设解决方案白皮书](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220915681798985759.pdf)
-|[**可信人工智能产业生态发展报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220906_408553.htm)|2022-09-06|[可信人工智能产业生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220906498032388828.pdf)
-|[数字政府全光网研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202208/t20220808_407065.htm)|2022-08-08|[数字政府全光网研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202208/P020220808626383532299.pdf)
-|[**6G典型场景和关键能力**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/t20220724_406339.htm)|2022-07-24|[6G典型场景和关键能力](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/P020220724437616473703.pdf)
-|[5G新通话技术与业务创新研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/t20220722_406284.htm)|2022-07-22|[5G新通话技术与业务创新研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/P020220722583813270179.pdf)
-|[区块链基础设施研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/t20220720_406148.htm)|2022-07-20|[区块链基础设施研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/P020220720381650932740.pdf)
-|[数据治理研究报告——数据要素权益配置路径（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/t20220715_405971.htm)|2022-07-15|[数据治理研究报告——数据要素权益配置路径（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/P020220715499261607181.pdf)
-|[**分布式系统稳定性建设指南（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/t20220620_404604.htm)|2022-06-20|[分布式系统稳定性建设指南（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/P020220621683623705917.pdf)
-|[OTT终端数据安全和个人信息保护研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/t20220616_404446.htm)|2022-06-16|[OTT终端数据安全和个人信息保护研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/P020220616521600917760.pdf)
-|[实时互动产业发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/t20220614_404308.htm)|2022-06-14|[实时互动产业发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/P020220614564340133801.pdf)
-|[主要国家和地区推动制造业数字化转型的政策研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202205/t20220525_401734.htm)|2022-05-25|[主要国家和地区推动制造业数字化转型的政策研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202205/P020220525328269616177.pdf)
-|[**全球5G专利活动报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220422_400379.htm)|2022-04-22|[全球5G专利活动报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220422375972363387.pdf)
-|[中国第三方数据中心运营商分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220408_399556.htm)|2022-04-08|[中国第三方数据中心运营商分析报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220408530633654580.pdf)
-|[全球云游戏产业深度观察及趋势研判研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/t20220317_398029.htm)|2022-03-17|[全球云游戏产业深度观察及趋势研判研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220317526747187627.pdf)
+| 名称（详情）                                                                                                   |发布日期|下载（点击）|
+|:---------------------------------------------------------------------------------------------------------|:----|:----|
+| [互联网域名产业报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202310/t20231009_463266.htm)                    |2023-10-09|[互联网域名产业报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202310/P020231009556954794567.pdf)
+| [**平台经济发展观察（2023年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202309/t20230927_462941.htm)                 |2023-09-27|[平台经济发展观察（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202309/P020230927586415828339.pdf)
+| [车载激光雷达技术与应用研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202309/t20230920_462390.htm)              |2023-09-20|[车载激光雷达技术与应用研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202309/P020230920619753767682.pdf)
+| [**零信任发展研究报告（2023年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202308/t20230828_460492.htm)                |2023-08-28|[零信任发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202308/P020230828402611317149.pdf)
+| [面向泛在入算的OTN P2MP品质专线研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202308/t20230821_460048.htm)      |2023-08-21|[面向泛在入算的OTN P2MP品质专线研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202308/P020230825391344499062.pdf)
+| [中国绿色算力发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202308/t20230801_458686.htm)                 |2023-08-01|[中国绿色算力发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202308/P020230801406384030847.pdf)
+| [制造业上市公司高质量发展评价研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/t20230728_458438.htm)           |2023-07-28|[制造业上市公司高质量发展评价研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/P020230728598234346559.pdf)
+| [企业智慧运营研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/t20230727_458337.htm)                   |2023-07-27|[企业智慧运营研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202308/P020230814589673287874.pdf)
+| [**中国算力服务研究报告（2023年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/t20230727_458297.htm)               |2023-07-27|[中国算力服务研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/P020230727359068140192.pdf)
+| [**5G智慧海洋发展研究报告（2023年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/t20230720_457598.htm)             |2023-07-20|[5G智慧海洋发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/P020230720477031864157.pdf)
+| [数字政府蓝皮报告——业务场景视图与先锋实践（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/t20230719_457577.htm)        |2023-07-19|[数字政府蓝皮报告——业务场景视图与先锋实践（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/P020230719429620396221.pdf)
+| [**全球海底光缆产业发展研究报告（2023年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/t20230707_440299.htm)           |2023-07-07|[全球海底光缆产业发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/P020230718390842938808.pdf)
+| [**中国第三方数据中心服务商分析报告（2023年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/t20230706_440185.htm)         |2023-07-06|[中国第三方数据中心服务商分析报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/P020230706731265165322.pdf)
+| [我国“亩均论英雄”改革地方实践与发展展望（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230625_438944.htm)         |2023-06-25|[我国“亩均论英雄”改革地方实践与发展展望（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230625394975884560.pdf)
+| [数字技术赋能碳中和案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230616_438727.htm)                |2023-06-16|[数字技术赋能碳中和案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230616591579211505.pdf)
+| [全球自动驾驶战略与政策观察——政策助力L4级自动驾驶开启无...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230615_438712.htm)    |2023-06-15|[全球自动驾驶战略与政策观察——政策助力L4级自动驾驶开启无...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230615549938227507.pdf)
+| [应急通信产业发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230615_438676.htm)                 |2023-06-15|[应急通信产业发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230615703456578477.pdf)
+| [快递业5G消息服务研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230607_428686.htm)                |2023-06-07|[快递业5G消息服务研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230607508270795601.pdf)
+| [5G消息搜索服务研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230606_426457.htm)                 |2023-06-06|[5G消息搜索服务研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230606532296830956.pdf)
+| [数据要素交易指数研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230530_425982.htm)                 |2023-05-30|[数据要素交易指数研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230530525656926749.pdf)
+| [确定性承载技术和评测体系研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230516_419859.htm)             |2023-05-16|[确定性承载技术和评测体系研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230516626368983124.pdf)
+| [企业数字化转型技术发展趋势研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230509_419516.htm)            |2023-05-09|[企业数字化转型技术发展趋势研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230509620141144077.pdf)
+| [数控机床网络安全研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230508_419421.htm)                 |2023-05-08|[数控机床网络安全研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230508482473750482.pdf)
+| [全球云游戏产业深度观察及趋势研判研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/t20230506_419368.htm)         |2023-05-06|[全球云游戏产业深度观察及趋势研判研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202305/P020230506602687918663.pdf)
+| [智能网联汽车应用服务市场研究报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/t20230421_418831.htm)                    |2023-04-21|[智能网联汽车应用服务市场研究报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/P020230421601499344793.pdf)
+| [全球5G标准必要专利及标准提案研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/t20230421_418829.htm)          |2023-04-21|[全球5G标准必要专利及标准提案研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/P020230421528385442774.pdf)
+| [全球工业减碳贸易和对外投资政策研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/t20230418_418573.htm)          |2023-04-18|[全球工业减碳贸易和对外投资政策研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/P020230418537149693887.pdf)
+| [数字孪生城市技术应用典型实践案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/t20230407_418010.htm)           |2023-04-07|[数字孪生城市技术应用典型实践案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202304/P020230412456142386368.pdf)
+| [数据中心智能化运维发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202303/t20230323_417269.htm)              |2023-03-23|[数据中心智能化运维发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202303/P020230323582881859045.pdf)
+| [人工智能研发运营体系（MLOps）实践指南（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202303/t20230316_416827.htm)        |2023-03-16|[人工智能研发运营体系（MLOps）实践指南（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202303/P020230316567347382391.pdf)
+| [数字孪生城市成熟度研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230227_416118.htm)                |2023-02-27|[数字孪生城市成熟度研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230227609828705294.pdf)
+| [数字孪生城市产业图谱研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230227_416104.htm)               |2023-02-27|[数字孪生城市产业图谱研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230227661738927755.pdf)
+| [全光运力研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230217_415734.htm)                     |2023-02-17|[全光运力研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230217517703022811.pdf)
+| [数字政府典型案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230215_415634.htm)                   |2023-02-15|[数字政府典型案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230215518101160564.pdf)
+| [全光网络协同发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230215_415633.htm)                 |2023-02-15|[全光网络协同发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230215504678547100.pdf)
+| [软件定义存储发展与应用研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/t20230214_415584.htm)              |2023-02-14|[软件定义存储发展与应用研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202302/P020230214476307831922.pdf)
+| [**知识产权视角下的数据要素制度构建研究报告（2023年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230119_414776.htm)     |2023-01-19|[知识产权视角下的数据要素制度构建研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230119610955756149.pdf)
+| [DPU发展分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230110_413879.htm)                    |2023-01-10|[DPU发展分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230110425192655080.pdf)
+| [中国XOps应用创新发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230109_413843.htm)             |2023-01-09|[中国XOps应用创新发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230109534000377704.pdf)
+| [城市云服务发展指数报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230109_413842.htm)                  |2023-01-09|[城市云服务发展指数报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230109427122762120.pdf)
+| [通信基础设施共建共享发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230107_413787.htm)             |2023-01-07|[通信基础设施共建共享发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230107337639003738.pdf)
+| [**可持续计算蓝皮报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230105_413693.htm)                |2023-01-05|[可持续计算蓝皮报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230109354840540298.pdf)
+| [数据要素流通视角下数据安全保障研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/t20230104_413655.htm)          |2023-01-04|[数据要素流通视角下数据安全保障研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202301/P020230104678966342520.pdf)
+| [**数字社区研究报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221230_413509.htm)                 |2022-12-30|[数字社区研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221230458667851480.pdf)
+| [互联网行业社会责任/ESG信息披露观察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221229_413463.htm)        |2022-12-29|[互联网行业社会责任/ESG信息披露观察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221229453302770666.pdf)
+| [新形势下信息通信行业行政合规免罚制度体系建设研究报告（202...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221229_413461.htm)   |2022-12-29|[新形势下信息通信行业行政合规免罚制度体系建设研究报告（202...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221229688405292473.pdf)
+| [城市云服务发展指数报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221227_413371.htm)                  |2022-12-27|[城市云服务发展指数报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221227663975475856.pdf)
+| [全球Wi-Fi 6技术创新与标准必要专利分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221226_413329.htm)     |2022-12-26|[全球Wi-Fi 6技术创新与标准必要专利分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221227382451960781.pdf)
+| [城市制造业高质量发展评价研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221222_413228.htm)             |2022-12-22|[城市制造业高质量发展评价研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221222663832781594.pdf)
+| [**中国智慧企业发展报告（2022）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221209_412554.htm)                |2022-12-09|[中国智慧企业发展报告（2022）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221209357952132146.pdf)
+| [数字时代治理现代化研究报告——运用数字技术进行政府治理的...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221207_412454.htm)     |2022-12-07|[数字时代治理现代化研究报告——运用数字技术进行政府治理的...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221207530304282075.pdf)
+| [重点工业行业碳达峰碳中和需求洞察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221205_412382.htm)           |2022-12-05|[重点工业行业碳达峰碳中和需求洞察报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221205617900617167.pdf)
+| [金融云安全体系建设与实践研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/t20221202_412287.htm)             |2022-12-02|[金融云安全体系建设与实践研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202212/P020221202509779249643.pdf)
+| [**中国智能制造发展研究报告——智能工厂**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/t20221128_412110.htm)              |2022-11-28|[中国智能制造发展研究报告——智能工厂](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/P020221128387338586599.pdf)
+| [数字政府发展趋势与建设路径研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/t20221123_411845.htm)            |2022-11-23|[数字政府发展趋势与建设路径研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/P020221123496269315741.pdf)
+| [**5G时代“AIoT+金融”研究报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/t20221122_411790.htm)        |2022-11-22|[5G时代“AIoT+金融”研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/P020221122581973542304.pdf)
+| [5G应用创新发展白皮书——2022年第五届“绽放杯”5G应用征集...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/t20221118_411628.htm) |2022-11-18|[5G应用创新发展白皮书——2022年第五届“绽放杯”5G应用征集...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202211/P020221118420352552862.pdf)
+| [算力时代网络运力研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202210/t20221012_409939.htm)                 |2022-10-12|[算力时代网络运力研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202210/P020221012504035144088.pdf)
+| [释放中国-东盟数字贸易发展潜力：新基建与新路径](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220921_409205.htm)             |2022-09-21|[释放中国-东盟数字贸易发展潜力：新基建与新路径](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220921507229740807.pdf)
+| [中德车联网（智能网联汽车）C-V2X量产应用研究报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220920_409171.htm)          |2022-09-20|[中德车联网（智能网联汽车）C-V2X量产应用研究报告](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220920578599931240.pdf)
+| [下一代ODN网络建设解决方案白皮书](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220915_408937.htm)                   |2022-09-15|[下一代ODN网络建设解决方案白皮书](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220915681798985759.pdf)
+| [**可信人工智能产业生态发展报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/t20220906_408553.htm)           |2022-09-06|[可信人工智能产业生态发展报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202209/P020220906498032388828.pdf)
+| [数字政府全光网研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202208/t20220808_407065.htm)                  |2022-08-08|[数字政府全光网研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202208/P020220808626383532299.pdf)
+| [**6G典型场景和关键能力**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/t20220724_406339.htm)                     |2022-07-24|[6G典型场景和关键能力](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/P020220724437616473703.pdf)
+| [5G新通话技术与业务创新研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/t20220722_406284.htm)             |2022-07-22|[5G新通话技术与业务创新研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/P020220722583813270179.pdf)
+| [区块链基础设施研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/t20220720_406148.htm)                  |2022-07-20|[区块链基础设施研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/P020220720381650932740.pdf)
+| [数据治理研究报告——数据要素权益配置路径（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/t20220715_405971.htm)         |2022-07-15|[数据治理研究报告——数据要素权益配置路径（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202207/P020220715499261607181.pdf)
+| [**分布式系统稳定性建设指南（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/t20220620_404604.htm)             |2022-06-20|[分布式系统稳定性建设指南（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/P020220621683623705917.pdf)
+| [OTT终端数据安全和个人信息保护研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/t20220616_404446.htm)         |2022-06-16|[OTT终端数据安全和个人信息保护研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/P020220616521600917760.pdf)
+| [实时互动产业发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/t20220614_404308.htm)                 |2022-06-14|[实时互动产业发展研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202206/P020220614564340133801.pdf)
+| [主要国家和地区推动制造业数字化转型的政策研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202205/t20220525_401734.htm)     |2022-05-25|[主要国家和地区推动制造业数字化转型的政策研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202205/P020220525328269616177.pdf)
+| [**全球5G专利活动报告（2022年）**](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220422_400379.htm)               |2022-04-22|[全球5G专利活动报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220422375972363387.pdf)
+| [中国第三方数据中心运营商分析报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/t20220408_399556.htm)             |2022-04-08|[中国第三方数据中心运营商分析报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202204/P020220408530633654580.pdf)
+| [全球云游戏产业深度观察及趋势研判研究报告（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/t20220317_398029.htm)         |2022-03-17|[全球云游戏产业深度观察及趋势研判研究报告（2022年）.pdf](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202203/P020220317526747187627.pdf)
 
-- 😄[权威数据：586 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)    [(镜像)](./data/data-caict-qwsj.md)
+- 😄[权威数据：598 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)    [(镜像)](./data/data-caict-qwsj.md)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[2023年8月国内手机市场运行分析报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202310/P020231018368456681467.pdf)|2023-10-18
+|[信息无障碍动态（2023年第9期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202310/P020231011605658948807.pdf)|2023-10-11
+|[数字乡村发展动态（2023年第8期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202309/P020230928483513694044.pdf)|2023-09-28
+|[2023年7月国内手机市场运行分析报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202309/P020230913502149944632.pdf)|2023-09-13
+|[信息无障碍动态（2023年第8期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202309/P020230912567027816733.pdf)|2023-09-12
+|[数字乡村发展动态（2023年第7期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202308/P020230823616304282854.pdf)|2023-08-23
+|[2023年6月国内手机市场运行分析报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202308/P020230811347948730795.pdf)|2023-08-11
+|[信息无障碍动态（2023年第7期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202308/P020230807514193925532.pdf)|2023-08-07
+|[2023年二季度互联网投融资运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202307/P020230728549191512032.pdf)|2023-07-28
+|[数字乡村发展动态（2023年第6期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202307/P020230721576426949982.pdf)|2023-07-21
+|[国内增值电信业务许可情况报告（2023.6）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202307/P020230714651443638669.pdf)|2023-07-14
 |[信息无障碍动态（2023年第6期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202307/P020230705492088047702.pdf)|2023-07-05
 |[2023年5月国内手机市场运行分析报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202306/P020230626449403805326.pdf)|2023-06-26
 |[2023年4月国内手机市场运行分析报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202306/P020230626446968530878.pdf)|2023-06-26
@@ -205,38 +249,6 @@
 |[国内手机产品通信特性与技术能力监测报告（2022年第四期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202303/P020230324400467833933.pdf)|2023-03-24
 |[数字乡村发展动态（2023年第3期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202303/P020230317595552162505.pdf)|2023-03-17
 |[国内增值电信业务许可情况报告（2023.2）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202303/P020230315624783963707.pdf)|2023-03-15
-|[2022年11月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202302/P020230217620305599369.pdf)|2023-02-17
-|[2022年12月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202302/P020230217708836475452.pdf)|2023-02-17
-|[数字乡村发展动态（2023年第2期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202302/P020230215435443251404.pdf)|2023-02-15
-|[2022年四季度互联网投融资运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202302/P020230213570332426763.pdf)|2023-02-13
-|[国内增值电信业务许可情况报告（2023.1）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202302/P020230209483571771183.pdf)|2023-02-09
-|[信息无障碍动态（2023年第1期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202301/P020230131606898765183.pdf)|2023-01-31
-|[数字乡村发展动态（2023年第1期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202301/P020230111619868513362.pdf)|2023-01-11
-|[国内增值电信业务许可情况报告（2022.12）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202301/P020230110744722852234.pdf)|2023-01-10
-|[2022年11月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202301/P020230104700638689036.pdf)|2023-01-04
-|[2022年11月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202301/P020230104699950469397.pdf)|2023-01-04
-|[信息无障碍动态（2022年第12期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221230459333338543.pdf)|2022-12-30
-|[国内手机产品交互载体特性监测报告（2022年第三期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221228385345601810.pdf)|2022-12-28
-|[国内手机产品通信特性与技术能力监测报告（2022年第三期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221228385149218328.pdf)|2022-12-28
-|[2022年10月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221226393199223190.pdf)|2022-12-26
-|[2022年10月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221226391890013742.pdf)|2022-12-26
-|[国内增值电信业务许可情况报告（2022.11）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221214474974077986.pdf)|2022-12-14
-|[数字乡村发展动态（2022年第1期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221213394454026668.pdf)|2022-12-13
-|[《全国移动网络质量监测报告》（第3期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221208623971103509.pdf)|2022-12-08
-|[信息无障碍动态（2022年第11期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202212/P020221202408180553397.pdf)|2022-12-02
-|[2022年9月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221128655325731629.pdf)|2022-11-28
-|[2022年9月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221128654611383846.pdf)|2022-11-28
-|[国内增值电信业务许可情况报告（2022.10）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221117528706501754.pdf)|2022-11-17
-|[**2022年三季度我国互联网上市企业运行情况**](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221116595504161100.pdf)|2022-11-16
-|[信息无障碍动态（2022年第10期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221103547444738364.pdf)|2022-11-03
-|[2022年三季度互联网投融资运行情况](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202211/P020221101575920982516.pdf)|2022-11-01
-|[2022年7月国内手机市场运行分析报告（英文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202210/P020221026564040871216.pdf)|2022-10-26
-|[2022年8月国内手机市场运行分析报告（中文版）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202210/P020221026563397822797.pdf)|2022-10-26
-|[国内增值电信业务许可情况报告（2022.9）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202210/P020221020372500447033.pdf)|2022-10-20
-|[信息无障碍动态（2022年第9期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202210/P020221008545143995045.pdf)|2022-10-08
-|[国内增值电信业务许可情况报告（2022.8）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220920585224101323.pdf)|2022-09-20
-|[国内手机产品交互载体特性监测报告（2022年第二期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220916496961240243.pdf)|2022-09-16
-|[国内手机产品通信特性与技术能力监测报告（2022年第二期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202209/P020220916496444887685.pdf)|2022-09-16
 
 ***
 ## [7.财富FORTUNE 500强](https://www.fortunechina.com/rankings/node_11663.htm) :+1::+1::+1:
@@ -257,10 +269,10 @@
 ## 8. 上海数据 :+1::+1::+1:
 - [上海统计公报](http://tjj.sh.gov.cn/tjgb/index.html)
 
-😄 [2021年上海市国民经济和社会发展统计公报 ](http://tjj.sh.gov.cn/tjgb/20220314/e0dcefec098c47a8b345c996081b5c94.html)
+😄 [2022年上海市国民经济和社会发展统计公报 ](https://tjj.sh.gov.cn/tjgb/20230317/6bb2cf0811ab41eb8ae397c8f8577e00.html)
 - [上海统计年签](http://tjj.sh.gov.cn/tjnj/index.html)
 
-😄 [2021年上海统计年签 ](http://tjj.sh.gov.cn/tjnj/20220309/0e01088a76754b448de6d608c42dad0f.html) | [镜像](./data/data-sh.md) 
+😄 [2022年上海统计年签 ](https://tjj.sh.gov.cn/tjnj/20230206/804acea250d44d2187f2e37d2e5d36ba.html) | [镜像](./data/data-sh.md) 
    
 - [上海市卫生健康委员会](https://wsjkw.sh.gov.cn/xwfb/index.html)
 - [上海市商务委员会](https://sww.sh.gov.cn/swdt/index.html)    
@@ -274,6 +286,59 @@
 
 |名称|发布日期|简介|
 |:----|:----|:----|
+|[大学生群体5A景区旅游活跃度盘点月报 - 2023年8月](https://report.iresearch.cn/report/202310/4247.shtml)|2023/10/19 12:05:57|艾瞰系列是艾瑞数智基于与运营商建立的深度合作，推出的文旅行业月度盘点报告。8月月报聚焦大学生群体，针对全国范围内5A景区，从大学生暑期旅游特征，5A景区大学生人流量、5A景区大学生停留时间、大学生游客输出省份及目的地等维度进行分析。主要发现有：-  8月5A景区大学生人流量环比+16.1%- 多项景区优惠政策有助于吸纳大学生游客- 大学生更爱名山大川- 沉浸式旅行由于深度体验感及多元化信息的融入受到大学生欢迎- 独特的小众景点亦受到大学生青睐
+|[2023年中国折叠屏手机用户洞察报告](https://report.iresearch.cn/report/202310/4245.shtml)|2023/10/12 8:00:00|《2023年中国折叠屏手机用户洞察报告》主要研究与探讨了中国折叠屏手机行业近年来发展历程与市场现状。本次研究旨在对折叠屏手机行业从品牌厂商及用户需求两侧进行解读，并对折叠屏手机的消费人群画像、品牌认知、使用需求及未来期望等进行讨论。
+|[2023年美妆及日化家清行业网络营销监测报告](https://report.iresearch.cn/report/202310/4246.shtml)|2023/10/11 17:22:02|《2023年美妆及日化家清行业网络营销监测报告》基于艾瑞二十年的研究经验、数据积累以及艾瑞咨询 AdTracker 多平台网络广告监测数据库、MiniTracker 第三方小程序行为监测平台，内容包含美妆及日化家清行业网络营销趋势分析；细分行业广告投放数据分析；品牌典型营销案例解读；美妆及日化家清行业价值榜单。希望能为相关企业提供参考意见。
+|[2023年中国银行营销数字化行业研究报告](https://report.iresearch.cn/report/202310/4244.shtml)|2023/10/11 10:00:00|在国内银行业数字化转型的时代浪潮下，营销作为银行经营的重要环节与核心利润板块，其数字化转型方式与能力部署流程受到行业内外的普遍关注。对此，《2023年中国银行业数字化转型研究报告》将对商业银行营销数字化转型中涉及到的各项数字化能力、部署流程及典型运营场景展开研究，结合大量的商业银行访谈与厂商调研，为商业银行营销领域数字化转型提供建设指南。同时，本篇报告优选银行营销数字化服务领域的头部企业，深度剖析其服务银行的优秀案例，评选出TOP30银行营销数字化转型卓越服务商榜单。
+|[云服务行业动态及热点研究月报 - 2023年9月](https://report.iresearch.cn/report/202310/4243.shtml)|2023/10/8 17:10:00|本月报是艾瑞针对整体云服务以及细分赛道在本月产生的热门事件、政策动向、技术革新、招采信息、资本动态等，及重点客户和头部企业的动态信号及标杆案例，进行材料搜集并整理的行业信息监测报告。艾瑞基于云服务行业洞察，捕捉行业最新业态，为读者提供商业见解的初衷，对公开信息进行分行业、分类别的收集整理，并结合多位云服务产业分析师对关键信息的分析洞见，向读者简洁、清晰、深入地展示近期中国云服务市场的变化方向。
+|[2023年中国眼镜行业白皮书](https://report.iresearch.cn/report/202310/4242.shtml)|2023/10/7 15:57:19|2022年，尽管宏观市场经济受疫情影响增长放缓，但得益于国家政策扶持、社会环境导向，眼镜产业仍保持高质量、多元化的发展态势，在儿童青少年眼镜产业向好发展态势尤为突出。供给端，一方面，随着儿童青少年近视率升高，青控镜片市场快速发展，也促进了青控镜架新生/细分品牌的注入，带动眼镜市场整体的发展；另一方面，随着我国老龄人口的增加，渐进多焦点镜片市场也表现出了较大的发展潜力。需求端，消费者对眼镜的需求从功能性向舒适性、时尚性递进，且不同消费者在眼镜验配的核心关注、镜片与镜架选择上表现出一定差异性。本报告以眼镜行业市场发展动态和消费者需求变化及差异为基础，探索眼镜市场格局与动态、发展趋势与潜力及消费者差异性需求特征等，为眼镜产业的未来发展提供参考性建议。
+|[2023年中国数字疗法行业研究报告](https://report.iresearch.cn/report/202309/4241.shtml)|2023/9/28 14:23:17|数字疗法为数字技术在医疗领域探索的产物，是基于高等级的循证医学证据，通过AI赋能的软件程序驱动产生效果的全新模式，在绝大多数疾病领域都已有数字疗法的尝试和探索。数字疗法的出现一定程度上解决了传统疗法在患者、医疗机构、药企、支付等方面的痛点，带来了新的变量和机遇，创新医疗服务体系，受到各利益相关方的高度重视。目前，中国的数字疗法行业仍处于起步阶段，面临理论基础尚不完善、临床效果有待检验、医生接受度较低、商业模式不明确等挑战，但随着相关技术及政策的不断成熟，数字疗法有望在人口老龄化及慢病愈加严重的大环境之下获得广阔的市场空间。艾瑞认为，数字疗法市场将成为医疗领域新蓝海。
+|[2023年中国第三方支付行业研究报告](https://report.iresearch.cn/report/202309/4240.shtml)|2023/9/27 14:15:00|艾瑞多年来持续发布第三方支付行业年度报告，梳理支付行业发展动态，盘点业内参与者最新业态，片善小才、抑或集大成者，都会在报告中以不同角度进行展现。2023年，艾瑞延续支付年度报告的发布。本年的支付报告聚焦第三方企业支付，对线下收单、跨境支付、产业支付三个典型细分赛道按照单独的章节进行呈现，详细剖析该细分领域的独特业务进展与细分赛道内的优势参与方。报告选择了部分典型案例作为标杆研究，最后与多位行业大咖进行面对面交流，呈现专家们对于行业现状的理解及对未来趋势的预判。
+|[2023年中国轻越野生活出行趋势报告](https://report.iresearch.cn/report/202309/4239.shtml)|2023/9/26 11:43:34|本报告通过盘点户外生活方式潮流趋势、户外出行车辆需求和选购考虑因素，向大家全方位展示户外生活方式的普及趋势和全新的用车需求。并从用户购车考虑因素和车主满意情况对比分析，论证轻越野细分领域的开拓者——哈弗狗品类对城区+越野全场景的支持能力；最后针对轻越野车这一领域的未来，进行趋势分析。
+|[2023年兴趣社区价值延展探索研究报告](https://report.iresearch.cn/report/202309/4238.shtml)|2023/9/25 17:15:07|国内兴趣社区经历了从1.0到2.0时代的升级，2.0时代更加注重内容多元性和社交体验。以微博超话社区为代表的头部兴趣社区，吸引了年轻、活力的用户，覆盖了多个兴趣领域，成为众多品牌关注的营销阵地。未来，兴趣社区需要在平衡社交与兴趣、传播正能量、解决商业与用户体验冲突等方面不断创新，以承担更多社会价值，推动其持续发展。
+|[2023年精准护肤趋势报告](https://report.iresearch.cn/report/202309/4237.shtml)|2023/9/15 18:00:00|在健康意识升级及护肤观念科学化的影响下，消费者对皮肤健康与管理的关注度提高，成分确定性与用量可控性的精准护肤备受消费者青睐。近年来国产家用美容仪及功效护肤品企业逐渐成为市场主流，在技术、研发、创新、服务及用户需求洞察等多方面呈现强势赶超之势，为消费者所熟知并受到资本追捧。精准护肤是深度融合光电科技与精准医学在皮肤上的实践，不同于传统护肤的主观人为判断与表皮维护，精准护肤是基于“精准识别、精准循证、精准递送” 三大环节找到皮肤问题根源，确定最优靶点通路，选择匹配最佳功效成分与光电技术，向内深入到深层皮层，并联合多方试验验证产品功效实现及产品安全性。随着国家监管力度的升级，家用美容仪步入“械字号”时代，未来行业内小品牌出清，品牌向头部集中，从而加速产品的研发、创新及升级。
+|[2023年中国跨境婴童功能护肤行业趋势报告](https://report.iresearch.cn/report/202309/4236.shtml)|2023/9/14 15:55:43|报告主要研究与探讨了中国跨境婴童护肤行业近年来的市场现状、消费者需求洞察和未来的发展趋势。本次研究旨在对中国跨境婴童护肤行业从行业发展、市场现状、消费需求及竞争赛道进行全面解读。
+|[艾瞰系列-5A景区旅游活跃度盘点月报 - 2023年7月](https://report.iresearch.cn/report/202309/4235.shtml)|2023/9/12 17:30:53|艾瞰系列是艾瑞数智基于与运营商建立的深度合作，推出的文旅行业月度盘点报告。报告聚焦5A景区及主题公园，从景区人流量、景区吸引力、游客特征及行为等维度进行分析。7月针对河北省典型5A景区的专题分析，主要发现有：1. 野三坡风景名胜区：五成以上本地游客，复游游客占比44.3%，表现较好。2. 承德避暑山庄：二线城市游客及31-50岁游客占比明显增长。3. 白洋淀风景区：近六成本地游客，景区人流量自5月增长后相对平缓，缺乏后劲。4. 永年广府古城：近八成本地游客，游客结构相对稳定。旅游市场仍需激活。艾瞰系列为各地旅游局、主题公园运营方及文旅相关部门提供中国文旅市场宏观视图，把握区域文旅行业全域指标。欢迎您关注艾瞰系列，并试用文旅大数据服务。
+|[2023年中国跨境出口电商行业研究报告](https://report.iresearch.cn/report/202309/4234.shtml)|2023/9/11 11:18:32|近年来全球贸易市场受到疫情封控、供应链危机、地缘争端、地区保护主义等多重因素影响发展承压，但由于逆全球化的高成本，世界各国家地区基于比较性优势进行商品和服务的交易前景依旧可期。同时，疫情期间线下渠道受限也加速了线上交易普及度，进一步促进了全球电商渗透率的提升。随着产业结构升级、政策鼓励和技术进步的深入推进，我国跨境出口电商将迎来新的发展机遇。
+|[云服务行业动态及热点研究月报 - 2023年8月](https://report.iresearch.cn/report/202309/4232.shtml)|2023/9/6 17:28:40|本月报是艾瑞针对整体云服务以及细分赛道在本月产生的热门事件、政策动向、技术革新、招采信息、资本动态等，及重点客户和头部企业的动态信号及标杆案例，进行材料搜集并整理的行业信息监测报告。艾瑞基于云服务行业洞察，捕捉行业最新业态，为读者提供商业见解的初衷，对公开信息进行分行业、分类别的收集整理，并结合多位云服务产业分析师对关键信息的分析洞见，向读者简洁、清晰、深入地展示近期中国云服务市场的变化方向。
+|[2023年中国MarTech市场研究报告 - 行业洞察篇](https://report.iresearch.cn/report/202309/4231.shtml)|2023/9/6 15:15:31|随资本市场对MarTech的关注、企业数字化转型的持续推进及技术服务商的功能迭代，我国MarTech行业也正迎来新的发展机遇。《2023年中国MarTech市场研究报告-行业洞察篇》对中国MarTech市场发展现状进行描述，同时选取营销数字化程度较高的典型行业，分析MarTech应用场景及策略，并阐述MarTech市场新动态与新趋势。
+|[2023年中国婴幼儿早教消费洞察：解读90后妈妈的心里话—科学陪伴，松弛育儿](https://report.iresearch.cn/report/202309/4230.shtml)|2023/9/1 15:30:46|根据国家卫生健康委2022年印发的《3岁以下婴幼儿健康养育照护指南》，0-3岁为婴幼儿期。父母作为婴幼儿养育照护和健康管理的第一责任人，愈发关注对婴幼儿的科学养育照护和早期教育，但在信息爆炸的今天，对于早教育儿依然存在着较多迷茫和疑虑，在此背景下，本报告针对12-24月龄宝宝的90后妈妈展开问卷调研，意在呈现婴幼儿早教需求人群妈妈的生活状态、生活态度及其对婴幼儿早教的理解、困惑、方法论与早教产品选择使用情况，并结合对早教专家的访谈，解答妈妈们在婴幼儿早教认知、早教方法论、早教产品选择等方面的困惑。
+|[视频会议用户洞察白皮书](https://report.iresearch.cn/report/202308/4229.shtml)|2023/8/28 11:45:22|白皮书重点通过桌面研究和定量调研的方式，对疫情后视频会议行业发展现状、用户行为及需求偏好和用户付费意愿等内容展开研究，以期加深对视频会议行业及用户的了解。希望能为相关企业与资本市场提供参考意见与运营建议。
+|[2023年H1中国移动互联网流量半年报告](https://report.iresearch.cn/report/202308/4228.shtml)|2023/8/23 17:11:04|报告基于艾瑞二十年的研究经验、数据积累以及艾瑞咨询 UserTracker 多平台网民行为监测数据库，内容包含中国移动互联网发展总览；重点细分行业详情；中国移动互联网价值榜。希望能为相关企业提供参考意见。
+|[2023年中国AIGC产业全景报告](https://report.iresearch.cn/report/202308/4227.shtml)|2023/8/22 16:00:00|ChatGPT的火爆出圈在世界范围内掀起了一股AIGC热潮。短短数月内，产学研各界追随OpenAI的脚步竞相发布预训练大模型，数以千计的AIGC应用也破土而出，AI乃至整个数字经济产业的上空响起阵阵春雷，变革大幕已徐徐展开。对此，艾瑞发布《2023年中国AIGC产业全景报告》，立足AIGC于整个数字产业之“变”与“新”，洞察AIGC产业链各环节的发展现状与关键问题。希望通过本报告，为读者呈现中国AIGC产业发展进程、产业全景、与各产业联动发展机遇的多维视角，欢迎各界探讨指正。
+|[2023年中国普惠金融行业洞察报告](https://report.iresearch.cn/report/202308/4225.shtml)|2023/8/18 10:00:00|继2022年以来接连发布了《2022年中国消费金融行业研究报告》、《2022年小微融资发展与展望研究报告》、《2023年中国供应链金融数字化行业研究报告》等研究报告后，艾瑞咨询普惠金融研究团队继续聚焦普惠金融，在原有研究积累的基础上，重点关注普惠金融行业在2022年以来发生的一系列变化，推出本报告。从结构上，本报告主要包括四个方面：首先从宏观上确立当前普惠金融所面对的市场环境，其次重点洞察普惠金融行业发展现状，接着选择了部分典型案例作为标杆研究，最后与多位行业大咖进行面对面交流，呈现专家们对于行业现状的理解及对未来趋势的预判。
+|[2023年中国红人新经济行业发展报告](https://report.iresearch.cn/report/202308/4226.shtml)|2023/8/17 15:00:00|报告显示，2022年中国红人新经济关联产业的市场规模超5.5万亿元，产出内容的赛道细分和内容扩圈将更好的满足用户浏览需求；在促进传统产业升级的同时拉动了区域经济，带动线下实体经济联动发展；在提供就业选择和帮扶的同时充分发挥人文与环保价值。未来，随着Web3.0的发展，生产工具向人工智能迈进，催化去中心化生产关系的深化，产出的内容将会向三维的沉浸式交互方式去进行更多的迭代，也将会有愈加完善和严谨的机制来保障Web3.0下的创作者内容生态健康可持续的发展。
+|[元宇宙概念娱乐应用场景案例研究报告 - 体验驱动篇](https://report.iresearch.cn/report/202308/4224.shtml)|2023/8/11 17:00:00|报告通过从世界体验、共创度、虚拟形象、经济系统和社交五个层面对海外典型案例的重点分析，对元宇宙概念娱乐应用场景作出一定的近未来展望。
+|[2023年中国保险业数字化转型研究报告](https://report.iresearch.cn/report/202308/4223.shtml)|2023/8/10 17:00:00|报告纵览全球保险机构数字化转型趋势，深挖中国保险业数字化发展脉络及驱动因素，并总结归纳\"业技数\"融合背景下中国保险机构的数字化转型路径。同时，艾瑞咨询保险数字化研究团队立足行业发展的通盘视角，从战略与组织、业务能力构建、底层技术支撑三大维度，并结合企业调研及专家深访，详细解读保险机构数字化转型全链路应具备的基本能力要素。此外，本报告诚邀保险数字化领域专家学者，共同探讨保险业数字化转型前沿趋势，并综合评选\"iResearch-卓越者：中国保险数字化卓越服务商\"。
+|[2023年中国虚拟电厂行业研究报告](https://report.iresearch.cn/report/202308/4222.shtml)|2023/8/9 17:05:10|\"虚拟电厂\"从技术发展上来看，不是一个非常新兴的方向，并且从能源互联网的角度来看，其很多技术的复用性也是存在的。但本篇报告结合全球市场的发展现状，来反观国内的相关行业现状，其实可以发现，\"电力市场化改革\"是未来多方主体和相关技术产品加速迭代的重要契机。当然，在这篇报告的撰写中，我们也听到了不同的声音：相较国外市场，国内虚拟电厂在发电侧、用户侧的政策依赖性（政策不确定性）过高。我们以为这个问题需要从两个角度去考虑：1、无论古今中外，\"市场需求\"大部分都是先行于\"政策释放\"的，这是当下我们去尽量的寻找\"市场需求\"下的成长企业的重要前提。2、政策本身需要兼顾\"安全监管\"和\"需求释放\"，单边政策在如今的经济环境下，是不具备持续性的。同样的，我们在行业研究、企业研究的维度，依然需要回归核心的技术方向，核心的业务竞争优势。一言以蔽之，\"长期价值不会被短期波动所替代\"。
+|[云服务行业动态及热点研究月报 - 2023年7月](https://report.iresearch.cn/report/202308/4221.shtml)|2023/8/8 18:15:47|本月报是艾瑞针对整体云服务以及细分赛道在本月产生的热门事件、政策动向、技术革新、招采信息、资本动态等，及重点客户和头部企业的动态信号及标杆案例，进行材料搜集并整理的行业信息监测报告。艾瑞基于云服务行业洞察，捕捉行业最新业态，为读者提供商业见解的初衷，对公开信息进行分行业、分类别的收集整理，并结合多位云服务产业分析师对关键信息的分析洞见，向读者简洁、清晰、深入地展示近期中国云服务市场的变化方向。
+|[2023年中国网络音频产业研究报告](https://report.iresearch.cn/report/202308/4217.shtml)|2023/8/8 10:35:52|2023对于国内的网络音频产业注定是不平凡的一年，一方面是平台面临流量见顶的挑战，亟待转型破局；一方面是AIGC赛道大放异彩，触手可及的未来在6G通讯技术加持下，音频内容板块必将又是一番全新景象。为此，场内玩家纷纷加码产品研发，规划新周期下的宏伟蓝图。业内的头部玩家们如何调整商业化路径，打开新的变现空间？网络音频产业面临着哪些新趋势、新挑战？本报告将尝试解读这些时下的热议话题。
+|[艾瞰系列-5A景区旅游活跃度盘点月报 - 2023年6月](https://report.iresearch.cn/report/202308/4220.shtml)|2023/8/7 16:38:31|艾瞰系列是艾瑞数智基于与运营商建立的深度合作，推出的文旅行业月度盘点报告。报告聚焦5A景区及主题公园，从景区人流量、景区吸引力、游客特征及行为等维度进行分析。6月的主要发现有：1. 端午小长假以亲水游、小众游为主；2. 特色街区/小镇及主题公园在人流量吸纳及停留时间上均表现较好；3. 2023年上半年，50岁以上的银发人群出游次数高于年轻人群。艾瞰系列为各地旅游局、主题公园运营方及文旅相关部门提供中国文旅市场宏观视图，把握区域文旅行业全域指标。欢迎您关注艾瞰系列，并试用文旅大数据服务。
+|[2023年中国中小企业绿色低碳发展路径研究报告](https://report.iresearch.cn/report/202308/4219.shtml)|2023/8/7 13:19:54|自我国“双碳”目标提出以来，大型企业先一步开启了对于绿色低碳发展的探索并取得长足进展，但中小企业绿色低碳发展进程相对缓慢。随着《“十四五”促进中小企业发展规划》等文件发布，中小企业绿色低碳发展受到社会各界越来越多的关注。此外，在用能成本逐渐提升、大企业绿色供应链建设加速等因素的作用下，实现绿色低碳发展对于中小企业来说也是更切实的降本增效与市场拓展问题。在此背景下，艾瑞咨询研究院发布《2023年中国中小企业绿色低碳发展路径研究报告》，旨在通过分析中小企业绿色低碳发展需求侧企业痛点及特征、供给侧企业能力及行业格局，讨论适宜中小企业的绿色低碳发展路径。
+|[长三角地区学生早餐市场消费洞察报告](https://report.iresearch.cn/report/202308/4218.shtml)|2023/8/4 18:21:39|报告主要研究与探讨了长三角地区学生家长如何选择早餐就餐地点、如何选择早餐品类以及对现有早餐品牌评价等来发现家长对孩子营养健康早餐认知程度、重视程度、如何实现以及实现过程的痛点，从而看市场如何进行营养知识普及教育、帮助家长更好的养育下一代。
+|[2023年奢侈品行业网络营销监测报告](https://report.iresearch.cn/report/202308/4214.shtml)|2023/8/3 11:12:01|报告基于艾瑞二十年的研究经验、数据积累以及艾瑞咨询 MiniTracker 第三方小程序行为监测平台、UserTracker 多平台网民行为监测数据库和AdTracker 多平台网络广告监测数据库，内容包含奢侈品行业小程序运营情况分析；行业典型小程序用户分析；行业广告投放数据回顾；行业广告投放策略、媒体、创意分析。希望能为相关企业提供参考意见。
+|[2023年全球即时通讯（IM）PaaS市场洞察白皮书](https://report.iresearch.cn/report/202308/4216.shtml)|2023/8/1 11:37:26|IM PaaS是基于互联网通信原理的即时通讯平台服务。《2023年全球即时通讯（IM）PaaS市场洞察白皮书》针对IM PaaS行业的发展历程、核心价值、主要功能及商业模式等进行系统性研究，并在产品形态及创新应用场景等方面展开分析，探讨IM PaaS与AIGC、元宇宙等新概念的结合点。
+|[2023年中国储能行业研究报告](https://report.iresearch.cn/report/202308/4215.shtml)|2023/8/1 10:25:23|储能行业仍处在相对早期的发展阶段。在上游的技术研发和材料替代性上，我们能看到大部分公司仍在继续加强研发性投入。在中游的产品应用和系统集成层面，产学研的紧密性也要远远高于其他行业。当然最终需要回归至需求终端侧，我们认为以国央企为主体的电力市场改革，和以及垂直产业民营企业（房地产、通信、互联网、制造业等）为主体的碳中和迭代，分别代表了政策驱动，市场落实的两大核心方向。
+|[2023年中国大宗物流行业趋势研究报告](https://report.iresearch.cn/report/202307/4213.shtml)|2023/7/31 15:46:12|大宗物流为实现大宗商品供需匹配与流通的重要活动，其降本增效对于我国实体经济发展具有重要意义。在现代供应链、低碳等系列政策背景下，大宗物流\"货\"、\"车\"、\"场\"、\"人\"四要素均受到不同程度影响，推动大宗物流模式创新及结构性变化。大宗物流第三方物流企业通过搭建自有运力池、加强智慧物流平台应用、具有前瞻性的业务布局等方式，帮助上下游企业降低综合物流费用，从而提升大宗物流链条整体盈余。本报告基于对中国大宗物流行业的持续追踪，详细梳理大宗物流核心要素特征及变化动因，拆解各大宗物流参与者的差异化能力，展望大宗物流行业发展方向，旨在为行业内玩家优化物流服务模式与盈利结构、共同推动行业高质量发展提供方向建议。
+|[艾瞰系列-旗舰手机产品市场盘点月报-2023年5月](https://report.iresearch.cn/report/202307/4212.shtml)|2023/7/19 17:23:02|艾瞰系列是艾瑞数智基于与运营商建立的深度合作，推出的行业月度盘点报告。手机行业报告聚焦行业下不同赛道与人群（如折叠屏手机、品牌旗舰手机、00后人群等），从手机用户量、典型人群画像、产品竞争力、品牌转化路径等角度进行分析，为各手机品牌厂商、渠道商等相关企业提供中国手机市场的宏观视图，把握手机行业发展风向。欢迎您关注艾瞰系列，并试用艾瑞智能手机行业大数据服务。
+|[中国流程挖掘行业研究报告](https://report.iresearch.cn/report/202307/4211.shtml)|2023/7/18 13:40:35|据艾瑞核算， 2021年中国大型企业数字化支出规模约为2.8万亿元，增长态势仍在持续。数字空间的增长与组织流程中的协调一致，衍生了不同流程环节下随处可见的事件记录，如何以更有意义的方式利用事件数据以优化流程价值，组织内部面临新的挑战。流程挖掘，作为衔接数据挖掘与业务挖掘的桥梁，基于数据挖掘，针对事件日志进行分析、检查及建模优化，以改进实际业务流程。同时，流程挖掘为组织内部流程的合规可靠性和有效性提供了科学工具与技术支撑。《中国流程挖掘行业研究报告》重点关注中国流程挖掘行业的发展现状，从发展历程回顾、中外市场对比、驱动因素分析、市场现状分析、市场规模及挑战与趋势等角度开展对于中国流程挖掘行业的洞察。
+|[2023年中国信创产业研究报告](https://report.iresearch.cn/report/202307/4210.shtml)|2023/7/17 15:00:10|本报告在对信创内涵、相关政策进行概述的基础上，对基础硬件、云基础设施、基础软件、应用软件、网络安全等信创产品服务以及典型信创供应商进行研究，并对金融、电信、电力等行业的信创发展历程及信创整体建设进展进行回顾总结，最后归纳出信创建设面对的挑战，提出破局发展的猜想。受宏观经济影响，艾瑞预测未来2年信创市场规模的增速有所下降，但数字中国强化关键能力、各领域构筑自立自强的数字技术创新体系的决心不会动摇，艾瑞预期中国信创市场整体规模仍将保持30%以上的年增长。随着行业信创的深入、应用软件的成熟，信创产品将渗透至更多核心业务场景，预期2025年恢复高增速，于2026年突破2000亿元。
+|[云服务行业动态及热点研究月报 - 2023年6月](https://report.iresearch.cn/report/202307/4209.shtml)|2023/7/12 12:54:29|本月报是艾瑞针对整体云服务以及细分赛道在本月产生的热门事件、政策动向、技术革新、招采信息、资本动态等，及重点客户和头部企业的动态信号及标杆案例，进行材料搜集并整理的行业信息监测报告。艾瑞基于云服务行业洞察，捕捉行业最新业态，为读者提供商业见解的初衷，对公开信息进行分行业、分类别的收集整理，并结合多位云服务产业分析师对关键信息的分析洞见，向读者简洁、清晰、深入地展示近期中国云服务市场的变化方向。
+|[艾瞰系列-折叠屏手机市场盘点月报-2023年5月](https://report.iresearch.cn/report/202307/4208.shtml)|2023/7/10 14:58:00|艾瞰系列是艾瑞数智基于与运营商建立的深度合作，推出的行业月度盘点报告。手机行业报告聚焦行业下不同赛道与人群（如折叠屏手机、品牌旗舰手机、00后人群等），从手机用户量、典型人群画像、产品竞争力、品牌转化路径等角度进行分析，为各手机品牌厂商、渠道商等相关企业提供中国手机市场的宏观视图，把握手机行业发展风向。欢迎您关注艾瞰系列，并试用艾瑞智能手机行业大数据服务。
+|[2023年中国工业互联网平台行业研究报告](https://report.iresearch.cn/report/202307/4207.shtml)|2023/7/7 14:44:33|报告立足于中国工业产业升级和智能制造的大背景，通过分析工业互联网平台市场的发展阶段、平台玩家的产品及服务的底层逻辑、打法和变化趋势，探讨补贴降低、数据归属权之争、标准化VS盈利模式、ChatGPT等各类新旧因素对工业互联网平台企业的影响。报告还将展示工业互联网平台企业价值图谱，展现行业各个典型代表厂商的服务能力，共创中国工业互联网平台行业新篇章。报告分为三个部分：1）分析发展初期阶段政策、补贴、需求市场、人才市场等要素；2）梳理工业互联网平台市场玩家的发展现状及特征，并分析其产品和服务的底层逻辑及其变化趋势；3）基于产品及服务的底层分析，探讨工业互联网平台市场当前或者即将面临的几大问题对工业互联网平台的影响，如补贴降低甚至消失、数据归属权将明确、盈利变现的探索、ChatGPT等新技术。 
+|[2023年中国元宇宙营销市场研究报告](https://report.iresearch.cn/report/202307/4205.shtml)|2023/7/6 10:00:00|在数智化发展浪潮推动下，元宇宙作为整合多种技术且符合对未来世界形态想象的新概念，自被提出便引发各国各界的关注与热议。此后，随着话题持续升温，尝试运用相关技术及概念赋能营销场景的元宇宙营销行业应运而生。元宇宙的发展及成熟，仍需较长时间的积累及校验。元宇宙营销因其包含大数据、AI营销等已有数字营销形式，或将成为适配未来数字化大环境的复合型新营销方式，同样受到多方重视，目前已有各行业多企业布局或尝试参与其中。本报告旨在通过梳理我国元宇宙营销发展背景及推动因素，分析价值，研究产业链情况及主要玩法、典型案例等，层层展开，探讨元宇宙营销的发展与走向。帮助企业及资本厘清元宇宙营销的发展逻辑、价值及现状，为企业决策入局元宇宙营销提供参考。
+|[艾瞰系列-5A景区旅游活跃度盘点月报 - 2023年5月](https://report.iresearch.cn/report/202307/4206.shtml)|2023/7/5 17:05:49|艾瞰系列是艾瑞数智基于与运营商建立的深度合作，推出的文旅行业月度盘点报告。报告聚焦4A/5A景区及主题乐园，从景区人流量、景区吸引力、游客来源去向等维度进行分析，为各地旅游局、主题乐园运营方及文旅相关部门提供中国文旅市场宏观视图，把握区域文旅行业全域指标。欢迎您关注艾瞰系列，并试用文旅大数据服务。
+|[2023年全球课后服务行业报告](https://report.iresearch.cn/report/202306/4203.shtml)|2023/6/28 17:40:28|课后服务不是单独的教育问题，而是教育和社会问题价值耦合的产物，是一个世界性问题。从全球范围来看，美国、澳大利亚、瑞典起步早、体系较成熟，中国仍处于早期。中国课后服务行业的政策驱动特征明显，经历了需求酝酿探索、规范普及、保障提效的三个阶段，收费规范也从明令禁止走向获准普及。当前，中国课后服务是承接素质教育、“双减”落地、家长需求的集合体。
+|[2023年中国汽车出海研究报告](https://report.iresearch.cn/report/202306/4201.shtml)|2023/6/21 17:49:34|近年来，我国汽车出口需求旺盛，并保持强劲增长趋势，至2023年一季度，汽车出口总量首超日本，中国汽车“破浪出海”正当时。本报告旨在通过梳理中国汽车的出海背景，分析汽车厂商出海的现状及特点，洞察中国汽车出海的风险与挑战，并对市场机会、趋势等内容进行讨论。
+|[腾挪：2023年中国RPA行业研究报告](https://report.iresearch.cn/report/202306/4202.shtml)|2023/6/20 16:16:15|2019年RPA行业热度到达顶峰，吸引资本持续涌入RPA赛道。然而，产品基础门槛不高的赛道加之热钱流入，导致厂商同质化竞争严重，甚至开始出现激烈的价格竞争，拉低整体客户体验，并引发了RPA厂商在拓客、盈利、融资上遇到一系列的困境，市场增速低于预期；本报告针对RPA厂商遇到的一系列困境，给出针对性的短期策略、可长期慢慢积累发展的策略，并给出厂商竞争矩阵，对市场做更清晰的展示和洞察。
+|[2023年中国电竞行业研究报告](https://report.iresearch.cn/report/202306/4200.shtml)|2023/6/16 14:48:33|《2023年中国电竞行业研究报告》重点通过对电子竞技市场的电竞游戏产品、电竞赛事、电竞俱乐部、电竞营销、电竞用户等各个因素的分析，从政策及市场环境、市场动态等角度展开对电子竞技行业的洞察，切实反映中国电竞行业现状与未来发展趋势。希望能为相关企业与资本市场提供参考意见与运营建议。
+|[2023年中国农业企业国际贸易实践观察](https://report.iresearch.cn/report/202306/4199.shtml)|2023/6/12 16:50:49|农业外贸一直是我国对外开放的重要一环，我国农业融入全球产业环流的程度在逐渐加深，品类更加丰富。根据中国农产品对外贸易年度变化情况数据看，2016年以来，我国农业进出口实现持续双增长，农业进出口占全品类进出口商品比重波动上升 。本文着重分析当前我国农业企业出海基础如何，农业企业如何探索国际市场，后续业务拓展的实际需求有哪些，并针对我国农业企业开展国际业务的打法与堵点提出思考。以期为从事农业国际贸易的实体企业、赋能农业生产的各类供应商、以及致力研究农业对外开放的团队提供一定思考。
+|[2023年中国碳纤维行业报告](https://report.iresearch.cn/report/202306/4198.shtml)|2023/6/12 12:19:40|碳纤维因其力学性能优异，轻于铝，却强于铁，且具有高弹性模量、耐高低温、耐腐蚀、耐疲劳等优异特性，广泛应用于各行业，成为 21 世纪的“新材料之王”。自2017年始，国产碳纤维产能扩张加速。2022年国产碳纤维供应量达到4.5万吨，首次高于进口量。多家碳纤维制造企业宣布扩产。碳纤维产业链长，壁垒高。上游聚丙烯腈基性能优越，已成为碳纤维市场主流，占据全球90%市场。中游大丝束碳纤维与小丝束相比，在相同的生产条件下可大幅度提高碳纤维的单线产能，实现生产的低成本化，拓宽下游企业应用碳纤维的积极性，国产企业布局开启产业化。同时国产碳纤维已实现工艺技术的突破，产品性能对标国际先进企业。碳纤维下游受益于宽应用领域，碳纤维需求实现多点开花，多数应用领域处于高景气阶段。国产碳纤维成本有进一步下降空间，随着国产碳纤维产能利用率提升，生产工艺不断完善和成熟，使得单位电耗不断下降。碳中和为碳纤维行业带来新的发展机会，例如新能源车等领域创造新需求。
+|[中国创新药研发冷链服务市场研究报告](https://report.iresearch.cn/report/202306/4197.shtml)|2023/6/12 12:15:10|近年来，随着药物、治疗等技术的革新，生物药成为全球药品支出规模增长的主要驱动力。在政策和资本的支持下，我国创新药占比持续提升，以生物药为代表的创新药商业化进程加速，推动创新药研发冷链市场快速发展，其中跨境冷链服务、CAR-T研发冷链服务等细分领域增长潜力显著。创新药研发冷链服务涉及VIP、PCM等关键技术，具有服务经验、资金、技术、品牌建设等一系列市场进入壁垒，未来技术创新、临床供应链的全链路服务能力将成为创新药研发冷链服务商的主要发展方向。
+|[轻量化户外行业白皮书](https://report.iresearch.cn/report/202303/4145.shtml)|2023/3/8 18:00:01|主要研究与探讨了户外行业近年来的发展历程与未来的发展趋势。顺应户外行业大趋势，蕉下首次提出并定义了轻量化户外行业。本次研究旨在对轻量化户外行业从宏观供给及微观需求两侧进行全面解读，并对轻量化户外用品的消费人群画像、消费态度、及消费新需求等进行讨论。
+|[2023年中国膳食补充剂行业报告](https://report.iresearch.cn/report/202303/4143.shtml)|2023/3/6 17:51:11|膳食补充剂主要包括膳食纤维和益生元，而膳食纤维又分为可溶性膳食纤维和不可溶膳食纤维。由于膳食补充剂能够平稳血糖，改善肠道健康，间接帮助减肥等，且在日常饮食中无法补足，因此开启了下游食品的添加潮流。全球可溶性膳食纤维与不可溶膳食纤维的市场份额占比为8：2。这是由于可溶性膳食纤维溶于水、成分更稳定、易改性，因此更利于在下游各类产品中添加。可溶性膳食纤维又包含聚葡萄糖和抗性糊精，聚葡萄糖产品在标准化和工艺方面都较为成熟，市场处于充分竞争状态，而抗性糊精作为新兴市场引领产品添加新风尚。抗性糊精性能更佳，可耐高温酸碱，相对价格也较高。目前国内只有百龙创园实现抗性糊精工业化生产，其技术壁垒较高，做好糊精化反应的企业优先跑出圈。益生元除具有膳食纤维类似功能，还能够促进益生菌生长，作为双向调节剂（同时改善便秘与腹泻），调节肠道健康。益生元种类丰富，包含低聚果糖、低聚半乳糖、低聚异麦芽糖、菊粉等。其中低聚果糖对益生菌的增殖最明显，且价格相对较低，具有独特优势，低聚半乳糖天然存在于母乳中，二者也是国际上仅允许在婴幼儿1段奶粉中添加的益生元。
+|[云服务行业动态及热点研究月报 - 2023年2月](https://report.iresearch.cn/report/202303/4141.shtml)|2023/3/3 16:53:00|本月报是艾瑞针对整体云服务以及协同办公等热门赛道在本月产生的热门事件、政策动向、技术革新、招采信息、资本动态等，及重点客户和头部企业的动态信号及标杆案例，进行材料搜集并整理的行业信息监测报告。艾瑞基于云服务行业洞察，捕捉行业最新业态，为读者提供商业见解的初衷，对公开信息进行分行业、分类别的收集整理，并结合多位云服务产业分析师对关键信息的分析洞见，向读者简洁、清晰、深入地展示近期中国云服务市场的变化方向。
+|[2023年协同办公行业研究报告](https://report.iresearch.cn/report/202302/4137.shtml)|2023/2/10 13:27:33|疫情下移动办公需求激增推动了协同办公短期蓬勃发展，协同产品的高频使用让企业意识到跨区域协作办公的可能性。在此过程中，厂商对用户办公需求的理解更加深刻，在产品形态、服务模式、解决方案等方面做出适应性调整。本报告聚焦疫情期间企业用户协同需求变化及协同办公产品的迭代方向，以及疫情后协同办公厂商的发展路径展开讨论。希望通过报告让有协同需求的组织有更多机会了解并接纳协同产品，也为协同办公厂商的经营管理提供思路。
 |[**2022年小微融资发展与展望研究报告**](https://report.iresearch.cn/report/202302/4139.shtml)|2023/2/16 17:00:00|报告重点关注小微企业融资及小微企业数字化服务行业的发展问题，核心聚焦于其中的“小店”群体。通过对小微企业融资供需关系的探讨，提出小微融资面临供给不足、结构性失衡的问题，而科技对于小微企业及小微融资的赋能，是解决当前小微融资问题的关键。在展现小微融资科技化与科技赋能小微融资表现的同时，探讨小微企业数字化服务作为小微融资产业延伸的重要意义。
 |[2023年协同办公行业研究报告](https://report.iresearch.cn/report/202302/4137.shtml)|2023/2/10 13:27:33|疫情下移动办公需求激增推动了协同办公短期蓬勃发展，协同产品的高频使用让企业意识到跨区域协作办公的可能性。在此过程中，厂商对用户办公需求的理解更加深刻，在产品形态、服务模式、解决方案等方面做出适应性调整。本报告聚焦疫情期间企业用户协同需求变化及协同办公产品的迭代方向，以及疫情后协同办公厂商的发展路径展开讨论。希望通过报告让有协同需求的组织有更多机会了解并接纳协同产品，也为协同办公厂商的经营管理提供思路。
 |[2023年1月ToB数字化产业投融资月报](https://report.iresearch.cn/report/202302/4135.shtml)|2023/2/6 16:49:49|艾瑞咨询对ToB数字化产业进行长期跟踪，本报告为2023年1月行业一级市场投融资事件汇编及相关数据分析。2023年1月，国内ToB数字化行业融资39次，基于本报告分类，行业数字化、网络信息安全、数字化软件、物联网赛道企业获投次数较多。从融资轮次结构上看，2023年1月国内ToB数字化行业A轮、天使轮和Pre-A轮融资的出现的频次较高。期间内行业72%的投资来自金融机构，产业公司中，科大讯飞、华为、腾讯等头部数字科技企业主导了多起投资。

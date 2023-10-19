@@ -15,53 +15,51 @@
 
 |行业|名称（详情）|发布日期|
 |:----|:----|:----|
+|原材料工业|[2023年1－7月有色金属行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2023/art_55b50d1ce9414d69b2e02440561a91e2.html)|08-24
+|原材料工业|[2023 年1－7月光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2023/art_946d1127172746479c41b84f23aaa5a2.html)|08-17
+|原材料工业|[2023年1－6月光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2023/art_0f8f6ab05e4a4a679d31ca0c221dbef6.html)|07-25
+|原材料工业|[2023年1－5月光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2023/art_88180965da2145fd9c2e12adb9fb8f51.html)|06-21
 |原材料工业|[2023年1－3月光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2023/art_a46460757b8340d1a8999dd9f6043627.html)|04-21
-|原材料工业|[2022年有色金属行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2023/art_53a9e7f63b684d1c94cf3802d5930c32.html)|02-17
-|原材料工业|[2022年光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2023/art_0d65e024766c4548b86a25b44e26b18f.html)|02-02
-|原材料工业|[2022年石化化工行业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/shhg/art/2023/art_267832ba685a44b69b4b6916cb26442c.html)|02-01
-|原材料工业|[2022年1－10月光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2022/art_917a09e3973447cfb834632cf9dbe211.html)|11-18
-|装备工业|[2023年5月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2023/art_28d354841654409ca8751396b961dd7f.html)|06-09
-|装备工业|[2023年4月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2023/art_ac7be92d71b2447db22155007ab77058.html)|05-11
-|装备工业|[2023年一季度中国造船产能利用监测指数继续保持增长](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2023/art_2718845b6a3440edb828e1faf3f1e657.html)|05-06
-|装备工业|[2023年一季度我国造船三大指标市场份额保持全球领先](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2023/art_1c30971daf3d4a25a5a20a9e86c78156.html)|04-19
-|装备工业|[2023年3月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2023/art_9cdfd3d829b24222a8ecf947d6627a45.html)|04-11
-|装备工业|[2023年2月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2023/art_6fdcb7e7d61e4dfc8500300a8b882e4f.html)|03-10
-|消费品工业|[2023年1－4月纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2023/art_0becf8f521c2461e9c1c66c408f0ab4b.html)|06-02
-|消费品工业|[2023年一季度纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2023/art_4b91d0aba6024ce99ec9eabf484ffa0d.html)|05-05
-|消费品工业|[2023年1－2月化纤行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2023/art_e48b31ea838f41a49c0f292a8a586d07.html)|04-12
-|消费品工业|[2023年1－2月服装行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2023/art_ea6c6d3f71fb4d8b8f1069f1fcfd7c7a.html)|04-12
-|消费品工业|[2023年1－2月纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2023/art_a0b04c38f03c4fb3ad12fe21a00ef989.html)|04-12
-|消费品工业|[2023年1－2月塑料制品行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2023/art_b43597f7930d44be9250b66cfa1fda3c.html)|04-03
-|通信业|[2023年5月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_b319bc4217f8443899f4ec559a461034.html)|06-21
-|通信业|[2023年1－5月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_2594780c1c074fa0bb6dbfc7b406cdf2.html)|06-21
-|通信业|[2023年1－5月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_741ba02963e2433fb2c990b8409c8e34.html)|06-21
-|通信业|[2023年1－5月份通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_a62ac3d2646541fba9e6a5e3a20534c1.html)|06-21
-|通信业|[2023年4月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_52b1d32863cf46ef979acb323435673c.html)|05-23
-|通信业|[2023年1－4月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_4ee0d5caccd54be4b9cd5036a34d506d.html)|05-23
-|电子信息制造业|[2023年1－5月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_d7e7c79714eb4d1e8fbb22421b03e95a.html)|06-30
-|电子信息制造业|[2023年3－4月全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_55de7bf0638044048b9896e85cd8983b.html)|06-08
-|电子信息制造业|[2023年1－4月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_c6e49abf85df4c7c9e4576348f49c5fd.html)|05-30
-|电子信息制造业|[2023年一季度电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_9e99f7ba8f964ca49d90d1b1301dc541.html)|05-04
-|电子信息制造业|[2023年1－2月全国锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_0708712c495b4e298fe2f857133733fa.html)|04-04
-|电子信息制造业|[2023年1－2月全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_e5fd0046233c4250abcaae484b9c3a2f.html)|03-29
-|软件业|[2023年1－5月份分地区软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_97cb210658454031a6aea3b10ee59dfa.html)|06-25
-|软件业|[2023年1－5月份软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_7b3250cf27d04144952d9d62a43e919e.html)|06-25
-|软件业|[2023年1－5月份软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_0fa16c853f0141e780e304f0ad5731f4.html)|06-25
-|软件业|[2023年1－4月份分地区软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_27897c37f21042a291cb58f658457d9f.html)|05-24
-|软件业|[2023年1－4月份软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_3947de1c171c45e5ad53ddcca7f5ac95.html)|05-24
-|软件业|[2023年1－4月份软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_73e3216d79614c5298d9d9568d60a431.html)|05-24
+|装备工业|[2023年9月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2023/art_fce3df5fdc544f8bbb2277fac5df58da.html)|10-13
+|装备工业|[2023年前三季度我国造船市场份额保持全球领先](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2023/art_d042bb73c50d4727925e32b941ed7649.html)|10-12
+|装备工业|[2023年8月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2023/art_47ce38044656401bbf575d5e12c644bb.html)|09-11
+|装备工业|[2023年7月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2023/art_abe4cc3dabce406d982a1b5b88917b38.html)|08-10
+|装备工业|[2023年二季度中国造船产能利用监测指数再创近年新高，10年来首次接近800点](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2023/art_b757c3502b9643d7b5bd105284a2283a.html)|07-31
+|装备工业|[2023年上半年我国造船三大指标全面增长 国际市场份额继续领先](https://www.miit.gov.cn/gxsj/tjfx/zbgy/mycb/art/2023/art_c7ee8b3efdff46b3a4e1bc94092a4e09.html)|07-12
+|消费品工业|[2023年1－8月纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2023/art_00c38155f33f4ca1960a87c6517e4dbb.html)|10-09
+|消费品工业|[2023年1－8月造纸行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2023/art_ea01d6cf2f7945548f11b2f0bdf8dd50.html)|10-09
+|消费品工业|[2023年1－8月塑料制品行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2023/art_41c68372b2484a2b959c5d540ceaabaf.html)|10-09
+|消费品工业|[2023年1－8月皮革行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2023/art_82e81f79160d4c90855dece26b607b92.html)|10-09
+|消费品工业|[2023年1－8月家具行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2023/art_f3b800563ab345008e3c6cbcb48d83e3.html)|10-09
+|消费品工业|[2023年1－8月家电行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/jd/art/2023/art_ed6e1fecd4f748cd9cc76644455964d2.html)|10-09
+|通信业|[2023年8月互联网宽带接入用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_34fb037793a94745a98c795a1f765197.html)|09-21
+|通信业|[2023年8月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_9fe6492c080543b68697441e56fc3ba2.html)|09-21
+|通信业|[2023年1－8月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_502cf2600ab44e1ab95bb426fec9b6aa.html)|09-21
+|通信业|[2023年1－8月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_7f7adc3f903849acb19ef9c14207fd00.html)|09-21
+|通信业|[2023年1－8月份通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_1c55b48c50a8422484721b4d627ba23b.html)|09-21
+|电子信息制造业|[2023年7－8月全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_567e88d5526946ca88d717dcca97c446.html)|10-09
+|电子信息制造业|[2023年7－8月全国锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_0f2a9845c9954575a9c6d81b334671f8.html)|10-09
+|电子信息制造业|[2023年1－8月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_581a26f0ec0646d4b84849ccc26aa486.html)|09-28
+|电子信息制造业|[2023年1－7月份电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_4d29c79da7ab48c6acb8d7cf4570791b.html)|08-30
+|电子信息制造业|[2023年上半年全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_44cb8a4dfc534c438bde822a6243398d.html)|08-02
+|电子信息制造业|[2023年上半年锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2023/art_a331ae905ae343b281e0acc6e85948ad.html)|08-02
+|软件业|[2023年1－8月份分地区软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_e64d3270189e481980d45bc4128f0689.html)|09-25
+|软件业|[2023年1－8月份软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_0d65022a638f44a5ba11eac23fda1fee.html)|09-25
+|软件业|[2023年1－8月份软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_6971a3c0ea6c49c19e364c9597a79077.html)|09-25
+|软件业|[2023年1－7月份分地区软件和信息技术服务业主要经济指标完成情况表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_371bd2b145104cb6868fc54e9cbcb613.html)|08-25
+|软件业|[2023年1－7月份软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2023/art_557363a6ffa847bd902171043b4a6a7b.html)|08-25
+|互联网|[2023年1－8月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2023/art_d6cf975ca04449a4b079073551cd9e4a.html)|09-28
+|互联网|[2023年1－7月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2023/art_a150f7ab60be4acb8b39dd292b2d695b.html)|08-31
+|互联网|[2023年上半年互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2023/art_1e078242dee140cb99d46ecc070e7717.html)|07-31
 |互联网|[2023年1－4月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2023/art_184cf2c5c2804f639f3ad162c62d39b0.html)|05-31
 |互联网|[2023年一季度互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2023/art_6f0c8e78d6d5453f849f880cbb9641f0.html)|04-28
 |互联网|[2023年1－2月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2023/art_4ea0a64085cc4c00ab5ec263117fda88.html)|03-31
-|互联网|[2022年互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2023/art_40202ca145fe4d34a5ca4cf2f5dfc91e.html)|01-31
-|互联网|[2022年1－11月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_bc62d12ba51747a9822ad424fcb028f0.html)|12-30
-|互联网|[2022年1－10月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_2f2b44819a3d44588dfa934cb0c17ec6.html)|11-30
-|网络安全|[6月19日－6月25日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_1d723c4e9ec94780b059c23c735602c7.html)|06-29
-|网络安全|[6月12日－6月18日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_55095388b4304314b0561e440ada630c.html)|06-21
-|网络安全|[6月5日－6月11日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_f0827f17502d4f3ca4e761d46d011080.html)|06-14
-|网络安全|[5月29日－6月4日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_0df8bafb240e430dbc5d63bb02bdfd47.html)|06-07
-|网络安全|[5月22日－5月28日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_655c3f9d404a41c1bc98991d95196297.html)|06-01
-|网络安全|[5月15日－5月21日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_f372096e1ec54bc1bde82d4f88feb678.html)|05-25
+|网络安全|[10月9日－10月15日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_913a2fd2e8c74dbe9f974d917b7aa024.html)|10-18
+|网络安全|[10月2日－10月8日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_53c35f72eadc4186855488cd2ceac7ba.html)|10-11
+|网络安全|[9月25日－10月1日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_b265391c5f8046f29a61deca84779d42.html)|10-07
+|网络安全|[9月18日－9月24日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_db80edc825e34c2caf50e56aae60f2a0.html)|09-27
+|网络安全|[9月11日－9月17日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_8e7e0f5dbad7448680dff9974461b03a.html)|09-20
+|网络安全|[9月4日－9月10日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2023/art_947bfc13ffd94baabedc944a9a2c6b24.html)|09-15
 
 
 ### [原材料工业](https://www.miit.gov.cn/gxsj/tjfx/yclgy/index.html)    ——   钢铁 有色 石化化工 建材 稀土  
@@ -75,168 +73,90 @@
 ### [电子信息制造业](https://www.miit.gov.cn/gxsj/tjfx/dzxx/index.html)    ——    电子信息制造业统计数据及运行分析
 - [2021年电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2022/art_0997d192aa6f46fa8d76549f20b4e5d6.html)
 - [2020年电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2021/art_631562ee6c09471cace10b0f8379284c.html)
-- [2019年电子信息制造业运行情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_71cdd06b6a9345afa5d0d72ea25f43ad.html)
-- [2018年电子信息制造业运行情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_45bf869c4f9f460385b9276cdcbfde5f.html)
-- [2017年电子信息制造业运行情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_bdb05eae9fe743398294c88130fcd79c.html)
-- [2016年电子信息制造业运行情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_bbd25094024540fd97a5f0e1df3e3b23.html)
-- [2015年电子信息产业统计公报](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_275a91517124415cb5599b84aafb8a72.html)
-- [2014年电子信息产业统计公报](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_30a226ca0d2e4f5ebad3df817ec4d919.html)
-- [2014年集成电路行业发展回顾及展望](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_54d3104f6b5c47b0a0755e61d6262e98.html)
-- [2014年计算机行业发展回顾及展望](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_e54927c5fc7f44b888e1d0ff869dd380.html)
-- [2014年彩电行业发展回顾及展望](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_9d7e25419e8f4b3cbcd6bac34d52424e.html)
-- [2014年手机行业发展回顾及展望](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_f48cf2d58f514d4ab7118ba9cd1473c6.html)
-- [2013年我国平板显示产业运行情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_015eaad7c08a471f8d468d07fdd560e4.html)
-- [2013年我国锂离子电池行业运行情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_5e948f68374c46dd8a73ef0559f51831.html)
-- [2013年我国光伏产业运行情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_42631dc2aedc4bb59d608513957df40b.html)
-- [2013年彩电行业发展回顾及展望](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_a6483a0a91534830bb918c2bdf5f057d.html)
-- [2013年集成电路行业发展回顾及展望](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_9b0544d418ca479faaf5a1745eb99ec4.html)
-- [2013年手机行业发展情况(回顾与展望)](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_0f676827e5684933b4c2d3d8b65a39b5.html)
-- [2013年电子信息产业统计公报](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_1c517346c1ff4893a1a64a43d51a5d78.html)
-- [2013年电子信息产业固定资产投资情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_ae836d275c294f1590445a0d35131386.html)
-- [2013年我国电子信息产品进出口情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_c6c4eae2c0e64977b68100fc2634fe10.html)
-- [2012年电子信息产品进出口情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_fa28238f9c3c493da431497472c3c0f5.html)
-- [2012年1-12月规模以上电子信息制造业主要经济指标完成情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_034257b78b9545949696594127d9fa96.html)
-- [2012年1-12月电子信息产业固定资产投资完成情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_a0ca3d40b39a402e8ef02328740ad000.html)
-- [2011年规模以上电子信息制造业主要效益指标完成情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_17c3df549deb4ac59f45fac2bfd76152.html)
-- [2011年电子信息产业统计公报](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_45ee0201858348a6844e63cf948734fe.html)
-- [2010年电子信息产业统计公报](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_b06e5a1b8c76432f8a5e484d00681452.html)
-- [2010年电子信息产业固定资产投资情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_6da8a8812cf24882b45e6ef40a6f885e.html)
-- [2010年电子信息产品进出口突破万亿美元](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_becea03a31f4481ea88a71fc230289d2.html)
-- [2009年电子信息产业经济运行公报](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_8805cab50a084cf094190101ef9d6687.html)
-- [2009年电子信息产业固定资产投资情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_f075d42f023444c8b78dd9e245152d6f.html)
-- [2009年电子信息产品进出口情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_2f880390bb234256b840c68793358747.html)
-- [2008年12月电子信息产业主要指标完成情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_c8e060663aa7425396a710321815a390.html)
-- [2006年1-12月电子信息产业主要指标完成情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_de90d267087443c8a5c657b3bbb434ce.html)
-- [2005年电子信息产业主要指标完成情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_0590c448b13349da889692deff08e0ae.html)
-- [2002年电子信息产业完成情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_1d1c0b8856fd4c89ac0bda80c5a8088c.html)
-- [2002年电子信息产业制造业主要经济指标汇总表（三）](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_88623c3536284945a218c5b1c4511bcd.html)
-- [2002年电子信息产业制造业主要经济指标汇总表（二）](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_896b84f5817646ba9166e3bed6aa1466.html)
-- [2002年电子信息产业制造业主要经济指标汇总表（一）](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_7fd4601b96b7481a83a34a302c9a92aa.html)
-- [2002年电子信息产业主要经济指标完成情况](
-https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_0a833e8a208647d5838fbcef48848e06.html)
+- [2019年电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_71cdd06b6a9345afa5d0d72ea25f43ad.html)
+- [2018年电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_45bf869c4f9f460385b9276cdcbfde5f.html)
+- [2017年电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_bdb05eae9fe743398294c88130fcd79c.html)
+- [2016年电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_bbd25094024540fd97a5f0e1df3e3b23.html)
+- [2015年电子信息产业统计公报](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_275a91517124415cb5599b84aafb8a72.html)
+- [2014年电子信息产业统计公报](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_30a226ca0d2e4f5ebad3df817ec4d919.html)
+- [2014年集成电路行业发展回顾及展望](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_54d3104f6b5c47b0a0755e61d6262e98.html)
+- [2014年计算机行业发展回顾及展望](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_e54927c5fc7f44b888e1d0ff869dd380.html)
+- [2014年彩电行业发展回顾及展望](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_9d7e25419e8f4b3cbcd6bac34d52424e.html)
+- [2014年手机行业发展回顾及展望](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_f48cf2d58f514d4ab7118ba9cd1473c6.html)
+- [2013年我国平板显示产业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_015eaad7c08a471f8d468d07fdd560e4.html)
+- [2013年我国锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_5e948f68374c46dd8a73ef0559f51831.html)
+- [2013年我国光伏产业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_42631dc2aedc4bb59d608513957df40b.html)
+- [2013年彩电行业发展回顾及展望](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_a6483a0a91534830bb918c2bdf5f057d.html)
+- [2013年集成电路行业发展回顾及展望](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_9b0544d418ca479faaf5a1745eb99ec4.html)
+- [2013年手机行业发展情况(回顾与展望)](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_0f676827e5684933b4c2d3d8b65a39b5.html)
+- [2013年电子信息产业统计公报](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_1c517346c1ff4893a1a64a43d51a5d78.html)
+- [2013年电子信息产业固定资产投资情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_ae836d275c294f1590445a0d35131386.html)
+- [2013年我国电子信息产品进出口情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_c6c4eae2c0e64977b68100fc2634fe10.html)
+- [2012年电子信息产品进出口情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_fa28238f9c3c493da431497472c3c0f5.html)
+- [2012年1-12月规模以上电子信息制造业主要经济指标完成情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_034257b78b9545949696594127d9fa96.html)
+- [2012年1-12月电子信息产业固定资产投资完成情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_a0ca3d40b39a402e8ef02328740ad000.html)
+- [2011年规模以上电子信息制造业主要效益指标完成情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_17c3df549deb4ac59f45fac2bfd76152.html)
+- [2011年电子信息产业统计公报](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_45ee0201858348a6844e63cf948734fe.html)
+- [2010年电子信息产业统计公报](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_b06e5a1b8c76432f8a5e484d00681452.html)
+- [2010年电子信息产业固定资产投资情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_6da8a8812cf24882b45e6ef40a6f885e.html)
+- [2010年电子信息产品进出口突破万亿美元](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_becea03a31f4481ea88a71fc230289d2.html)
+- [2009年电子信息产业经济运行公报](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_8805cab50a084cf094190101ef9d6687.html)
+- [2009年电子信息产业固定资产投资情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_f075d42f023444c8b78dd9e245152d6f.html)
+- [2009年电子信息产品进出口情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_2f880390bb234256b840c68793358747.html)
+- [2008年12月电子信息产业主要指标完成情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_c8e060663aa7425396a710321815a390.html)
+- [2006年1-12月电子信息产业主要指标完成情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_de90d267087443c8a5c657b3bbb434ce.html)
+- [2005年电子信息产业主要指标完成情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_0590c448b13349da889692deff08e0ae.html)
+- [2002年电子信息产业完成情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_1d1c0b8856fd4c89ac0bda80c5a8088c.html)
+- [2002年电子信息产业制造业主要经济指标汇总表（三）](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_88623c3536284945a218c5b1c4511bcd.html)
+- [2002年电子信息产业制造业主要经济指标汇总表（二）](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_896b84f5817646ba9166e3bed6aa1466.html)
+- [2002年电子信息产业制造业主要经济指标汇总表（一）](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_7fd4601b96b7481a83a34a302c9a92aa.html)
+- [2002年电子信息产业主要经济指标完成情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2020/art_0a833e8a208647d5838fbcef48848e06.html)
 
 ### [软件业](https://www.miit.gov.cn/gxsj/tjfx/rjy/index.html)    ——    软件和信息技术服务业统计数据和运行分析  
-- [2021年全国软件和信息技术服务业主要指标](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_dcfd7bbb585e432ea4ff13f7139306c9.html)
-- [2021年软件和信息技术服务业统计公报](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_7953d1abafe14f00a1b24e693ef73baa.html)
-- [2020年软件和信息技术服务业统计公报主要指标表](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2021/art_4784b23af7054a9eb70004da21352b82.html)
-- [2020年软件和信息技术服务业统计公报](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2021/art_f6e61b9ffc494c099ea89faecb47acd2.html)
-- [2019年软件和信息技术服务业统计年报主要指标](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_f7b7a5b1cfa144a18e6df3e57406f331.html)
-- [2019年软件和信息技术服务业统计年报](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_025407a81ffc416c96b13ca6826196ad.html)
-- [2019年全国软件和信息技术服务业主要指标快报表](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_d620ce354aff44079c975fbe906413ef.html)
-- [2019年软件和信息技术服务业统计公报](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_58c000ea5773491a864ef67365a6392d.html)
-- [2018年全国软件和信息技术服务业主要指标快报表](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_700e57d47b3448c291a6846c4c26f363.html)
-- [2018年软件和信息技术服务业统计公报](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_1e93bb10f500445a9347e13fe8e92d0a.html)
-- [2017年软件和信息技术服务业主要经济指标表](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_3ad3ddac47e746be902fe9ce6507aee0.html)
-- [2017年分省市软件和信息技术服务业业务收入表](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_cda4be7cab9942289589575347a38054.html)
-- [2017年软件业经济运行情况](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_d7a3a70cac0c4f24a7e40159c33d8e5b.html)
-- [2013年中心城市软件业最终核实统计数据](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_610ca5d6a2734d11ae1c797e2cbcebc8.html)
-- [2013年各省市软件业最终核实统计数据](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_fde48c906f984fb7ad06dafb74cfae69.html)
-- [2013年全国软件业最终核实统计数据](
-  https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_030221379e1348f1935e4d99ba804974.html)
-- [2013年软件和信息技术服务业最终核实统计数据情况](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_443a1ad27f094a5493a00764265c1263.html)
-- [2012年1-12月软件业经济运行情况](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_20a21e9d93d242019c3dc70cf59436c5.html)
-- [2012年1-12月软件产业主要经济指标完成情况](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_33261fa229c745c297e266a4c07b2273.html)
-- [2012年1-12月副省级城市软件产业主要经济指标完成情况](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_9cd00388b37b4fb5b4dcd308a5d6c2f5.html)
-- [2011年软件业经济运行情况](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_7c5e30b27cad402aa7571c211099a0d6.html)
-- [2011年1-12月软件产业主要经济指标完成情况](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_0ceae4740c014e4cb82646888c9c146e.html)
-- [2010年全国软件业务收入达到1.3万亿元](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_867fab663b7b4120b588d4cd84d95052.html)
-- [2009年全国软件产业统计公报](
-https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_1d8717b47c824841bc42045b93c791b7.html)
+- [2021年全国软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_dcfd7bbb585e432ea4ff13f7139306c9.html)
+- [2021年软件和信息技术服务业统计公报](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2022/art_7953d1abafe14f00a1b24e693ef73baa.html)
+- [2020年软件和信息技术服务业统计公报主要指标表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2021/art_4784b23af7054a9eb70004da21352b82.html)
+- [2020年软件和信息技术服务业统计公报](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2021/art_f6e61b9ffc494c099ea89faecb47acd2.html)
+- [2019年软件和信息技术服务业统计年报主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_f7b7a5b1cfa144a18e6df3e57406f331.html)
+- [2019年软件和信息技术服务业统计年报](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_025407a81ffc416c96b13ca6826196ad.html)
+- [2019年全国软件和信息技术服务业主要指标快报表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_d620ce354aff44079c975fbe906413ef.html)
+- [2019年软件和信息技术服务业统计公报](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_58c000ea5773491a864ef67365a6392d.html)
+- [2018年全国软件和信息技术服务业主要指标快报表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_700e57d47b3448c291a6846c4c26f363.html)
+- [2018年软件和信息技术服务业统计公报](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_1e93bb10f500445a9347e13fe8e92d0a.html)
+- [2017年软件和信息技术服务业主要经济指标表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_3ad3ddac47e746be902fe9ce6507aee0.html)
+- [2017年分省市软件和信息技术服务业业务收入表](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_cda4be7cab9942289589575347a38054.html)
+- [2017年软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_d7a3a70cac0c4f24a7e40159c33d8e5b.html)
+- [2013年中心城市软件业最终核实统计数据](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_610ca5d6a2734d11ae1c797e2cbcebc8.html)
+- [2013年各省市软件业最终核实统计数据](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_fde48c906f984fb7ad06dafb74cfae69.html)
+- [2013年全国软件业最终核实统计数据](  https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_030221379e1348f1935e4d99ba804974.html)
+- [2013年软件和信息技术服务业最终核实统计数据情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_443a1ad27f094a5493a00764265c1263.html)
+- [2012年1-12月软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_20a21e9d93d242019c3dc70cf59436c5.html)
+- [2012年1-12月软件产业主要经济指标完成情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_33261fa229c745c297e266a4c07b2273.html)
+- [2012年1-12月副省级城市软件产业主要经济指标完成情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_9cd00388b37b4fb5b4dcd308a5d6c2f5.html)
+- [2011年软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_7c5e30b27cad402aa7571c211099a0d6.html)
+- [2011年1-12月软件产业主要经济指标完成情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_0ceae4740c014e4cb82646888c9c146e.html)
+- [2010年全国软件业务收入达到1.3万亿元](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_867fab663b7b4120b588d4cd84d95052.html)
+- [2009年全国软件产业统计公报](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2020/art_1d8717b47c824841bc42045b93c791b7.html)
 
 ### [互联网](https://www.miit.gov.cn/gxsj/tjfx/hlw/index.html)    ——    互联网和相关服务业统计数据和运行分析
-- [2021年互联网和相关服务业运行情况](
-https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_b0299e5b207946f9b7206e752e727e66.html)
-- [2020年互联网和相关服务业运行情况](
-https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2021/art_675214708dd24ea486c919fced278e97.html)
-- [2019年互联网和相关服务业运行情](
-https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2020/art_4e3b3a96c1eb467e9ebdd4efd5285183.html)
-- [2018年互联网和相关服务业经济运行情况](
-https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2019/art_1d940adea84d4d7d9d93bc981952a882.html)
-- [2017年互联网和相关服务业快速增长](
-https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2018/art_714cf34f61844ea9a0bff7bc8082b7ca.html)
+- [2021年互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2022/art_b0299e5b207946f9b7206e752e727e66.html)
+- [2020年互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2021/art_675214708dd24ea486c919fced278e97.html)
+- [2019年互联网和相关服务业运行情](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2020/art_4e3b3a96c1eb467e9ebdd4efd5285183.html)
+- [2018年互联网和相关服务业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2019/art_1d940adea84d4d7d9d93bc981952a882.html)
+- [2017年互联网和相关服务业快速增长](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2018/art_714cf34f61844ea9a0bff7bc8082b7ca.html)
 
 ### [网络安全](https://www.miit.gov.cn/gxsj/tjfx/wlaq/index.html)    ——    网络安全信息与动态
 
 ### 工信部——统一检索平台
 - 站内搜索——[十四五发展规划通知](https://www.miit.gov.cn/search/index.html?websiteid=110000000000000&pg=&p=&tpl=&category=&q=%E5%8D%81%E5%9B%9B%E4%BA%94&jsflIndexSeleted=)
-- [工业和信息化部关于印发“十四五”软件和信息技术服务业发展规划的通知](
-  https://www.miit.gov.cn/jgsj/xxjsfzs/rjcy/art/2021/art_f99d51c91a684c1685db14f041af9bf3.html)
-- [工业和信息化部关于印发“十四五”信息化和工业化深度融合发展规划的通知](
-  https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_117ccbb3dd4f4a27b21d988fbaa8b625.html)
-- [关于印发“十四五”智能制造发展规划的通知](
-  https://www.miit.gov.cn/jgsj/zbys/znzz/art/2021/art_c6aa629b6f124ec7bd44940b6cffb3ef.html)
-- [工业和信息化部关于印发《“十四五”工业绿色发展规划》的通知](
-  https://www.miit.gov.cn/jgsj/jns/wjfb/art/2021/art_2735a1da5a5347c5bb4e7ac765f62bd7.html)
-- [关于印发“十四五”机器人产业发展规划的通知](
-  https://www.miit.gov.cn/ztzl/rdzt/znzzxggz/wjfb/art/2021/art_22606018dd934f9d9790998be974ecbb.html)
-- [工业和信息化部关于印发“十四五”大数据产业发展规划的通知](
-  https://www.miit.gov.cn/jgsj/xxjsfzs/wjfb/art/2021/art_a7a3ea67af254d13a6a07d5a098e727f.html)
-- [工业和信息化部关于印发“十四五”信息通信行业发展规划的通知](
-  https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_3a0b0c726bd94b7d9b5092770d581c73.html)
-- [三部委关于印发“十四五”原材料工业发展规划的通知](
-  https://ythxxfb.miit.gov.cn/ythzxfwpt/hlwmh/tzgg/sbfw/jcxy/art/2022/art_aeea845f872547198f1c2cbd5ba39888.html)
-- [九部门关于印发“十四五”医药工业发展规划的通知](
-  https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2022/art_1bc9be0101bb4c6d902f3e5904780119.html)
-- [关于印发“十四五”医疗装备产业发展规划的通知](
-  https://www.miit.gov.cn/jgsj/zbys/wjfb/art/2021/art_9dcd306998e04fa7945b401950eaf801.html)
-- [关于印发“十四五”促进中小企业发展规划的通知](
-  https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_bed2939fdf834bb7872f3aaaf29673ed.html)
+- [工业和信息化部关于印发“十四五”软件和信息技术服务业发展规划的通知](  https://www.miit.gov.cn/jgsj/xxjsfzs/rjcy/art/2021/art_f99d51c91a684c1685db14f041af9bf3.html)
+- [工业和信息化部关于印发“十四五”信息化和工业化深度融合发展规划的通知](  https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_117ccbb3dd4f4a27b21d988fbaa8b625.html)
+- [关于印发“十四五”智能制造发展规划的通知](  https://www.miit.gov.cn/jgsj/zbys/znzz/art/2021/art_c6aa629b6f124ec7bd44940b6cffb3ef.html)
+- [工业和信息化部关于印发《“十四五”工业绿色发展规划》的通知](  https://www.miit.gov.cn/jgsj/jns/wjfb/art/2021/art_2735a1da5a5347c5bb4e7ac765f62bd7.html)
+- [关于印发“十四五”机器人产业发展规划的通知](  https://www.miit.gov.cn/ztzl/rdzt/znzzxggz/wjfb/art/2021/art_22606018dd934f9d9790998be974ecbb.html)
+- [工业和信息化部关于印发“十四五”大数据产业发展规划的通知](  https://www.miit.gov.cn/jgsj/xxjsfzs/wjfb/art/2021/art_a7a3ea67af254d13a6a07d5a098e727f.html)
+- [工业和信息化部关于印发“十四五”信息通信行业发展规划的通知](  https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_3a0b0c726bd94b7d9b5092770d581c73.html)
+- [三部委关于印发“十四五”原材料工业发展规划的通知](  https://ythxxfb.miit.gov.cn/ythzxfwpt/hlwmh/tzgg/sbfw/jcxy/art/2022/art_aeea845f872547198f1c2cbd5ba39888.html)
+- [九部门关于印发“十四五”医药工业发展规划的通知](  https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2022/art_1bc9be0101bb4c6d902f3e5904780119.html)
+- [关于印发“十四五”医疗装备产业发展规划的通知](  https://www.miit.gov.cn/jgsj/zbys/wjfb/art/2021/art_9dcd306998e04fa7945b401950eaf801.html)
+- [关于印发“十四五”促进中小企业发展规划的通知](  https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2021/art_bed2939fdf834bb7872f3aaaf29673ed.html)

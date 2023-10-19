@@ -1,10 +1,16 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [白皮书：304 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
+- [白皮书：310 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[数据要素白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/t20230926_462892.htm)|2023-09-26|[数据要素白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/P020230926495254355530.pdf)
+|[中国算力发展指数白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/t20230914_461823.htm)|2023-09-14|[中国算力发展指数白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/P020230914584614752938.pdf)
+|[中国无线经济发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/t20230914_461822.htm)|2023-09-14|[中国无线经济发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/P020230914583102836895.pdf)
+|[中国综合算力评价白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/t20230906_461185.htm)|2023-09-06|[中国综合算力评价白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/P020230906485351670771.pdf)
+|[云计算白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202307/t20230725_458185.htm)|2023-07-25|[云计算白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202307/P020230725521473129120.pdf)
+|[优化营商环境研究报告——信息通信行业管理的改革和实践（202...](http://www.caict.ac.cn/kxyj/qwfb/bps/202307/t20230720_457629.htm)|2023-07-20|[优化营商环境研究报告——信息通信行业管理的改革和实践（202...](http://www.caict.ac.cn/kxyj/qwfb/bps/202307/P020230720681090316925.pdf)
 |[中国数字经济发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202304/t20230427_419051.htm)|2023-04-27|[中国数字经济发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202304/P020230427572038320317.pdf)
 |[2022中国信通院“集智”白皮书大礼包](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230119_414770.htm)|2023-01-19|[2022中国信通院“集智”白皮书大礼包](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230119434521488830.zip)
 |[网络立法白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/t20230112_414232.htm)|2023-01-12|[网络立法白皮书（2022年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202301/P020230114499859875704.pdf)

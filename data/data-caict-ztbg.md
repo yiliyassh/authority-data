@@ -1,10 +1,23 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [专题报告：257 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+- [专题报告：270 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[互联网域名产业报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202310/t20231009_463266.htm)|2023-10-09|[互联网域名产业报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202310/P020231009556954794567.pdf)
+|[平台经济发展观察（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202309/t20230927_462941.htm)|2023-09-27|[平台经济发展观察（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202309/P020230927586415828339.pdf)
+|[车载激光雷达技术与应用研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202309/t20230920_462390.htm)|2023-09-20|[车载激光雷达技术与应用研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202309/P020230920619753767682.pdf)
+|[零信任发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202308/t20230828_460492.htm)|2023-08-28|[零信任发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202308/P020230828402611317149.pdf)
+|[面向泛在入算的OTN P2MP品质专线研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202308/t20230821_460048.htm)|2023-08-21|[面向泛在入算的OTN P2MP品质专线研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202308/P020230825391344499062.pdf)
+|[中国绿色算力发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202308/t20230801_458686.htm)|2023-08-01|[中国绿色算力发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202308/P020230801406384030847.pdf)
+|[制造业上市公司高质量发展评价研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/t20230728_458438.htm)|2023-07-28|[制造业上市公司高质量发展评价研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/P020230728598234346559.pdf)
+|[企业智慧运营研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/t20230727_458337.htm)|2023-07-27|[企业智慧运营研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202308/P020230814589673287874.pdf)
+|[中国算力服务研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/t20230727_458297.htm)|2023-07-27|[中国算力服务研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/P020230727359068140192.pdf)
+|[5G智慧海洋发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/t20230720_457598.htm)|2023-07-20|[5G智慧海洋发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/P020230720477031864157.pdf)
+|[数字政府蓝皮报告——业务场景视图与先锋实践（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/t20230719_457577.htm)|2023-07-19|[数字政府蓝皮报告——业务场景视图与先锋实践（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/P020230719429620396221.pdf)
+|[全球海底光缆产业发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/t20230707_440299.htm)|2023-07-07|[全球海底光缆产业发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/P020230718390842938808.pdf)
+|[中国第三方数据中心服务商分析报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/t20230706_440185.htm)|2023-07-06|[中国第三方数据中心服务商分析报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202307/P020230706731265165322.pdf)
 |[我国“亩均论英雄”改革地方实践与发展展望（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230625_438944.htm)|2023-06-25|[我国“亩均论英雄”改革地方实践与发展展望（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230625394975884560.pdf)
 |[数字技术赋能碳中和案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230616_438727.htm)|2023-06-16|[数字技术赋能碳中和案例汇编（2022年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230616591579211505.pdf)
 |[全球自动驾驶战略与政策观察——政策助力L4级自动驾驶开启无...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/t20230615_438712.htm)|2023-06-15|[全球自动驾驶战略与政策观察——政策助力L4级自动驾驶开启无...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202306/P020230615549938227507.pdf)
