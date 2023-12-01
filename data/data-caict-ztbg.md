@@ -5,6 +5,11 @@
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[数字广告数据要素流通保障技术研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202311/t20231129_466793.htm)|2023-11-29|[数字广告数据要素流通保障技术研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202311/P020231129635125170139.pdf)
+|[大模型治理蓝皮报告（2023年）——从规则走向实践](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202311/t20231124_466440.htm)|2023-11-24|[大模型治理蓝皮报告（2023年）——从规则走向实践](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202311/P020231124526622371194.pdf)
+|[光计算技术与产业发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202311/t20231122_466251.htm)|2023-11-22|[光计算技术与产业发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202311/P020231122389415230856.pdf)
+|[数据清洗、去标识化、匿名化业务规程（试行）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202311/t20231117_466028.htm)|2023-11-17|[数据清洗、去标识化、匿名化业务规程（试行）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202311/P020231117626922388674.pdf)
+|[中国数字化绿色化协同转型发展进程报告（2023）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202311/t20231110_465548.htm)|2023-11-10|[中国数字化绿色化协同转型发展进程报告（2023）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202311/P020231110566201824016.pdf)
 |[互联网域名产业报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202310/t20231009_463266.htm)|2023-10-09|[互联网域名产业报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202310/P020231009556954794567.pdf)
 |[平台经济发展观察（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202309/t20230927_462941.htm)|2023-09-27|[平台经济发展观察（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202309/P020230927586415828339.pdf)
 |[车载激光雷达技术与应用研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202309/t20230920_462390.htm)|2023-09-20|[车载激光雷达技术与应用研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202309/P020230920619753767682.pdf)

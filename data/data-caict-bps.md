@@ -5,6 +5,10 @@
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[互联网行业可持续信息披露发展报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202311/t20231129_466794.htm)|2023-11-29|[互联网行业可持续信息披露发展报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202311/P020231129695427339720.pdf)
+|[全球数字经贸规则年度观察报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202311/t20231127_466665.htm)|2023-11-27|[全球数字经贸规则年度观察报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202311/P020231127666174741755.pdf)
+|[元宇宙白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202311/t20231123_466324.htm)|2023-11-23|[元宇宙白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202311/P020231123350640273521.pdf)
+|[数字消费者权益保护白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202310/t20231031_464867.htm)|2023-10-31|[数字消费者权益保护白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202310/P020231031738800013512.pdf)
 |[数据要素白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/t20230926_462892.htm)|2023-09-26|[数据要素白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/P020230926495254355530.pdf)
 |[中国算力发展指数白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/t20230914_461823.htm)|2023-09-14|[中国算力发展指数白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/P020230914584614752938.pdf)
 |[中国无线经济发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/t20230914_461822.htm)|2023-09-14|[中国无线经济发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202309/P020230914583102836895.pdf)
