@@ -1,10 +1,12 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [白皮书：310 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
+- [白皮书：312 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[区块链白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/t20231207_467544.htm)|2023-12-07|[区块链白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020231207518702725959.pdf)
+|[中国县域工业经济发展报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/t20231207_467540.htm)|2023-12-07|[中国县域工业经济发展报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020231207391735190526.pdf)
 |[互联网行业可持续信息披露发展报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202311/t20231129_466794.htm)|2023-11-29|[互联网行业可持续信息披露发展报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202311/P020231129695427339720.pdf)
 |[全球数字经贸规则年度观察报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202311/t20231127_466665.htm)|2023-11-27|[全球数字经贸规则年度观察报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202311/P020231127666174741755.pdf)
 |[元宇宙白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202311/t20231123_466324.htm)|2023-11-23|[元宇宙白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202311/P020231123350640273521.pdf)

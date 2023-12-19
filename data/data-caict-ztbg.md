@@ -1,10 +1,15 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [专题报告：270 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+- [专题报告：275 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[人工智能知识产权法律问题研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231214_468072.htm)|2023-12-14|[人工智能知识产权法律问题研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231214536394565312.pdf)
+|[电信基础设施跨行业共建共享研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231212_467955.htm)|2023-12-12|[电信基础设施跨行业共建共享研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231212799253148938.pdf)
+|[实时云渲染技术与产业发展研究报告（2023）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231212_467954.htm)|2023-12-12|[实时云渲染技术与产业发展研究报告（2023）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231212624931839073.pdf)
+|[移动物联网业务转售研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231211_467886.htm)|2023-12-11|[移动物联网业务转售研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231211635897901732.pdf)
+|[城市制造业高质量发展评价研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231201_467103.htm)|2023-12-01|[城市制造业高质量发展评价研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231201659154121364.pdf)
 |[数字广告数据要素流通保障技术研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202311/t20231129_466793.htm)|2023-11-29|[数字广告数据要素流通保障技术研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202311/P020231129635125170139.pdf)
 |[大模型治理蓝皮报告（2023年）——从规则走向实践](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202311/t20231124_466440.htm)|2023-11-24|[大模型治理蓝皮报告（2023年）——从规则走向实践](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202311/P020231124526622371194.pdf)
 |[光计算技术与产业发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202311/t20231122_466251.htm)|2023-11-22|[光计算技术与产业发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202311/P020231122389415230856.pdf)
