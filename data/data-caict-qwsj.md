@@ -1,10 +1,11 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [权威数据：601 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
+- [权威数据：602 个](http://www.caict.ac.cn/kxyj/qwfb/qwsj/)
 
 |名称（点击下载）|发布日期|
 |:----|:----|
+|[2023年11月国内手机市场运行分析报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202312/P020231227615048588611.pdf)|2023-12-27
 |[2023年10月国内手机市场运行分析报告](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202312/P020231213639179507276.pdf)|2023-12-13
 |[数字乡村发展动态（2023年第10期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202312/P020231211514719384341.pdf)|2023-12-11
 |[信息无障碍动态（2023年第11期）](http://www.caict.ac.cn/kxyj/qwfb/qwsj/202312/P020231206536870480948.pdf)|2023-12-06

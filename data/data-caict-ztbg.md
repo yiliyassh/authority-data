@@ -1,10 +1,22 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [专题报告：275 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+- [专题报告：287 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[区块链基础设施研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202401/t20240109_469913.htm)|2024-01-09|[区块链基础设施研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202401/P020240109608426916949.pdf)
+|[“亩均论英雄”改革典型案例集（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202401/t20240104_469532.htm)|2024-01-04|[“亩均论英雄”改革典型案例集（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202401/P020240105506050522376.pdf)
+|[光传送网（OTN）专线洞察报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231229_469217.htm)|2023-12-29|[光传送网（OTN）专线洞察报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231229553373177664.pdf)
+|[工业互联网标识应用成效评估报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231229_469201.htm)|2023-12-29|[工业互联网标识应用成效评估报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231229425872669580.pdf)
+|[ICT行业绿色低碳发展报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231228_469131.htm)|2023-12-28|[ICT行业绿色低碳发展报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231228759315861293.pdf)
+|[产品数字护照（DPP）技术发展报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231228_469130.htm)|2023-12-28|[产品数字护照（DPP）技术发展报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231229522089939062.pdf)
+|[Web3示范区建设指南（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231228_469129.htm)|2023-12-28|[Web3示范区建设指南（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231228725924446473.pdf)
+|[SVAC视音频可信编解码技术与应用研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231226_468984.htm)|2023-12-26|[SVAC视音频可信编解码技术与应用研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231226627072741446.pdf)
+|[人工智能伦理治理研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231226_468983.htm)|2023-12-26|[人工智能伦理治理研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202401/P020240103531660935078.pdf)
+|[可观测性技术发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231225_468926.htm)|2023-12-25|[可观测性技术发展研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231229323602819435.pdf)
+|[量子计算发展态势研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231222_468690.htm)|2023-12-22|[量子计算发展态势研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231228351430445406.pdf)
+|[公共数据授权运营发展洞察（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231221_468606.htm)|2023-12-21|[公共数据授权运营发展洞察（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231221390945017197.pdf)
 |[人工智能知识产权法律问题研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231214_468072.htm)|2023-12-14|[人工智能知识产权法律问题研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231214536394565312.pdf)
 |[电信基础设施跨行业共建共享研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231212_467955.htm)|2023-12-12|[电信基础设施跨行业共建共享研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231212799253148938.pdf)
 |[实时云渲染技术与产业发展研究报告（2023）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231212_467954.htm)|2023-12-12|[实时云渲染技术与产业发展研究报告（2023）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231212624931839073.pdf)

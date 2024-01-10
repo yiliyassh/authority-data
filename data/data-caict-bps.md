@@ -1,10 +1,22 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [白皮书：312 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
+- [白皮书：324 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[全球数字经济白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/t20240109_469903.htm)|2024-01-09|[全球数字经济白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/P020240109492552259509.pdf)
+|[数字孪生城市白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/t20240104_469531.htm)|2024-01-04|[数字孪生城市白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/P020240104601646537097.pdf)
+|[中国5G发展和经济社会影响白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/t20240104_469498.htm)|2024-01-04|[中国5G发展和经济社会影响白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/P020240109335894274279.pdf)
+|[中国工业经济发展形势展望（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/t20240104_469478.htm)|2024-01-04|[中国工业经济发展形势展望（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/P020240104341576188414.pdf)
+|[中国宽带发展白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/t20240102_469295.htm)|2024-01-02|[中国宽带发展白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/P020240102659083178001.pdf)
+|[全球数字治理白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/t20240102_469285.htm)|2024-01-02|[全球数字治理白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/P020240103389490640356.pdf)
+|[全球Web3技术产业生态发展报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/t20231229_469209.htm)|2023-12-29|[全球Web3技术产业生态发展报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020231229508989398821.pdf)
+|[新发展阶段工业绿色低碳发展路径研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/t20231228_469128.htm)|2023-12-28|[新发展阶段工业绿色低碳发展路径研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020231228645276077183.pdf)
+|[脑机接口技术发展与应用研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/t20231226_468943.htm)|2023-12-26|[脑机接口技术发展与应用研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020231226331199738784.pdf)
+|[电信业发展白皮书（2023年）——新时代高质量发展探索](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/t20231222_468697.htm)|2023-12-22|[电信业发展白皮书（2023年）——新时代高质量发展探索](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020231228509207398360.pdf)
+|[量子信息技术发展与应用研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/t20231222_468689.htm)|2023-12-22|[量子信息技术发展与应用研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020231222494804534361.pdf)
+|[车联网白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/t20231221_468607.htm)|2023-12-21|[车联网白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020231221344824574866.pdf)
 |[区块链白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/t20231207_467544.htm)|2023-12-07|[区块链白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020231207518702725959.pdf)
 |[中国县域工业经济发展报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/t20231207_467540.htm)|2023-12-07|[中国县域工业经济发展报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202312/P020231207391735190526.pdf)
 |[互联网行业可持续信息披露发展报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202311/t20231129_466794.htm)|2023-11-29|[互联网行业可持续信息披露发展报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202311/P020231129695427339720.pdf)
