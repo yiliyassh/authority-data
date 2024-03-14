@@ -1,10 +1,14 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [白皮书：324 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
+- [白皮书：328 个](http://www.caict.ac.cn/kxyj/qwfb/bps/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[2023中国信通院“集智”白皮书大礼包](http://www.caict.ac.cn/kxyj/qwfb/bps/202402/t20240205_471783.htm)|2024-02-05|[2023中国信通院“集智”白皮书大礼包](http://www.caict.ac.cn/kxyj/qwfb/bps/202402/P020240207322571021906.zip)
+|[数字政府一体化建设白皮书（2024年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202402/t20240204_471663.htm)|2024-02-04|[数字政府一体化建设白皮书（2024年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202402/P020240206380527518999.pdf)
+|[互联网法律白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/t20240122_470753.htm)|2024-01-22|[互联网法律白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/P020240122626566571348.pdf)
+|[全球产业创新生态发展报告（2023年）——数字创新高地全球图...](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/t20240119_470558.htm)|2024-01-19|[全球产业创新生态发展报告（2023年）——数字创新高地全球图...](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/P020240119488772206298.pdf)
 |[全球数字经济白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/t20240109_469903.htm)|2024-01-09|[全球数字经济白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/P020240109492552259509.pdf)
 |[数字孪生城市白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/t20240104_469531.htm)|2024-01-04|[数字孪生城市白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/P020240104601646537097.pdf)
 |[中国5G发展和经济社会影响白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/t20240104_469498.htm)|2024-01-04|[中国5G发展和经济社会影响白皮书（2023年）](http://www.caict.ac.cn/kxyj/qwfb/bps/202401/P020240109335894274279.pdf)

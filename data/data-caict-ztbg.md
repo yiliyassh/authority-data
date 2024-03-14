@@ -1,10 +1,18 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)
 
 ## [中国信通院](http://www.caict.ac.cn/kxyj/) :+1::+1::+1:
-- [专题报告：287 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
+- [专题报告：295 个](http://www.caict.ac.cn/kxyj/qwfb/ztbg/)
 
 |名称（详情）|发布日期|下载（点击）|
 |:----|:----|:----|
+|[重点行业产业链供应链绿色发展路径研究报告（2024年）——以...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202403/t20240312_473556.htm)|2024-03-12|[重点行业产业链供应链绿色发展路径研究报告（2024年）——以...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202403/P020240313494181657002.pdf)
+|[数字碳中和优秀企业实践案例集 工业篇（2024年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202402/t20240208_471935.htm)|2024-02-08|[数字碳中和优秀企业实践案例集 工业篇（2024年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202402/P020240208433543113470.pdf)
+|[数字碳中和 工业篇（2024年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202402/t20240208_471934.htm)|2024-02-08|[数字碳中和 工业篇（2024年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202402/P020240208432797086967.pdf)
+|[数字时代治理现代化研究报告（2023年）——大模型在政务领域...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202402/t20240204_471695.htm)|2024-02-04|[数字时代治理现代化研究报告（2023年）——大模型在政务领域...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202402/P020240204637794572244.pdf)
+|[联邦学习应用安全研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202402/t20240201_471400.htm)|2024-02-01|[联邦学习应用安全研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202402/P020240201361145909177.pdf)
+|[电动化、网联化、智能化时代新能源汽车产业链全要素生产率报...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202401/t20240130_471248.htm)|2024-01-30|[电动化、网联化、智能化时代新能源汽车产业链全要素生产率报...](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202401/P020240130561587956295.pdf)
+|[数字孪生城市建设指引报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202401/t20240126_471056.htm)|2024-01-26|[数字孪生城市建设指引报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202401/P020240129616217814110.pdf)
+|[全球数字平台治理最新发展态势（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202401/t20240117_470347.htm)|2024-01-17|[全球数字平台治理最新发展态势（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202402/P020240220411461892523.pdf)
 |[区块链基础设施研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202401/t20240109_469913.htm)|2024-01-09|[区块链基础设施研究报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202401/P020240109608426916949.pdf)
 |[“亩均论英雄”改革典型案例集（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202401/t20240104_469532.htm)|2024-01-04|[“亩均论英雄”改革典型案例集（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202401/P020240105506050522376.pdf)
 |[光传送网（OTN）专线洞察报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/t20231229_469217.htm)|2023-12-29|[光传送网（OTN）专线洞察报告（2023年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202312/P020231229553373177664.pdf)
