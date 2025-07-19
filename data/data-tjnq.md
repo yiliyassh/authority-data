@@ -2,8 +2,9 @@
 ## [中国统计年鉴](http://www.stats.gov.cn/sj/ndsj/) :+1::+1::+1:
 - 下载历年统计年签
 
-| 中文（1999-2023）                                                 | 英文（2007-2023）                                             |
+| 中文（1999-2024）                                                 | 英文（2007-2024）                                             |
 |:--------------------------------------------------------------|:----------------------------------------------------------|
+| [2024年](http://www.stats.gov.cn/sj/ndsj/2024/indexch.htm)     | [2024年](http://www.stats.gov.cn/sj/ndsj/2024/indexeh.htm) 
 | [2023年](http://www.stats.gov.cn/sj/ndsj/2023/indexch.htm)     | [2023年](http://www.stats.gov.cn/sj/ndsj/2023/indexeh.htm) 
 | [2022年](http://www.stats.gov.cn/sj/ndsj/2022/indexch.htm)     | [2022年](http://www.stats.gov.cn/sj/ndsj/2022/indexeh.htm) 
 | [2021年](http://www.stats.gov.cn/sj/ndsj/2021/indexch.htm)     | [2021年](http://www.stats.gov.cn/sj/ndsj/2021/indexeh.htm) 

@@ -1,4 +1,4 @@
-# 官方权威统计数据（持续更新：2024-10-24）
+# 官方权威统计数据（持续更新：2025-7-20）
 每周更新  ^_^  
 收集整理【官方权威】公开数据    
 （  注：:o: 一般   :+1: 好评 :+1::+1: 推荐 :+1::+1::+1: 强烈推荐   :x: 差评）    
@@ -8,17 +8,17 @@
 
 ***
 ## [1.中国统计年鉴](http://www.stats.gov.cn/sj/ndsj/) :+1::+1::+1:  
->中文版：1999-2023年，25年官方权威数据  
-英文版：2004-2023年，20年官方权威数据  
-> 
-😄 [最新：2023年中国统计年鉴](https://www.stats.gov.cn/sj/ndsj/2023/indexch.htm)
+>中文版：1999-2024年，26年官方权威数据  
+英文版：2004-2024年，20年官方权威数据  
+>   
+😄 [最新：2024年中国统计年鉴](https://www.stats.gov.cn/sj/ndsj/2024/indexch.htm)
 -  [统计指标-中英文对照](./data/data-tjnq-zb.md)
 -  [镜像](./data/data-tjnq.md)  |  [下载](./data/data.md)
 ***
-## [2.全国年度统计公报](http://www.stats.gov.cn/sj/tjgb/ndtjgb/)
->1978~2023年，46年官方权威数据
+## [2.全国年度统计公报](https://www.stats.gov.cn/sj/tjgb/ndtjgb/qgndtjgb/)
+>1978~2024年，46年官方权威数据
 > 
-😄 [最新：2023年国民经济和社会发展统计公报](https://www.stats.gov.cn/sj/zxfb/202402/t20240228_1947915.html)
+😄 [最新：2024年国民经济和社会发展统计公报](https://www.stats.gov.cn/sj/zxfb/202502/t20250228_1958817.html)
 - [镜像](./data/data-tjgb.md)  |  [下载](./data/data.md)
 ***
 ## [3.工信数据（工业和信息化部）](https://www.miit.gov.cn/gxsj/index.html) :+1::+1::+1:  
@@ -27,39 +27,32 @@
 
 |行业|名称（详情）|发布日期|
 |:----|:----|:----|  
-|原材料工业|[2023年有色金属行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/ys/art/2024/art_6d4792354c2745e0a2574bf3955b2b9f.html)|02-07
-|原材料工业|[2023年光伏压延玻璃行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/yclgy/jc/art/2024/art_93c056e74d7349f891082ca07c5e0f67.html)|01-19
-|装备工业|[2024年5月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2024/art_569892b2e91c4deaa8e865025922b276.html)|06-14
-|装备工业|[2024年4月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2024/art_c4e8e240e8ac44e1989c9d1e1d58ac8d.html)|05-11
-|装备工业|[2024年3月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2024/art_44af73fb960c4b0087ba49c16b0dfcb3.html)|04-10
-|消费品工业|[2024年1－3月造纸行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2024/art_f15a5f54d09e4d47be6181c875c3a845.html)|05-23
-|消费品工业|[2024年1－3月塑料制品行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2024/art_f9bd367643b240a0ade939f9e2da1ea5.html)|05-23
-|消费品工业|[2024年1－3月皮革行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2024/art_25528ca591904322ba22e41de025eb66.html)|05-23
-|消费品工业|[2024年1－3月家电行业生产情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/jd/art/2024/art_21f6adbfa3394e12b25f0c8911f2ed0f.html)|05-23
-|消费品工业|[2024年1－3月家具行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/qg/art/2024/art_302b59a4253f418e9d36481e8a81c8f2.html)|05-23
-|通信业|[2024年4月互联网宽带接入用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2024/art_3f9eb0d00347487d877a8d1ba00b6058.html)|05-21
-|通信业|[2024年一季度通信水平分省情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2024/art_0671f118fc964590ab7c2b8963505776.html)|04-19
-|电子信息制造业|[2024年1－4月全国光伏制造行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2024/art_6545cae07dd34d58bea700b5729f5d3c.html)|06-12
-|电子信息制造业|[2024年1－4月全国锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2024/art_f1eb1f8d5b9d4139a36f8ce6c88d8a3d.html)|06-07
-|电子信息制造业|[2024年1－4月电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2024/art_20f4d869e6154f4d8b27259b24f84806.html)|05-29
-|软件业|[2024年1－4月份软件和信息技术服务业主要经济指标完成情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2024/art_7e07b146162d4ef2b7794c37f291c636.html)|05-28
-|软件业|[2024年1－4月份软件和信息技术服务业主要指标](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2024/art_a851773659874989986a469c916fc3fa.html)|05-28
-|软件业|[2024年1－4月份软件业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2024/art_7ae8ce867fc14321b46aa643a527a1b8.html)|05-28
-|互联网|[2024年4月电话用户分省情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2024/art_377fecacdb7c44ddaed34cc8b0da959b.html)|05-21
-|互联网|[2024年1－4月通信业主要指标完成情况（二）](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2024/art_e555ecb9437b42cf8dbb74f913450090.html)|05-21
-|互联网|[2024年1－4月通信业主要指标完成情况（一）](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2024/art_2b8ceeafda724db68f9327a0bafa0117.html)|05-21
-|互联网|[2024年1－4月份通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2024/art_0d9cab438f7d4370814a1da1414ae6eb.html)|05-21
-|网络安全|[3月4日－3月10日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2024/art_2243a8d3e4064506ae239d7871402dcf.html)|03-13
-|网络安全|[2月26日－3月3日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2024/art_95d44ca617864f6b9669d35c1790e46c.html)|03-06
-|网络安全|[2月19日－2月25日网络安全信息与动态周报](https://www.miit.gov.cn/gxsj/tjfx/wlaq/art/2024/art_675e5aac373d49fea85ce794452c30ba.html)|02-28
-
+|装备工业|[2025年6月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2025/art_c0d30c8aeac2422c827ec8e55b65882a.html)|07-10
+|装备工业|[2025年5月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2025/art_608b78de2a3448939c1fbef58abe404a.html)|06-16
+|装备工业|[2025年4月汽车工业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2025/art_c8b832dc343f41c68265ca362bb2b9a7.html)|05-12
+|消费品工业|[2025年1－5月纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2025/art_95d2de0e75a84c1d96cb6f69335931bb.html)|07-07
+|消费品工业|[2025年1－4月纺织行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2025/art_91f89644d49548dc805c7e6edb552724.html)|07-07
+|消费品工业|[2025年一季度纺织实现平稳开局](https://www.miit.gov.cn/gxsj/tjfx/xfpgy/fz/art/2025/art_b5a20056eef34713b58ae96174e1e99e.html)|05-06
+|通信业|[2025年前5个月通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2025/art_4c9b125cb0654088ab5b3fc9992f2b5d.html)|06-25
+|通信业|[2025年前4个月通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2025/art_eda099a1dc7c4cf48c3e222458faa3b1.html)|05-23
+|通信业|[2025年一季度通信业经济运行情况](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2025/art_eb6f118eaffc4295a6aae640075897f4.html)|04-22
+|电子信息制造业|[2025年1－5月电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2025/art_f379db7aecd545b287118dc903567808.html)|06-30
+|电子信息制造业|[2025年1－4月全国锂离子电池行业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2025/art_d7af22f806cd42928f5ae531aca47f45.html)|06-13
+|电子信息制造业|[2025年1－4月电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2025/art_8de29cf0fafa4b16935f4a8e9b1c6728.html)|05-30
+|电子信息制造业|[2025年一季度电子信息制造业运行情况](https://www.miit.gov.cn/gxsj/tjfx/dzxx/art/2025/art_b5ec47d30b4243998fdc4a677b8f1855.html)|04-30
+|软件业|[2025年1－5月份软件业运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2025/art_e2831cec4cd443e2b4a02e1d4a1832fb.html)|07-02
+|软件业|[2025年1－4月份软件业运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2025/art_fbff10f570c14a55a0d79716f8c760b6.html)|05-30
+|软件业|[2025年一季度软件业运行情况](https://www.miit.gov.cn/gxsj/tjfx/rjy/art/2025/art_0edd0224444242f1920e32e0503aceb5.html)|04-30
+|互联网|[2025年1－5月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2025/art_8805da85aec14555b88e36da36ea4e27.html)|07-01
+|互联网|[2025年1－4月份互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2025/art_c347d4b163e8475689f2e7f8ed317767.html)|05-30
+|互联网|[2025年一季度互联网和相关服务业运行情况](https://www.miit.gov.cn/gxsj/tjfx/hlw/art/2025/art_f890e764fb004e829e44f4a1b13eb0f8.html)|04-30
 
 ***
 ## [4.中国互联网络发展状况统计报告](http://www.cnnic.net.cn/6/86/88/index.html) :+1::+1::+1:  
 >1998~2024年，27年官方权威数据
 >
-😄 [最新：第53次《中国互联网络发展状况统计报告》](https://www.cnnic.net.cn/NMediaFile/2024/0325/MAIN1711355296414FIQ9XKZV63.pdf)  
-截至2024年6月，我国网民规模为11亿人（10.9967亿人），互联网普及率达78.0%。
+😄 [最新：第55次《中国互联网络发展状况统计报告》](http://www.cnnic.net.cn/NMediaFile/2025/0428/MAIN17458061595875K4FP1NEUO.pdf)  
+截至2024年12月，我国网民规模为11.08亿人，互联网普及率达78.6%。
 -  [镜像](./data/data-internet.md)    |  [下载](./data/data.md)
 - [第54次《中国互联网络发展状况统计报告》（2024年8月）](https://www.cnnic.net.cn/NMediaFile/2024/0911/MAIN1726017626560DHICKVFSM6.pdf)
 - [第53次《中国互联网络发展状况统计报告》（2024年3月）](https://www.cnnic.net.cn/NMediaFile/2024/0325/MAIN1711355296414FIQ9XKZV63.pdf)

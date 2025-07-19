@@ -1,12 +1,13 @@
 -  [**返回**](../README.md)  | [**下载**](./data.md)  
 ## [全国年度统计公报](http://www.stats.gov.cn/sj/tjgb/ndtjgb/) :+1::+1::+1:
-- [2023年国民经济和社会发展统计公报](https://www.stats.gov.cn/sj/zxfb/202402/t20240228_1947915.html)
+- [2024年国民经济和社会发展统计公报](https://www.stats.gov.cn/sj/tjgb/ndtjgb/qgndtjgb/sj/zxfb/202502/t20250228_1958817.html)
 
 ### 下载统计公报 :+1::+1::+1:
 
 | 年度                                                                     |发布日期|
 |:-----------------------------------------------------------------------|:----|
-|[2023年](https://www.stats.gov.cn//sj/zxfb/202402/t20240228_1947915.html)|2024-02-29
+|[2024年](https://www.stats.gov.cn/sj/zxfb/202502/t20250228_1958817.html)|2025-02-28
+|[2023年](https://www.stats.gov.cn/sj/zxfb/202402/t20240228_1947915.html)|2024-02-29
 |[2022年](https://www.stats.gov.cn//sj/zxfb/202302/t20230228_1919011.html)|2023-03-01
 |[2021年](https://www.stats.gov.cn//sj/zxfb/202302/t20230203_1901393.html)|2022-02-28
 |[2020年](https://www.stats.gov.cn//sj/zxfb/202302/t20230203_1901004.html)|2021-02-28
